@@ -1,0 +1,10 @@
+// Shared.xcconfig — settings comunes a todas las configuraciones.
+// Referenciado desde Debug.xcconfig y Release.xcconfig.
+
+// Info.plist físico (RNF-03: ATS con exception para localhost).
+INFOPLIST_FILE = ReviewSummarizer/Info.plist
+GENERATE_INFOPLIST_FILE = NO
+
+// Plataforma (RNF-01).
+IPHONEOS_DEPLOYMENT_TARGET = 26.0
+SWIFT_VERSION = 6.0

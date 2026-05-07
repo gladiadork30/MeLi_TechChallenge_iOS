@@ -1,0 +1,7 @@
+// Debug.xcconfig — apunta al mock de Proxyman en localhost (RF-01, §6.5).
+
+#include "Shared.xcconfig"
+
+// URL base del backend mock. Solo HTTP cuando el host es localhost (RNF-03).
+// Override en runtime: ProcessInfo.environment["BACKEND_BASE_URL"].
+BACKEND_BASE_URL = http:/$()/localhost:9090
