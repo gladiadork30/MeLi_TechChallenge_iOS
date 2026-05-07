@@ -1,5 +1,6 @@
 import Foundation
 import SwiftData
+import SwiftUI
 
 /// Composition Root: arma todas las dependencias de la app sin un framework
 /// de DI externo (§3 reglas de dependencia).
@@ -67,5 +68,22 @@ final class CompositionRoot {
         )
     }
 
-    // makeProductDetailViewModel(product:) se agrega en Fase 9 (T-091).
+    func makeProductDetailViewModel(product: Product) -> ProductDetailViewModel {
+        ProductDetailViewModel(
+            product: product,
+            summarizer: summarizerService,
+            getCachedSummary: getCachedSummaryUseCase,
+            generateSummaryUseCase: generateSummaryUseCase,
+            canGenerateSummary: canGenerateSummaryUseCase
+        )
+    }
+
+    /// Construye la vista de detalle ya cableada con su VM y dependencias.
+    @ViewBuilder
+    func makeProductDetailView(product: Product) -> some View {
+        ProductDetailView(
+            viewModel: makeProductDetailViewModel(product: product),
+            computeAverageRating: computeAverageRatingUseCase
+        )
+    }
 }
