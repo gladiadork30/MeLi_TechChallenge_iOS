@@ -1,0 +1,7 @@
+// Release.xcconfig — para release (igual que Debug en MVP, ya que no hay backend real).
+
+#include "Shared.xcconfig"
+
+// En Release también se apunta a localhost por defecto, dado que el alcance del MVP
+// es contra el mock de Proxyman. Para apuntar a otro host, sobreescribir aquí.
+BACKEND_BASE_URL = http:/$()/localhost:9090
