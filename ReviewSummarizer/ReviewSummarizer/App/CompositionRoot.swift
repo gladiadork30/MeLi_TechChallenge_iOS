@@ -58,8 +58,14 @@ final class CompositionRoot {
     }
 
     // MARK: - View Model factories
-    //
-    // Las factories `makeProductListViewModel()` y
-    // `makeProductDetailViewModel(product:)` se agregan en Fase 8 / Fase 9
-    // cuando los ViewModels existan.
+
+    func makeProductListViewModel() -> ProductListViewModel {
+        ProductListViewModel(
+            fetchProducts: fetchProductsUseCase,
+            summaryRepository: summaryRepository,
+            computeAverageRating: computeAverageRatingUseCase
+        )
+    }
+
+    // makeProductDetailViewModel(product:) se agrega en Fase 9 (T-091).
 }
