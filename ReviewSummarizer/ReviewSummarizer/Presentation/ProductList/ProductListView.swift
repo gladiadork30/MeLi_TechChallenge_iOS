@@ -3,12 +3,15 @@ import SwiftUI
 /// Pantalla "Lista de Productos" (RF-02, RF-13, RF-14, RF-16).
 ///
 /// Maneja los 4 estados (loading/success/empty/error) con los componentes
-/// comunes y soporta pull-to-refresh.
+/// comunes y soporta pull-to-refresh. La construcción del detalle se
+/// inyecta como closure para no acoplar la lista al CompositionRoot.
 struct ProductListView: View {
     @State private var viewModel: ProductListViewModel
+    private let detailFactory: (Product) -> AnyView
 
-    init(viewModel: ProductListViewModel) {
+    init(viewModel: ProductListViewModel, detailFactory: @escaping (Product) -> AnyView) {
         self._viewModel = State(initialValue: viewModel)
+        self.detailFactory = detailFactory
     }
 
     var body: some View {
@@ -16,9 +19,7 @@ struct ProductListView: View {
             content
                 .navigationTitle(Text("list.title"))
                 .navigationDestination(for: Product.self) { product in
-                    // Placeholder hasta T-094 (ProductDetailView).
-                    // T-086 cierra la navegación cuando entre el detalle.
-                    DetailPlaceholderView(product: product)
+                    detailFactory(product)
                 }
         }
         .task {
@@ -79,18 +80,3 @@ struct ProductListView: View {
     }
 }
 
-/// Placeholder temporal hasta que entre `ProductDetailView` (T-094 / Fase 9).
-private struct DetailPlaceholderView: View {
-    let product: Product
-
-    var body: some View {
-        VStack(spacing: 12) {
-            Text(product.title)
-                .font(.title2.bold())
-            Text("Detalle próximamente")
-                .foregroundStyle(.secondary)
-        }
-        .padding()
-        .navigationTitle(Text("Detalle"))
-    }
-}

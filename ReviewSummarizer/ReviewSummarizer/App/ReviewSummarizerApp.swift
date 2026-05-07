@@ -16,7 +16,12 @@ struct ReviewSummarizerApp: App {
 
     var body: some Scene {
         WindowGroup {
-            ProductListView(viewModel: composition.makeProductListViewModel())
+            ProductListView(
+                viewModel: composition.makeProductListViewModel(),
+                detailFactory: { product in
+                    AnyView(composition.makeProductDetailView(product: product))
+                }
+            )
         }
         .modelContainer(composition.modelContainer)
     }
