@@ -1,0 +1,49 @@
+/*
+ Localizable.strings (es)
+ Idioma único del MVP (RNF-06, RN-09).
+ Estructurado por feature para facilitar futura i18n.
+*/
+
+/* MARK: Common */
+"common.loading"  = "Cargando…";
+"common.retry"    = "Reintentar";
+
+/* MARK: Lista de productos */
+"list.title"           = "Productos";
+"list.loading"         = "Cargando productos…";
+"list.error_message"   = "No se pudo conectar con el servidor mock. Verificá que esté corriendo y volvé a intentar.";
+"list.empty_title"     = "No hay productos disponibles";
+"list.empty_message"   = "Volvé a intentarlo más tarde.";
+"list.refresh_failed"  = "No se pudo actualizar. Mostrando lista anterior.";
+"list.review_count %lld" = "%lld reseñas";
+"list.has_cached_summary" = "Tiene resumen generado";
+
+/* MARK: Rating */
+"rating.value %@" = "%@";
+"rating.unrated"  = "Sin calificación";
+
+/* MARK: Detalle de producto */
+"detail.review_count %lld" = "%lld reseñas en total";
+"detail.reviews_title"     = "Reseñas";
+"detail.reviews_empty"     = "Este producto todavía no tiene reseñas.";
+"detail.summary_title"     = "Resumen AI";
+
+/* MARK: Review (a11y) */
+"review.a11y %@ %lld %@" = "Reseña de %1$@, %2$lld estrellas. %3$@";
+"a11y.product_image %@"  = "Imagen del producto %@";
+
+/* MARK: Resumen AI */
+"summary.generate"             = "Generar resumen";
+"summary.generating"           = "Generando resumen…";
+"summary.regenerate"           = "Regenerar resumen";
+"summary.disabled_threshold %lld" = "Necesita más de %lld reseñas para generar un resumen.";
+"summary.unavailable"          = "Resumen AI no disponible en este dispositivo.";
+"summary.error_generic"        = "No se pudo generar el resumen. Intentá nuevamente.";
+"summary.error_overflow"       = "Las reseñas son demasiado largas para resumir en este dispositivo.";
+
+"summary.sentiment_positive" = "Sentimiento general: positivo";
+"summary.sentiment_neutral"  = "Sentimiento general: neutral";
+"summary.sentiment_negative" = "Sentimiento general: negativo";
+
+"summary.strengths_title"  = "Puntos fuertes";
+"summary.weaknesses_title" = "Puntos débiles";

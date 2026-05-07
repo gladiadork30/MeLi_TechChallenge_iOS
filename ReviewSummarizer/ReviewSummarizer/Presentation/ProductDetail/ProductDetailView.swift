@@ -49,7 +49,7 @@ struct ProductDetailView: View {
             .frame(height: 200)
             .frame(maxWidth: .infinity)
             .clipShape(RoundedRectangle(cornerRadius: 12))
-            .accessibilityHidden(true)
+            .accessibilityLabel(Text("a11y.product_image \(viewModel.product.title)"))
 
             Text(viewModel.product.title)
                 .font(.title2.bold())
