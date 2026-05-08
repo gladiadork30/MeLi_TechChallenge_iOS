@@ -24,7 +24,7 @@ App iOS nativa que lista productos desde un mock REST en localhost y genera **re
 
 Video corto (1–2 min) mostrando el flujo principal: lista → detalle → generar resumen → regenerar → persistencia tras relaunch → fallback cuando AI no está disponible.
 
-> _(Adjuntar el archivo de video en el entregable o linkearlo aquí.)_
+> _https://1drv.ms/v/c/ce7c72da04499322/IQCQoyAdWf8ERIg7OohNynSFAayTsGS20vQ-IPNRab0P1Rc?e=KVuYX3_
 
 ---
 
