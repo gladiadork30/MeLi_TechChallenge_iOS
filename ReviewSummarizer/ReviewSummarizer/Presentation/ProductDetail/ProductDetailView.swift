@@ -34,22 +34,11 @@ struct ProductDetailView: View {
 
     private var header: some View {
         VStack(alignment: .leading, spacing: 12) {
-            AsyncImage(url: viewModel.product.imageURL) { phase in
-                switch phase {
-                case .success(let image):
-                    image.resizable().scaledToFill()
-                case .empty:
-                    placeholderImage.overlay(ProgressView())
-                case .failure:
-                    placeholderImage
-                @unknown default:
-                    placeholderImage
-                }
-            }
-            .frame(height: 200)
-            .frame(maxWidth: .infinity)
-            .clipShape(RoundedRectangle(cornerRadius: 12))
-            .accessibilityLabel(Text("a11y.product_image \(viewModel.product.title)"))
+            ProductImageView(url: viewModel.product.imageURL)
+                .aspectRatio(1, contentMode: .fit)
+                .frame(maxWidth: .infinity)
+                .clipShape(RoundedRectangle(cornerRadius: 12))
+                .accessibilityLabel(Text("a11y.product_image \(viewModel.product.title)"))
 
             Text(viewModel.product.title)
                 .font(.title2.bold())
@@ -62,16 +51,6 @@ struct ProductDetailView: View {
                     .foregroundStyle(.secondary)
             }
         }
-    }
-
-    private var placeholderImage: some View {
-        RoundedRectangle(cornerRadius: 12)
-            .fill(Color.secondary.opacity(0.15))
-            .overlay {
-                Image(systemName: "photo")
-                    .font(.title)
-                    .foregroundStyle(.secondary)
-            }
     }
 
     private func ratingDisplay(from result: AverageRating) -> ProductListItemUIModel.RatingDisplay {

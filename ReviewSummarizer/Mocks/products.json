@@ -2,13 +2,13 @@
   {
     "id": "p_001",
     "title": "Toallón de baño 90x150 cm",
-    "imageUrl": "http://localhost:9090/images/p_001.jpg",
+    "imageUrl": "https://picsum.photos/seed/p_001/400/400",
     "reviews": []
   },
   {
     "id": "p_002",
     "title": "Horno eléctrico 36L",
-    "imageUrl": "http://localhost:9090/images/p_002.jpg",
+    "imageUrl": "https://picsum.photos/seed/p_002/400/400",
     "reviews": [
       {
         "author": "Tomás",
@@ -40,7 +40,7 @@
   {
     "id": "p_003",
     "title": "Disco externo SSD 1TB",
-    "imageUrl": "http://localhost:9090/images/p_003.jpg",
+    "imageUrl": "https://picsum.photos/seed/p_003/400/400",
     "reviews": [
       {
         "author": "Tomás",
@@ -77,7 +77,7 @@
   {
     "id": "p_004",
     "title": "Cargador rápido USB-C 65W",
-    "imageUrl": "http://localhost:9090/images/p_004.jpg",
+    "imageUrl": "https://picsum.photos/seed/p_004/400/400",
     "reviews": [
       {
         "author": "Lautaro",
@@ -184,7 +184,7 @@
   {
     "id": "p_005",
     "title": "Cámara Compacta UltraZoom",
-    "imageUrl": "http://localhost:9090/images/p_005.jpg",
+    "imageUrl": "https://picsum.photos/seed/p_005/400/400",
     "reviews": [
       {
         "author": "Martín",
@@ -241,7 +241,7 @@
   {
     "id": "p_006",
     "title": "Manta polar tamaño matrimonial",
-    "imageUrl": "http://localhost:9090/images/p_006.jpg",
+    "imageUrl": "https://picsum.photos/seed/p_006/400/400",
     "reviews": [
       {
         "author": "Felipe",
@@ -288,7 +288,7 @@
   {
     "id": "p_007",
     "title": "Soporte celular auto magnético",
-    "imageUrl": "http://localhost:9090/images/p_007.jpg",
+    "imageUrl": "https://picsum.photos/seed/p_007/400/400",
     "reviews": [
       {
         "author": "Renata",
@@ -395,7 +395,7 @@
   {
     "id": "p_008",
     "title": "Gorra ajustable algodón",
-    "imageUrl": "http://localhost:9090/images/p_008.jpg",
+    "imageUrl": "https://picsum.photos/notfound/p_008",
     "reviews": [
       {
         "author": "Olivia",
@@ -437,7 +437,7 @@
   {
     "id": "p_009",
     "title": "Luz LED recargable para bici",
-    "imageUrl": "http://localhost:9090/images/p_009.jpg",
+    "imageUrl": "https://picsum.photos/seed/p_009/400/400",
     "reviews": [
       {
         "author": "Catalina",
@@ -494,7 +494,7 @@
   {
     "id": "p_010",
     "title": "Cubiertos de acero inox 24 pzs",
-    "imageUrl": "http://localhost:9090/images/p_010.jpg",
+    "imageUrl": "https://picsum.photos/seed/p_010/400/400",
     "reviews": [
       {
         "author": "Federico",
@@ -601,7 +601,7 @@
   {
     "id": "p_011",
     "title": "Casco para bici certificado",
-    "imageUrl": "http://localhost:9090/images/p_011.jpg",
+    "imageUrl": "https://picsum.photos/seed/p_011/400/400",
     "reviews": [
       {
         "author": "Santino",
@@ -698,7 +698,7 @@
   {
     "id": "p_012",
     "title": "Espejo de pared circular",
-    "imageUrl": "http://localhost:9090/images/p_012.jpg",
+    "imageUrl": "https://picsum.photos/seed/p_012/400/400",
     "reviews": [
       {
         "author": "Felipe",
@@ -755,7 +755,7 @@
   {
     "id": "p_013",
     "title": "Microondas 25L digital",
-    "imageUrl": "http://localhost:9090/images/p_013.jpg",
+    "imageUrl": "https://picsum.photos/seed/p_013/400/400",
     "reviews": [
       {
         "author": "Martín",
@@ -787,7 +787,7 @@
   {
     "id": "p_014",
     "title": "Reloj pared minimalista",
-    "imageUrl": "http://localhost:9090/images/p_014.jpg",
+    "imageUrl": "https://picsum.photos/seed/p_014/400/400",
     "reviews": [
       {
         "author": "Agustina",
@@ -834,7 +834,7 @@
   {
     "id": "p_015",
     "title": "Recipientes herméticos x10",
-    "imageUrl": "http://localhost:9090/images/p_015.jpg",
+    "imageUrl": "https://picsum.photos/seed/p_015/400/400",
     "reviews": [
       {
         "author": "Mía",
@@ -876,7 +876,7 @@
   {
     "id": "p_016",
     "title": "Pulsera de actividad inteligente",
-    "imageUrl": "http://localhost:9090/images/p_016.jpg",
+    "imageUrl": "https://picsum.photos/seed/p_016/400/400",
     "reviews": [
       {
         "author": "Bruno",
@@ -973,7 +973,7 @@
   {
     "id": "p_017",
     "title": "Kit de emergencia para auto",
-    "imageUrl": "http://localhost:9090/images/p_017.jpg",
+    "imageUrl": "https://picsum.photos/seed/p_017/400/400",
     "reviews": [
       {
         "author": "Ignacio",
@@ -1055,7 +1055,7 @@
   {
     "id": "p_018",
     "title": "Teclado mecánico retroiluminado",
-    "imageUrl": "http://localhost:9090/images/p_018.jpg",
+    "imageUrl": "https://picsum.photos/seed/p_018/400/400",
     "reviews": [
       {
         "author": "Felipe",
@@ -1122,7 +1122,7 @@
   {
     "id": "p_019",
     "title": "Pelota de fútbol talla 5",
-    "imageUrl": "http://localhost:9090/images/p_019.jpg",
+    "imageUrl": "https://picsum.photos/seed/p_019/400/400",
     "reviews": [
       {
         "author": "Florencia",
@@ -1219,7 +1219,7 @@
   {
     "id": "p_020",
     "title": "Afeitadora eléctrica 4 cabezales",
-    "imageUrl": "http://localhost:9090/images/p_020.jpg",
+    "imageUrl": "https://picsum.photos/seed/p_020/400/400",
     "reviews": [
       {
         "author": "Isabella",
@@ -1301,7 +1301,7 @@
   {
     "id": "p_021",
     "title": "Licuadora de vaso 1.5L 1000W",
-    "imageUrl": "http://localhost:9090/images/p_021.jpg",
+    "imageUrl": "https://picsum.photos/seed/p_021/400/400",
     "reviews": [
       {
         "author": "Renata",
@@ -1328,7 +1328,7 @@
   {
     "id": "p_022",
     "title": "Almohada viscoelástica memoria",
-    "imageUrl": "http://localhost:9090/images/p_022.jpg",
+    "imageUrl": "https://picsum.photos/seed/p_022/400/400",
     "reviews": [
       {
         "author": "Julieta",
@@ -1350,7 +1350,7 @@
   {
     "id": "p_023",
     "title": "Cubierta para auto impermeable",
-    "imageUrl": "http://localhost:9090/images/p_023.jpg",
+    "imageUrl": "https://picsum.photos/seed/p_023/400/400",
     "reviews": [
       {
         "author": "Felipe",
@@ -1407,7 +1407,7 @@
   {
     "id": "p_024",
     "title": "Maleta cabina rígida 4 ruedas",
-    "imageUrl": "http://localhost:9090/images/p_024.jpg",
+    "imageUrl": "https://picsum.photos/seed/p_024/400/400",
     "reviews": [
       {
         "author": "Mateo",
@@ -1454,7 +1454,7 @@
   {
     "id": "p_025",
     "title": "Memoria microSD 256GB",
-    "imageUrl": "http://localhost:9090/images/p_025.jpg",
+    "imageUrl": "https://picsum.photos/seed/p_025/400/400",
     "reviews": [
       {
         "author": "Mía",
@@ -1501,7 +1501,7 @@
   {
     "id": "p_026",
     "title": "Patines en línea adultos",
-    "imageUrl": "http://localhost:9090/images/p_026.jpg",
+    "imageUrl": "https://picsum.photos/seed/p_026/400/400",
     "reviews": [
       {
         "author": "Emma",
@@ -1558,7 +1558,7 @@
   {
     "id": "p_027",
     "title": "Botiquín portátil de viaje",
-    "imageUrl": "http://localhost:9090/images/p_027.jpg",
+    "imageUrl": "https://picsum.photos/seed/p_027/400/400",
     "reviews": [
       {
         "author": "Martín",
@@ -1590,7 +1590,7 @@
   {
     "id": "p_028",
     "title": "Set de cuchillos 6 piezas",
-    "imageUrl": "http://localhost:9090/images/p_028.jpg",
+    "imageUrl": "https://picsum.photos/seed/p_028/400/400",
     "reviews": [
       {
         "author": "Federico",
@@ -1647,7 +1647,7 @@
   {
     "id": "p_029",
     "title": "Tabla de picar de bambú",
-    "imageUrl": "http://localhost:9090/images/p_029.jpg",
+    "imageUrl": "https://picsum.photos/seed/p_029/400/400",
     "reviews": [
       {
         "author": "Lautaro",
@@ -1744,7 +1744,7 @@
   {
     "id": "p_030",
     "title": "Auriculares deportivos in-ear",
-    "imageUrl": "http://localhost:9090/images/p_030.jpg",
+    "imageUrl": "https://picsum.photos/seed/p_030/400/400",
     "reviews": [
       {
         "author": "Santino",
@@ -1791,7 +1791,7 @@
   {
     "id": "p_031",
     "title": "Aspiradora portátil 12V auto",
-    "imageUrl": "http://localhost:9090/images/p_031.jpg",
+    "imageUrl": "https://picsum.photos/seed/p_031/400/400",
     "reviews": [
       {
         "author": "Joaquín",
@@ -1833,7 +1833,7 @@
   {
     "id": "p_032",
     "title": "Drone con cámara 4K",
-    "imageUrl": "http://localhost:9090/images/p_032.jpg",
+    "imageUrl": "https://picsum.photos/seed/p_032/400/400",
     "reviews": [
       {
         "author": "Ignacio",
@@ -1855,7 +1855,7 @@
   {
     "id": "p_033",
     "title": "Hamaca paraguaya doble",
-    "imageUrl": "http://localhost:9090/images/p_033.jpg",
+    "imageUrl": "https://picsum.photos/seed/p_033/400/400",
     "reviews": [
       {
         "author": "Benjamín",
@@ -1937,7 +1937,7 @@
   {
     "id": "p_034",
     "title": "Vidrio templado pantalla",
-    "imageUrl": "http://localhost:9090/images/p_034.jpg",
+    "imageUrl": "https://picsum.photos/seed/p_034/400/400",
     "reviews": [
       {
         "author": "Ignacio",
@@ -2044,7 +2044,7 @@
   {
     "id": "p_035",
     "title": "Cortinas blackout 2 paños",
-    "imageUrl": "http://localhost:9090/images/p_035.jpg",
+    "imageUrl": "https://picsum.photos/seed/p_035/400/400",
     "reviews": [
       {
         "author": "Santino",
@@ -2101,7 +2101,7 @@
   {
     "id": "p_036",
     "title": "Termómetro infrarrojo sin contacto",
-    "imageUrl": "http://localhost:9090/images/p_036.jpg",
+    "imageUrl": "https://picsum.photos/seed/p_036/400/400",
     "reviews": [
       {
         "author": "Tomás",
@@ -2148,7 +2148,7 @@
   {
     "id": "p_037",
     "title": "Aspiradora de mano sin cable",
-    "imageUrl": "http://localhost:9090/images/p_037.jpg",
+    "imageUrl": "https://picsum.photos/seed/p_037/400/400",
     "reviews": [
       {
         "author": "Lucía",
@@ -2255,7 +2255,7 @@
   {
     "id": "p_038",
     "title": "Cargador inalámbrico para auto",
-    "imageUrl": "http://localhost:9090/images/p_038.jpg",
+    "imageUrl": "https://picsum.photos/seed/p_038/400/400",
     "reviews": [
       {
         "author": "Bruno",
@@ -2297,7 +2297,7 @@
   {
     "id": "p_039",
     "title": "Anteojos de sol polarizados",
-    "imageUrl": "http://localhost:9090/images/p_039.jpg",
+    "imageUrl": "https://picsum.photos/seed/p_039/400/400",
     "reviews": [
       {
         "author": "Martín",
@@ -2339,7 +2339,7 @@
   {
     "id": "p_040",
     "title": "Mouse inalámbrico ergonómico",
-    "imageUrl": "http://localhost:9090/images/p_040.jpg",
+    "imageUrl": "https://picsum.photos/seed/p_040/400/400",
     "reviews": [
       {
         "author": "Ignacio",
@@ -2351,7 +2351,7 @@
   {
     "id": "p_041",
     "title": "Taladro inalámbrico 18V",
-    "imageUrl": "http://localhost:9090/images/p_041.jpg",
+    "imageUrl": "https://picsum.photos/seed/p_041/400/400",
     "reviews": [
       {
         "author": "María",
@@ -2368,7 +2368,7 @@
   {
     "id": "p_042",
     "title": "Hidrolavadora 1800W",
-    "imageUrl": "http://localhost:9090/images/p_042.jpg",
+    "imageUrl": "https://picsum.photos/seed/p_042/400/400",
     "reviews": [
       {
         "author": "Isabella",
@@ -2410,7 +2410,7 @@
   {
     "id": "p_043",
     "title": "Procesador de alimentos multifunción",
-    "imageUrl": "http://localhost:9090/images/p_043.jpg",
+    "imageUrl": "https://picsum.photos/seed/p_043/400/400",
     "reviews": [
       {
         "author": "Mía",
@@ -2507,7 +2507,7 @@
   {
     "id": "p_044",
     "title": "Reloj deportivo con GPS",
-    "imageUrl": "http://localhost:9090/images/p_044.jpg",
+    "imageUrl": "https://picsum.photos/seed/p_044/400/400",
     "reviews": [
       {
         "author": "Federico",
@@ -2614,7 +2614,7 @@
   {
     "id": "p_045",
     "title": "Bolsa de dormir -5°C",
-    "imageUrl": "http://localhost:9090/images/p_045.jpg",
+    "imageUrl": "https://picsum.photos/seed/p_045/400/400",
     "reviews": [
       {
         "author": "Valentina",
@@ -2651,7 +2651,7 @@
   {
     "id": "p_046",
     "title": "Cesto de ropa plegable",
-    "imageUrl": "http://localhost:9090/images/p_046.jpg",
+    "imageUrl": "https://picsum.photos/seed/p_046/400/400",
     "reviews": [
       {
         "author": "Federico",
@@ -2708,7 +2708,7 @@
   {
     "id": "p_047",
     "title": "Lámpara de escritorio LED",
-    "imageUrl": "http://localhost:9090/images/p_047.jpg",
+    "imageUrl": "https://picsum.photos/seed/p_047/400/400",
     "reviews": [
       {
         "author": "Olivia",
@@ -2720,7 +2720,7 @@
   {
     "id": "p_048",
     "title": "Tetera eléctrica 1.7L",
-    "imageUrl": "http://localhost:9090/images/p_048.jpg",
+    "imageUrl": "https://picsum.photos/seed/p_048/400/400",
     "reviews": [
       {
         "author": "Renata",
@@ -2817,7 +2817,7 @@
   {
     "id": "p_049",
     "title": "Cartera de cuero unisex",
-    "imageUrl": "http://localhost:9090/images/p_049.jpg",
+    "imageUrl": "https://picsum.photos/seed/p_049/400/400",
     "reviews": [
       {
         "author": "Mía",
@@ -2914,7 +2914,7 @@
   {
     "id": "p_050",
     "title": "Funda silicona para celular",
-    "imageUrl": "http://localhost:9090/images/p_050.jpg",
+    "imageUrl": "https://picsum.photos/seed/p_050/400/400",
     "reviews": [
       {
         "author": "Catalina",
@@ -2981,7 +2981,7 @@
   {
     "id": "p_051",
     "title": "Mancuernas ajustables 20kg",
-    "imageUrl": "http://localhost:9090/images/p_051.jpg",
+    "imageUrl": "https://picsum.photos/seed/p_051/400/400",
     "reviews": [
       {
         "author": "Benjamín",
@@ -3078,7 +3078,7 @@
   {
     "id": "p_052",
     "title": "Freidora de aire XL 6L",
-    "imageUrl": "http://localhost:9090/images/p_052.jpg",
+    "imageUrl": "https://picsum.photos/seed/p_052/400/400",
     "reviews": [
       {
         "author": "Santino",
@@ -3145,7 +3145,7 @@
   {
     "id": "p_053",
     "title": "Repetidor Wi-Fi mesh",
-    "imageUrl": "http://localhost:9090/images/p_053.jpg",
+    "imageUrl": "https://picsum.photos/seed/p_053/400/400",
     "reviews": [
       {
         "author": "Olivia",
@@ -3187,7 +3187,7 @@
   {
     "id": "p_054",
     "title": "Lector de e-books",
-    "imageUrl": "http://localhost:9090/images/p_054.jpg",
+    "imageUrl": "https://picsum.photos/seed/p_054/400/400",
     "reviews": [
       {
         "author": "Joaquín",
@@ -3214,7 +3214,7 @@
   {
     "id": "p_055",
     "title": "Smart TV 50 pulgadas 4K",
-    "imageUrl": "http://localhost:9090/images/p_055.jpg",
+    "imageUrl": "https://picsum.photos/seed/p_055/400/400",
     "reviews": [
       {
         "author": "Ana",
@@ -3281,7 +3281,7 @@
   {
     "id": "p_056",
     "title": "Termo café para auto 500ml",
-    "imageUrl": "http://localhost:9090/images/p_056.jpg",
+    "imageUrl": "https://picsum.photos/seed/p_056/400/400",
     "reviews": [
       {
         "author": "María",
@@ -3328,7 +3328,7 @@
   {
     "id": "p_057",
     "title": "Silla de oficina ergonómica",
-    "imageUrl": "http://localhost:9090/images/p_057.jpg",
+    "imageUrl": "https://picsum.photos/seed/p_057/400/400",
     "reviews": [
       {
         "author": "Sofía",
@@ -3410,7 +3410,7 @@
   {
     "id": "p_058",
     "title": "Estantería modular 5 niveles",
-    "imageUrl": "http://localhost:9090/images/p_058.jpg",
+    "imageUrl": "https://picsum.photos/seed/p_058/400/400",
     "reviews": [
       {
         "author": "Renata",
@@ -3437,7 +3437,7 @@
   {
     "id": "p_059",
     "title": "Plancha de ropa con vapor 2400W",
-    "imageUrl": "http://localhost:9090/images/p_059.jpg",
+    "imageUrl": "https://picsum.photos/seed/p_059/400/400",
     "reviews": [
       {
         "author": "Santino",
@@ -3449,7 +3449,7 @@
   {
     "id": "p_060",
     "title": "Cepillo dental eléctrico recargable",
-    "imageUrl": "http://localhost:9090/images/p_060.jpg",
+    "imageUrl": "https://picsum.photos/seed/p_060/400/400",
     "reviews": [
       {
         "author": "Joaquín",
@@ -3556,7 +3556,7 @@
   {
     "id": "p_061",
     "title": "Banda elástica de resistencia",
-    "imageUrl": "http://localhost:9090/images/p_061.jpg",
+    "imageUrl": "https://picsum.photos/seed/p_061/400/400",
     "reviews": [
       {
         "author": "Mateo",
@@ -3573,7 +3573,7 @@
   {
     "id": "p_062",
     "title": "Webcam Full HD con micrófono",
-    "imageUrl": "http://localhost:9090/images/p_062.jpg",
+    "imageUrl": "https://picsum.photos/seed/p_062/400/400",
     "reviews": [
       {
         "author": "Catalina",
@@ -3630,7 +3630,7 @@
   {
     "id": "p_063",
     "title": "Tensiómetro digital de brazo",
-    "imageUrl": "http://localhost:9090/images/p_063.jpg",
+    "imageUrl": "https://picsum.photos/seed/p_063/400/400",
     "reviews": [
       {
         "author": "Joaquín",
@@ -3652,7 +3652,7 @@
   {
     "id": "p_064",
     "title": "Aspirador de polvo a batería",
-    "imageUrl": "http://localhost:9090/images/p_064.jpg",
+    "imageUrl": "https://picsum.photos/seed/p_064/400/400",
     "reviews": [
       {
         "author": "Lucía",
@@ -3694,7 +3694,7 @@
   {
     "id": "p_065",
     "title": "Aro de luz para streaming",
-    "imageUrl": "http://localhost:9090/images/p_065.jpg",
+    "imageUrl": "https://picsum.photos/seed/p_065/400/400",
     "reviews": [
       {
         "author": "Mía",
@@ -3801,7 +3801,7 @@
   {
     "id": "p_066",
     "title": "Mesa auxiliar plegable",
-    "imageUrl": "http://localhost:9090/images/p_066.jpg",
+    "imageUrl": "https://picsum.photos/seed/p_066/400/400",
     "reviews": [
       {
         "author": "Florencia",
@@ -3858,7 +3858,7 @@
   {
     "id": "p_067",
     "title": "Plancha de pelo iónica",
-    "imageUrl": "http://localhost:9090/images/p_067.jpg",
+    "imageUrl": "https://picsum.photos/seed/p_067/400/400",
     "reviews": [
       {
         "author": "Catalina",
@@ -3875,7 +3875,7 @@
   {
     "id": "p_068",
     "title": "Parlante portátil resistente al agua",
-    "imageUrl": "http://localhost:9090/images/p_068.jpg",
+    "imageUrl": "https://picsum.photos/seed/p_068/400/400",
     "reviews": [
       {
         "author": "Mía",
@@ -3907,7 +3907,7 @@
   {
     "id": "p_069",
     "title": "Cuchillo multiusos plegable",
-    "imageUrl": "http://localhost:9090/images/p_069.jpg",
+    "imageUrl": "https://picsum.photos/seed/p_069/400/400",
     "reviews": [
       {
         "author": "Pedro",
@@ -4014,7 +4014,7 @@
   {
     "id": "p_070",
     "title": "Termo de acero inoxidable 1L",
-    "imageUrl": "http://localhost:9090/images/p_070.jpg",
+    "imageUrl": "https://picsum.photos/seed/p_070/400/400",
     "reviews": [
       {
         "author": "Olivia",
@@ -4081,7 +4081,7 @@
   {
     "id": "p_071",
     "title": "Reloj despertador digital",
-    "imageUrl": "http://localhost:9090/images/p_071.jpg",
+    "imageUrl": "https://picsum.photos/seed/p_071/400/400",
     "reviews": [
       {
         "author": "Bruno",
@@ -4138,7 +4138,7 @@
   {
     "id": "p_072",
     "title": "Cocina de camping a gas",
-    "imageUrl": "http://localhost:9090/images/p_072.jpg",
+    "imageUrl": "https://picsum.photos/seed/p_072/400/400",
     "reviews": [
       {
         "author": "Lucía",
@@ -4245,7 +4245,7 @@
   {
     "id": "p_073",
     "title": "Set de limpieza microfibra",
-    "imageUrl": "http://localhost:9090/images/p_073.jpg",
+    "imageUrl": "https://picsum.photos/seed/p_073/400/400",
     "reviews": [
       {
         "author": "Tomás",
@@ -4262,7 +4262,7 @@
   {
     "id": "p_074",
     "title": "Aislante térmico inflable",
-    "imageUrl": "http://localhost:9090/images/p_074.jpg",
+    "imageUrl": "https://picsum.photos/seed/p_074/400/400",
     "reviews": [
       {
         "author": "Emma",
@@ -4299,7 +4299,7 @@
   {
     "id": "p_075",
     "title": "Set de copas de vino cristal",
-    "imageUrl": "http://localhost:9090/images/p_075.jpg",
+    "imageUrl": "https://picsum.photos/seed/p_075/400/400",
     "reviews": [
       {
         "author": "Federico",
@@ -4356,7 +4356,7 @@
   {
     "id": "p_076",
     "title": "Cable HDMI 4K 2m",
-    "imageUrl": "http://localhost:9090/images/p_076.jpg",
+    "imageUrl": "https://picsum.photos/seed/p_076/400/400",
     "reviews": [
       {
         "author": "Catalina",
@@ -4403,7 +4403,7 @@
   {
     "id": "p_077",
     "title": "Alfombra antideslizante baño",
-    "imageUrl": "http://localhost:9090/images/p_077.jpg",
+    "imageUrl": "https://picsum.photos/seed/p_077/400/400",
     "reviews": [
       {
         "author": "Lautaro",
@@ -4485,7 +4485,7 @@
   {
     "id": "p_078",
     "title": "Cafetera de cápsulas automática",
-    "imageUrl": "http://localhost:9090/images/p_078.jpg",
+    "imageUrl": "https://picsum.photos/seed/p_078/400/400",
     "reviews": [
       {
         "author": "Florencia",
@@ -4542,7 +4542,7 @@
   {
     "id": "p_079",
     "title": "Powerbank 20000mAh",
-    "imageUrl": "http://localhost:9090/images/p_079.jpg",
+    "imageUrl": "https://picsum.photos/seed/p_079/400/400",
     "reviews": [
       {
         "author": "Joaquín",
@@ -4639,7 +4639,7 @@
   {
     "id": "p_080",
     "title": "Trapeador con balde escurridor",
-    "imageUrl": "http://localhost:9090/images/p_080.jpg",
+    "imageUrl": "https://picsum.photos/seed/p_080/400/400",
     "reviews": [
       {
         "author": "Martín",
@@ -4736,7 +4736,7 @@
   {
     "id": "p_081",
     "title": "Carpa para 4 personas impermeable",
-    "imageUrl": "http://localhost:9090/images/p_081.jpg",
+    "imageUrl": "https://picsum.photos/seed/p_081/400/400",
     "reviews": [
       {
         "author": "Lucía",
@@ -4803,7 +4803,7 @@
   {
     "id": "p_082",
     "title": "Auriculares con cancelación de ruido",
-    "imageUrl": "http://localhost:9090/images/p_082.jpg",
+    "imageUrl": "https://picsum.photos/seed/p_082/400/400",
     "reviews": [
       {
         "author": "Juan",
@@ -4820,7 +4820,7 @@
   {
     "id": "p_083",
     "title": "Skate completo doble curva",
-    "imageUrl": "http://localhost:9090/images/p_083.jpg",
+    "imageUrl": "https://picsum.photos/seed/p_083/400/400",
     "reviews": [
       {
         "author": "Isabella",
@@ -4927,13 +4927,13 @@
   {
     "id": "p_084",
     "title": "Set de utensilios camping",
-    "imageUrl": "http://localhost:9090/images/p_084.jpg",
+    "imageUrl": "https://picsum.photos/seed/p_084/400/400",
     "reviews": []
   },
   {
     "id": "p_085",
     "title": "Trípode flexible para celular",
-    "imageUrl": "http://localhost:9090/images/p_085.jpg",
+    "imageUrl": "https://picsum.photos/seed/p_085/400/400",
     "reviews": [
       {
         "author": "Renata",
@@ -4990,7 +4990,7 @@
   {
     "id": "p_086",
     "title": "Cortacésped eléctrico 1600W",
-    "imageUrl": "http://localhost:9090/images/p_086.jpg",
+    "imageUrl": "https://picsum.photos/seed/p_086/400/400",
     "reviews": [
       {
         "author": "Mateo",
@@ -5032,7 +5032,7 @@
   {
     "id": "p_087",
     "title": "Soporte ergonómico para notebook",
-    "imageUrl": "http://localhost:9090/images/p_087.jpg",
+    "imageUrl": "https://picsum.photos/seed/p_087/400/400",
     "reviews": [
       {
         "author": "Mía",
@@ -5129,7 +5129,7 @@
   {
     "id": "p_088",
     "title": "Candado bicicleta nivel 9",
-    "imageUrl": "http://localhost:9090/images/p_088.jpg",
+    "imageUrl": "https://picsum.photos/seed/p_088/400/400",
     "reviews": [
       {
         "author": "Tomás",
@@ -5176,7 +5176,7 @@
   {
     "id": "p_089",
     "title": "Aspiradora robot inteligente",
-    "imageUrl": "http://localhost:9090/images/p_089.jpg",
+    "imageUrl": "https://picsum.photos/seed/p_089/400/400",
     "reviews": [
       {
         "author": "Mía",
@@ -5243,7 +5243,7 @@
   {
     "id": "p_090",
     "title": "Difusor de aceites esenciales",
-    "imageUrl": "http://localhost:9090/images/p_090.jpg",
+    "imageUrl": "https://picsum.photos/seed/p_090/400/400",
     "reviews": [
       {
         "author": "Mateo",
@@ -5300,7 +5300,7 @@
   {
     "id": "p_091",
     "title": "Mochila hidratación trail 6L",
-    "imageUrl": "http://localhost:9090/images/p_091.jpg",
+    "imageUrl": "https://picsum.photos/seed/p_091/400/400",
     "reviews": [
       {
         "author": "Agustina",
@@ -5367,7 +5367,7 @@
   {
     "id": "p_092",
     "title": "Smartwatch Pulse Pro",
-    "imageUrl": "http://localhost:9090/images/p_092.jpg",
+    "imageUrl": "https://picsum.photos/seed/p_092/400/400",
     "reviews": [
       {
         "author": "Pedro",
@@ -5464,7 +5464,7 @@
   {
     "id": "p_093",
     "title": "Mesa de planchar con perchero",
-    "imageUrl": "http://localhost:9090/images/p_093.jpg",
+    "imageUrl": "https://picsum.photos/seed/p_093/400/400",
     "reviews": [
       {
         "author": "Mía",
@@ -5521,7 +5521,7 @@
   {
     "id": "p_094",
     "title": "Humidificador ultrasónico 3L",
-    "imageUrl": "http://localhost:9090/images/p_094.jpg",
+    "imageUrl": "https://picsum.photos/seed/p_094/400/400",
     "reviews": [
       {
         "author": "Emma",
@@ -5558,7 +5558,7 @@
   {
     "id": "p_095",
     "title": "Secador de pelo 2200W",
-    "imageUrl": "http://localhost:9090/images/p_095.jpg",
+    "imageUrl": "https://picsum.photos/seed/p_095/400/400",
     "reviews": [
       {
         "author": "Bruno",
@@ -5625,7 +5625,7 @@
   {
     "id": "p_096",
     "title": "Tostadora 4 ranuras",
-    "imageUrl": "http://localhost:9090/images/p_096.jpg",
+    "imageUrl": "https://picsum.photos/seed/p_096/400/400",
     "reviews": [
       {
         "author": "Renata",
@@ -5732,7 +5732,7 @@
   {
     "id": "p_097",
     "title": "Batidora de mano 800W",
-    "imageUrl": "http://localhost:9090/images/p_097.jpg",
+    "imageUrl": "https://picsum.photos/seed/p_097/400/400",
     "reviews": [
       {
         "author": "Lautaro",
@@ -5759,7 +5759,7 @@
   {
     "id": "p_098",
     "title": "Sábanas king size 100% algodón",
-    "imageUrl": "http://localhost:9090/images/p_098.jpg",
+    "imageUrl": "https://picsum.photos/seed/p_098/400/400",
     "reviews": [
       {
         "author": "Martín",
@@ -5796,7 +5796,7 @@
   {
     "id": "p_099",
     "title": "Bolsa hermética para viaje",
-    "imageUrl": "http://localhost:9090/images/p_099.jpg",
+    "imageUrl": "https://picsum.photos/seed/p_099/400/400",
     "reviews": [
       {
         "author": "Benjamín",
@@ -5843,7 +5843,7 @@
   {
     "id": "p_100",
     "title": "Sartén antiadherente 28cm",
-    "imageUrl": "http://localhost:9090/images/p_100.jpg",
+    "imageUrl": "https://picsum.photos/seed/p_100/400/400",
     "reviews": [
       {
         "author": "Valentina",
@@ -5860,7 +5860,7 @@
   {
     "id": "p_101",
     "title": "Báscula corporal Bluetooth",
-    "imageUrl": "http://localhost:9090/images/p_101.jpg",
+    "imageUrl": "https://picsum.photos/seed/p_101/400/400",
     "reviews": [
       {
         "author": "Ana",
@@ -5872,7 +5872,7 @@
   {
     "id": "p_102",
     "title": "Estabilizador gimbal de mano",
-    "imageUrl": "http://localhost:9090/images/p_102.jpg",
+    "imageUrl": "https://picsum.photos/seed/p_102/400/400",
     "reviews": [
       {
         "author": "Martín",
@@ -5929,7 +5929,7 @@
   {
     "id": "p_103",
     "title": "Colchoneta de yoga antideslizante",
-    "imageUrl": "http://localhost:9090/images/p_103.jpg",
+    "imageUrl": "https://picsum.photos/seed/p_103/400/400",
     "reviews": [
       {
         "author": "Catalina",
@@ -5941,7 +5941,7 @@
   {
     "id": "p_104",
     "title": "Vajilla 16 piezas porcelana",
-    "imageUrl": "http://localhost:9090/images/p_104.jpg",
+    "imageUrl": "https://picsum.photos/seed/p_104/400/400",
     "reviews": [
       {
         "author": "Pedro",
@@ -5998,7 +5998,7 @@
   {
     "id": "p_105",
     "title": "Lámpara de pie LED regulable",
-    "imageUrl": "http://localhost:9090/images/p_105.jpg",
+    "imageUrl": "https://picsum.photos/seed/p_105/400/400",
     "reviews": [
       {
         "author": "Mía",
@@ -6105,7 +6105,7 @@
   {
     "id": "p_106",
     "title": "Aspersor giratorio para riego",
-    "imageUrl": "http://localhost:9090/images/p_106.jpg",
+    "imageUrl": "https://picsum.photos/seed/p_106/400/400",
     "reviews": [
       {
         "author": "Emma",
@@ -6137,7 +6137,7 @@
   {
     "id": "p_107",
     "title": "Bicicleta plegable urbana",
-    "imageUrl": "http://localhost:9090/images/p_107.jpg",
+    "imageUrl": "https://picsum.photos/seed/p_107/400/400",
     "reviews": [
       {
         "author": "Joaquín",
@@ -6179,7 +6179,7 @@
   {
     "id": "p_108",
     "title": "Sopladora de hojas a batería",
-    "imageUrl": "http://localhost:9090/images/p_108.jpg",
+    "imageUrl": "https://picsum.photos/seed/p_108/400/400",
     "reviews": [
       {
         "author": "Mateo",
@@ -6236,7 +6236,7 @@
   {
     "id": "p_109",
     "title": "Pen drive 128GB USB 3.2",
-    "imageUrl": "http://localhost:9090/images/p_109.jpg",
+    "imageUrl": "https://picsum.photos/seed/p_109/400/400",
     "reviews": [
       {
         "author": "Nicolás",
@@ -6283,7 +6283,7 @@
   {
     "id": "p_110",
     "title": "Manguera extensible de jardín",
-    "imageUrl": "http://localhost:9090/images/p_110.jpg",
+    "imageUrl": "https://picsum.photos/seed/p_110/400/400",
     "reviews": [
       {
         "author": "Santino",
@@ -6310,7 +6310,7 @@
   {
     "id": "p_111",
     "title": "Botella deportiva con sorbete",
-    "imageUrl": "http://localhost:9090/images/p_111.jpg",
+    "imageUrl": "https://picsum.photos/seed/p_111/400/400",
     "reviews": [
       {
         "author": "Ana",
@@ -6377,7 +6377,7 @@
   {
     "id": "p_112",
     "title": "Router Wi-Fi 6 doble banda",
-    "imageUrl": "http://localhost:9090/images/p_112.jpg",
+    "imageUrl": "https://picsum.photos/seed/p_112/400/400",
     "reviews": [
       {
         "author": "Federico",
@@ -6444,7 +6444,7 @@
   {
     "id": "p_113",
     "title": "Tablet 10 pulgadas Wi-Fi",
-    "imageUrl": "http://localhost:9090/images/p_113.jpg",
+    "imageUrl": "https://picsum.photos/seed/p_113/400/400",
     "reviews": [
       {
         "author": "Mateo",
@@ -6511,7 +6511,7 @@
   {
     "id": "p_114",
     "title": "Riñonera deportiva impermeable",
-    "imageUrl": "http://localhost:9090/images/p_114.jpg",
+    "imageUrl": "https://picsum.photos/seed/p_114/400/400",
     "reviews": [
       {
         "author": "Ignacio",
@@ -6558,7 +6558,7 @@
   {
     "id": "p_115",
     "title": "Set de herramientas 32 piezas",
-    "imageUrl": "http://localhost:9090/images/p_115.jpg",
+    "imageUrl": "https://picsum.photos/seed/p_115/400/400",
     "reviews": [
       {
         "author": "Julieta",
@@ -6605,7 +6605,7 @@
   {
     "id": "p_116",
     "title": "Cuadro decorativo abstracto",
-    "imageUrl": "http://localhost:9090/images/p_116.jpg",
+    "imageUrl": "https://picsum.photos/seed/p_116/400/400",
     "reviews": [
       {
         "author": "Emma",
@@ -6652,7 +6652,7 @@
   {
     "id": "p_117",
     "title": "Auriculares Bluetooth XS-200",
-    "imageUrl": "http://localhost:9090/images/p_117.jpg",
+    "imageUrl": "https://picsum.photos/seed/p_117/400/400",
     "reviews": [
       {
         "author": "Nicolás",
@@ -6694,7 +6694,7 @@
   {
     "id": "p_118",
     "title": "Bomba de aire portátil",
-    "imageUrl": "http://localhost:9090/images/p_118.jpg",
+    "imageUrl": "https://picsum.photos/seed/p_118/400/400",
     "reviews": [
       {
         "author": "Mía",
@@ -6711,7 +6711,7 @@
   {
     "id": "p_119",
     "title": "Adaptador de viaje universal",
-    "imageUrl": "http://localhost:9090/images/p_119.jpg",
+    "imageUrl": "https://picsum.photos/seed/p_119/400/400",
     "reviews": [
       {
         "author": "Mateo",
@@ -6818,7 +6818,7 @@
   {
     "id": "p_120",
     "title": "Hub USB-C 7-en-1",
-    "imageUrl": "http://localhost:9090/images/p_120.jpg",
+    "imageUrl": "https://picsum.photos/seed/p_120/400/400",
     "reviews": [
       {
         "author": "Ana",

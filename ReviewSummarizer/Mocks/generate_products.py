@@ -4,10 +4,15 @@ Genera products.json para el mock de Proxyman.
 
 Escribe `products.json` en el mismo directorio que este script.
 
-Reglas (specs/spec.md §9 + tasks.md T-140):
+Reglas (specs/spec.md v1.2 §9, tasks.md T-140 v1.1):
 - 100+ productos.
 - Cada producto: 0..20 reviews, rating ∈ 1..5.
 - Strings en español.
+- imageUrl apunta a Picsum (RF-17): https://picsum.photos/seed/{id}/400/400.
+  Seed determinista por id para que la URL sea estable y la URLCache
+  reutilice la descarga entre relaunches.
+- ≥ 1 producto con imageUrl deliberadamente rota (path inexistente bajo
+  dominio Picsum) para validar fallback en T-148.
 - Mix intencional para cubrir boundaries:
     · ≥ 1 producto con 0 reviews (RF-03 unrated, RF-05 botón oculto)
     · ≥ 1 producto con 5 reviews (boundary inferior, botón disabled)
@@ -187,11 +192,20 @@ def main() -> None:
     rng.shuffle(titles)
     titles = titles[:120]  # 120 productos cubre el ≥ 100 con margen
 
+    # T-148: índice del producto con imageUrl deliberadamente rota para validar
+    # fallback (placeholder ante .failure de AsyncImagePhase). Elegimos uno que
+    # NO sea boundary de reviews para que el caso sea claro y aislado.
+    BROKEN_IMAGE_PRODUCT_INDEX = 7
+
     products = []
     for idx, title in enumerate(titles):
         pid = f"p_{idx + 1:03d}"
-        # Imagen mock servida por el mismo Proxyman (evita HTTP a hosts no-localhost).
-        image_url = f"http://localhost:9090/images/{pid}.jpg"
+        # RF-17: imágenes desde Picsum HTTPS, seed determinista por producto.
+        if idx == BROKEN_IMAGE_PRODUCT_INDEX:
+            # Ruta inexistente bajo dominio Picsum → 404 → AsyncImage .failure.
+            image_url = f"https://picsum.photos/notfound/{pid}"
+        else:
+            image_url = f"https://picsum.photos/seed/{pid}/400/400"
         review_count = review_count_for_index(idx, rng)
         reviews = [make_review(rng) for _ in range(review_count)]
         products.append({
