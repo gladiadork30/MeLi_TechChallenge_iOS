@@ -1,0 +1,6900 @@
+[
+  {
+    "id": "p_001",
+    "title": "Toallón de baño 90x150 cm",
+    "imageUrl": "http://localhost:9090/images/p_001.jpg",
+    "reviews": []
+  },
+  {
+    "id": "p_002",
+    "title": "Horno eléctrico 36L",
+    "imageUrl": "http://localhost:9090/images/p_002.jpg",
+    "reviews": [
+      {
+        "author": "Tomás",
+        "rating": 5,
+        "text": "Material de primera, se nota la diferencia. Hace ruido cuando se usa a máxima potencia."
+      },
+      {
+        "author": "Joaquín",
+        "rating": 4,
+        "text": "Liviano y fácil de transportar."
+      },
+      {
+        "author": "Isabella",
+        "rating": 4,
+        "text": "El acabado es impecable, se siente premium."
+      },
+      {
+        "author": "Camila",
+        "rating": 5,
+        "text": "Excelente atención post-venta también. Hace ruido cuando se usa a máxima potencia."
+      },
+      {
+        "author": "Valentina",
+        "rating": 5,
+        "text": "Lo uso todos los días, súper práctico."
+      }
+    ]
+  },
+  {
+    "id": "p_003",
+    "title": "Disco externo SSD 1TB",
+    "imageUrl": "http://localhost:9090/images/p_003.jpg",
+    "reviews": [
+      {
+        "author": "Tomás",
+        "rating": 4,
+        "text": "Diseño elegante y compacto. El diseño no es tan moderno como en las fotos."
+      },
+      {
+        "author": "Renata",
+        "rating": 4,
+        "text": "Perfecto para regalar."
+      },
+      {
+        "author": "Pedro",
+        "rating": 4,
+        "text": "Liviano y fácil de transportar."
+      },
+      {
+        "author": "Olivia",
+        "rating": 5,
+        "text": "Perfecto para regalar. Hace ruido cuando se usa a máxima potencia."
+      },
+      {
+        "author": "Florencia",
+        "rating": 4,
+        "text": "Re cómodo, ideal para uso diario."
+      },
+      {
+        "author": "Ignacio",
+        "rating": 5,
+        "text": "Funciona tal como dice la descripción. Hace ruido cuando se usa a máxima potencia."
+      }
+    ]
+  },
+  {
+    "id": "p_004",
+    "title": "Cargador rápido USB-C 65W",
+    "imageUrl": "http://localhost:9090/images/p_004.jpg",
+    "reviews": [
+      {
+        "author": "Lautaro",
+        "rating": 5,
+        "text": "Liviano y fácil de transportar."
+      },
+      {
+        "author": "Pedro",
+        "rating": 3,
+        "text": "Nada destacable, pero tampoco fallas graves."
+      },
+      {
+        "author": "Camila",
+        "rating": 4,
+        "text": "Llegó antes de lo esperado y funciona perfecto. El plástico se siente un poco endeble."
+      },
+      {
+        "author": "Catalina",
+        "rating": 4,
+        "text": "Cumple con todo lo prometido y más."
+      },
+      {
+        "author": "Mateo",
+        "rating": 3,
+        "text": "Nada destacable, pero tampoco fallas graves."
+      },
+      {
+        "author": "Martín",
+        "rating": 5,
+        "text": "Excelente calidad, lo recomiendo sin dudar."
+      },
+      {
+        "author": "Julieta",
+        "rating": 4,
+        "text": "Buena duración de batería para el tamaño."
+      },
+      {
+        "author": "Santino",
+        "rating": 1,
+        "text": "Hace ruido cuando se usa a máxima potencia."
+      },
+      {
+        "author": "Ana",
+        "rating": 2,
+        "text": "Se calienta más de la cuenta."
+      },
+      {
+        "author": "Julieta",
+        "rating": 2,
+        "text": "Por el precio esperaba mejor calidad de imagen."
+      },
+      {
+        "author": "Bruno",
+        "rating": 5,
+        "text": "Mucho mejor que otras marcas que probé. El botón se traba a veces."
+      },
+      {
+        "author": "Renata",
+        "rating": 5,
+        "text": "Resistente y bien construido."
+      },
+      {
+        "author": "Sofía",
+        "rating": 4,
+        "text": "Excelente calidad, lo recomiendo sin dudar."
+      },
+      {
+        "author": "Ana",
+        "rating": 3,
+        "text": "Lo recomendaría con reservas."
+      },
+      {
+        "author": "Catalina",
+        "rating": 3,
+        "text": "Lo recomendaría con reservas."
+      },
+      {
+        "author": "Valentina",
+        "rating": 1,
+        "text": "Llegó con un raspón en la caja."
+      },
+      {
+        "author": "Joaquín",
+        "rating": 4,
+        "text": "Llegó antes de lo esperado y funciona perfecto. Los accesorios incluidos son básicos."
+      },
+      {
+        "author": "Julieta",
+        "rating": 5,
+        "text": "Súper fácil de usar y configurar. Tarda demasiado en cargar."
+      },
+      {
+        "author": "María",
+        "rating": 4,
+        "text": "Lo uso todos los días, súper práctico."
+      },
+      {
+        "author": "Bruno",
+        "rating": 4,
+        "text": "Resistente y bien construido."
+      }
+    ]
+  },
+  {
+    "id": "p_005",
+    "title": "Cámara Compacta UltraZoom",
+    "imageUrl": "http://localhost:9090/images/p_005.jpg",
+    "reviews": [
+      {
+        "author": "Martín",
+        "rating": 3,
+        "text": "Es lo que se ve, ni más ni menos."
+      },
+      {
+        "author": "Sofía",
+        "rating": 5,
+        "text": "Funciona tal como dice la descripción. El soporte no fija bien al escritorio."
+      },
+      {
+        "author": "Mía",
+        "rating": 4,
+        "text": "Súper fácil de usar y configurar. Por el precio esperaba mejor calidad de imagen."
+      },
+      {
+        "author": "Diego",
+        "rating": 4,
+        "text": "Liviano y fácil de transportar. El diseño no es tan moderno como en las fotos."
+      },
+      {
+        "author": "Santino",
+        "rating": 5,
+        "text": "Perfecto para regalar."
+      },
+      {
+        "author": "Renata",
+        "rating": 5,
+        "text": "Llegó antes de lo esperado y funciona perfecto."
+      },
+      {
+        "author": "Camila",
+        "rating": 4,
+        "text": "Excelente calidad, lo recomiendo sin dudar."
+      },
+      {
+        "author": "Camila",
+        "rating": 4,
+        "text": "Cumple con todo lo prometido y más. El soporte no fija bien al escritorio."
+      },
+      {
+        "author": "Benjamín",
+        "rating": 5,
+        "text": "Estoy muy contento con la compra."
+      },
+      {
+        "author": "Felipe",
+        "rating": 5,
+        "text": "Buena duración de batería para el tamaño."
+      }
+    ]
+  },
+  {
+    "id": "p_006",
+    "title": "Manta polar tamaño matrimonial",
+    "imageUrl": "http://localhost:9090/images/p_006.jpg",
+    "reviews": [
+      {
+        "author": "Felipe",
+        "rating": 5,
+        "text": "Muy buena relación calidad-precio. Por el precio esperaba mejor calidad de imagen."
+      },
+      {
+        "author": "Federico",
+        "rating": 5,
+        "text": "Súper fácil de usar y configurar."
+      },
+      {
+        "author": "Lautaro",
+        "rating": 4,
+        "text": "Cumple con todo lo prometido y más."
+      },
+      {
+        "author": "Catalina",
+        "rating": 4,
+        "text": "Funciona tal como dice la descripción."
+      },
+      {
+        "author": "Diego",
+        "rating": 4,
+        "text": "Cumple con todo lo prometido y más."
+      },
+      {
+        "author": "Isabella",
+        "rating": 5,
+        "text": "Cumple con todo lo prometido y más. Hace ruido cuando se usa a máxima potencia."
+      },
+      {
+        "author": "Lucía",
+        "rating": 4,
+        "text": "Estoy muy contento con la compra."
+      },
+      {
+        "author": "Mía",
+        "rating": 4,
+        "text": "Liviano y fácil de transportar."
+      }
+    ]
+  },
+  {
+    "id": "p_007",
+    "title": "Soporte celular auto magnético",
+    "imageUrl": "http://localhost:9090/images/p_007.jpg",
+    "reviews": [
+      {
+        "author": "Renata",
+        "rating": 3,
+        "text": "Es lo que se ve, ni más ni menos."
+      },
+      {
+        "author": "Diego",
+        "rating": 2,
+        "text": "El soporte no fija bien al escritorio."
+      },
+      {
+        "author": "Bruno",
+        "rating": 4,
+        "text": "Llegó antes de lo esperado y funciona perfecto. Llegó con un raspón en la caja."
+      },
+      {
+        "author": "Bruno",
+        "rating": 4,
+        "text": "Funciona tal como dice la descripción. El botón se traba a veces."
+      },
+      {
+        "author": "Nicolás",
+        "rating": 4,
+        "text": "Mucho mejor que otras marcas que probé. Se calienta más de la cuenta."
+      },
+      {
+        "author": "Pedro",
+        "rating": 4,
+        "text": "Súper fácil de usar y configurar."
+      },
+      {
+        "author": "Tomás",
+        "rating": 4,
+        "text": "Súper fácil de usar y configurar."
+      },
+      {
+        "author": "Bruno",
+        "rating": 4,
+        "text": "Sonido nítido, sin distorsión."
+      },
+      {
+        "author": "Pedro",
+        "rating": 5,
+        "text": "Material de primera, se nota la diferencia. El botón se traba a veces."
+      },
+      {
+        "author": "Juan",
+        "rating": 3,
+        "text": "Para el uso ocasional cumple."
+      },
+      {
+        "author": "Emma",
+        "rating": 5,
+        "text": "Súper fácil de usar y configurar."
+      },
+      {
+        "author": "Bruno",
+        "rating": 4,
+        "text": "Diseño elegante y compacto. El manual viene en inglés solamente."
+      },
+      {
+        "author": "Agustina",
+        "rating": 4,
+        "text": "Lo uso todos los días, súper práctico."
+      },
+      {
+        "author": "Lucía",
+        "rating": 5,
+        "text": "El acabado es impecable, se siente premium."
+      },
+      {
+        "author": "Felipe",
+        "rating": 3,
+        "text": "Funciona ok, no es lo mejor del mercado."
+      },
+      {
+        "author": "Tomás",
+        "rating": 4,
+        "text": "Estoy muy contento con la compra."
+      },
+      {
+        "author": "Tomás",
+        "rating": 5,
+        "text": "Llegó antes de lo esperado y funciona perfecto."
+      },
+      {
+        "author": "Bruno",
+        "rating": 5,
+        "text": "Estoy muy contento con la compra. Los accesorios incluidos son básicos."
+      },
+      {
+        "author": "Santino",
+        "rating": 4,
+        "text": "Mucho mejor que otras marcas que probé. Hace ruido cuando se usa a máxima potencia."
+      },
+      {
+        "author": "Mía",
+        "rating": 5,
+        "text": "Muy buena relación calidad-precio. El soporte no fija bien al escritorio."
+      }
+    ]
+  },
+  {
+    "id": "p_008",
+    "title": "Gorra ajustable algodón",
+    "imageUrl": "http://localhost:9090/images/p_008.jpg",
+    "reviews": [
+      {
+        "author": "Olivia",
+        "rating": 5,
+        "text": "Muy buena terminación, sin defectos."
+      },
+      {
+        "author": "Benjamín",
+        "rating": 5,
+        "text": "Resistente y bien construido. La aplicación móvil es lenta y poco intuitiva."
+      },
+      {
+        "author": "Olivia",
+        "rating": 2,
+        "text": "El diseño no es tan moderno como en las fotos."
+      },
+      {
+        "author": "Joaquín",
+        "rating": 3,
+        "text": "Es lo que se ve, ni más ni menos."
+      },
+      {
+        "author": "Julieta",
+        "rating": 3,
+        "text": "Cumple su función básica."
+      },
+      {
+        "author": "Federico",
+        "rating": 1,
+        "text": "Los accesorios incluidos son básicos."
+      },
+      {
+        "author": "Renata",
+        "rating": 4,
+        "text": "Muy buena relación calidad-precio."
+      }
+    ]
+  },
+  {
+    "id": "p_009",
+    "title": "Luz LED recargable para bici",
+    "imageUrl": "http://localhost:9090/images/p_009.jpg",
+    "reviews": [
+      {
+        "author": "Catalina",
+        "rating": 4,
+        "text": "Llegó antes de lo esperado y funciona perfecto."
+      },
+      {
+        "author": "Catalina",
+        "rating": 4,
+        "text": "Buena duración de batería para el tamaño."
+      },
+      {
+        "author": "Benjamín",
+        "rating": 4,
+        "text": "Muy buena terminación, sin defectos."
+      },
+      {
+        "author": "Lucía",
+        "rating": 5,
+        "text": "Diseño elegante y compacto."
+      },
+      {
+        "author": "Santino",
+        "rating": 5,
+        "text": "Llegó antes de lo esperado y funciona perfecto."
+      },
+      {
+        "author": "Isabella",
+        "rating": 5,
+        "text": "Cumple con todo lo prometido y más."
+      },
+      {
+        "author": "Renata",
+        "rating": 3,
+        "text": "Es lo que se ve, ni más ni menos."
+      },
+      {
+        "author": "Federico",
+        "rating": 1,
+        "text": "El manual viene en inglés solamente."
+      },
+      {
+        "author": "Camila",
+        "rating": 4,
+        "text": "Mucho mejor que otras marcas que probé."
+      },
+      {
+        "author": "Pedro",
+        "rating": 4,
+        "text": "Muy buena relación calidad-precio. Hace ruido cuando se usa a máxima potencia."
+      }
+    ]
+  },
+  {
+    "id": "p_010",
+    "title": "Cubiertos de acero inox 24 pzs",
+    "imageUrl": "http://localhost:9090/images/p_010.jpg",
+    "reviews": [
+      {
+        "author": "Federico",
+        "rating": 4,
+        "text": "El acabado es impecable, se siente premium."
+      },
+      {
+        "author": "Benjamín",
+        "rating": 4,
+        "text": "Súper fácil de usar y configurar. Pesa más de lo que pensaba."
+      },
+      {
+        "author": "Julieta",
+        "rating": 3,
+        "text": "Está bien por el precio."
+      },
+      {
+        "author": "Joaquín",
+        "rating": 4,
+        "text": "Muy buena terminación, sin defectos."
+      },
+      {
+        "author": "Benjamín",
+        "rating": 5,
+        "text": "Diseño elegante y compacto."
+      },
+      {
+        "author": "Renata",
+        "rating": 1,
+        "text": "El cable es más corto de lo que muestra la foto."
+      },
+      {
+        "author": "Felipe",
+        "rating": 5,
+        "text": "Diseño elegante y compacto."
+      },
+      {
+        "author": "Renata",
+        "rating": 3,
+        "text": "Es lo que se ve, ni más ni menos."
+      },
+      {
+        "author": "Juan",
+        "rating": 2,
+        "text": "Llegó con un raspón en la caja."
+      },
+      {
+        "author": "Valentina",
+        "rating": 5,
+        "text": "Estoy muy contento con la compra."
+      },
+      {
+        "author": "Juan",
+        "rating": 4,
+        "text": "El acabado es impecable, se siente premium. El manual viene en inglés solamente."
+      },
+      {
+        "author": "Isabella",
+        "rating": 5,
+        "text": "Diseño elegante y compacto."
+      },
+      {
+        "author": "Juan",
+        "rating": 4,
+        "text": "Excelente atención post-venta también."
+      },
+      {
+        "author": "Julieta",
+        "rating": 3,
+        "text": "Lo recomendaría con reservas."
+      },
+      {
+        "author": "María",
+        "rating": 4,
+        "text": "Resistente y bien construido."
+      },
+      {
+        "author": "Juan",
+        "rating": 5,
+        "text": "Funciona tal como dice la descripción. El diseño no es tan moderno como en las fotos."
+      },
+      {
+        "author": "Julieta",
+        "rating": 3,
+        "text": "Cumple su función básica."
+      },
+      {
+        "author": "Mía",
+        "rating": 4,
+        "text": "Súper fácil de usar y configurar."
+      },
+      {
+        "author": "Felipe",
+        "rating": 3,
+        "text": "Cumple su función básica."
+      },
+      {
+        "author": "Florencia",
+        "rating": 3,
+        "text": "Nada destacable, pero tampoco fallas graves."
+      }
+    ]
+  },
+  {
+    "id": "p_011",
+    "title": "Casco para bici certificado",
+    "imageUrl": "http://localhost:9090/images/p_011.jpg",
+    "reviews": [
+      {
+        "author": "Santino",
+        "rating": 5,
+        "text": "El acabado es impecable, se siente premium."
+      },
+      {
+        "author": "Isabella",
+        "rating": 4,
+        "text": "Mucho mejor que otras marcas que probé. La batería dura menos de lo esperado."
+      },
+      {
+        "author": "Santino",
+        "rating": 5,
+        "text": "Funciona tal como dice la descripción."
+      },
+      {
+        "author": "Tomás",
+        "rating": 4,
+        "text": "Muy buena terminación, sin defectos."
+      },
+      {
+        "author": "Catalina",
+        "rating": 4,
+        "text": "Diseño elegante y compacto. Hace ruido cuando se usa a máxima potencia."
+      },
+      {
+        "author": "Ignacio",
+        "rating": 5,
+        "text": "Material de primera, se nota la diferencia."
+      },
+      {
+        "author": "Emma",
+        "rating": 3,
+        "text": "Para el uso ocasional cumple."
+      },
+      {
+        "author": "Mía",
+        "rating": 2,
+        "text": "El diseño no es tan moderno como en las fotos."
+      },
+      {
+        "author": "Catalina",
+        "rating": 5,
+        "text": "Cumple con todo lo prometido y más. El diseño no es tan moderno como en las fotos."
+      },
+      {
+        "author": "Ignacio",
+        "rating": 3,
+        "text": "Nada destacable, pero tampoco fallas graves."
+      },
+      {
+        "author": "Lautaro",
+        "rating": 2,
+        "text": "El cable es más corto de lo que muestra la foto."
+      },
+      {
+        "author": "Mía",
+        "rating": 4,
+        "text": "Estoy muy contento con la compra."
+      },
+      {
+        "author": "Bruno",
+        "rating": 4,
+        "text": "Liviano y fácil de transportar."
+      },
+      {
+        "author": "Sofía",
+        "rating": 4,
+        "text": "Excelente calidad, lo recomiendo sin dudar. El manual viene en inglés solamente."
+      },
+      {
+        "author": "Joaquín",
+        "rating": 3,
+        "text": "Está bien por el precio."
+      },
+      {
+        "author": "Lucía",
+        "rating": 5,
+        "text": "Sonido nítido, sin distorsión."
+      },
+      {
+        "author": "Isabella",
+        "rating": 1,
+        "text": "Por el precio esperaba mejor calidad de imagen."
+      },
+      {
+        "author": "Benjamín",
+        "rating": 5,
+        "text": "Cumple con todo lo prometido y más."
+      }
+    ]
+  },
+  {
+    "id": "p_012",
+    "title": "Espejo de pared circular",
+    "imageUrl": "http://localhost:9090/images/p_012.jpg",
+    "reviews": [
+      {
+        "author": "Felipe",
+        "rating": 3,
+        "text": "Es lo que se ve, ni más ni menos."
+      },
+      {
+        "author": "Diego",
+        "rating": 4,
+        "text": "Muy buena terminación, sin defectos."
+      },
+      {
+        "author": "Ana",
+        "rating": 4,
+        "text": "Buena duración de batería para el tamaño."
+      },
+      {
+        "author": "Florencia",
+        "rating": 5,
+        "text": "Llegó antes de lo esperado y funciona perfecto. Se calienta más de la cuenta."
+      },
+      {
+        "author": "Mía",
+        "rating": 5,
+        "text": "Buena duración de batería para el tamaño."
+      },
+      {
+        "author": "Santino",
+        "rating": 3,
+        "text": "Cumple su función básica."
+      },
+      {
+        "author": "Santino",
+        "rating": 3,
+        "text": "Para el uso ocasional cumple."
+      },
+      {
+        "author": "Joaquín",
+        "rating": 3,
+        "text": "Para el uso ocasional cumple."
+      },
+      {
+        "author": "Felipe",
+        "rating": 4,
+        "text": "Funciona tal como dice la descripción. Tarda demasiado en cargar."
+      },
+      {
+        "author": "Emma",
+        "rating": 5,
+        "text": "Re cómodo, ideal para uso diario."
+      }
+    ]
+  },
+  {
+    "id": "p_013",
+    "title": "Microondas 25L digital",
+    "imageUrl": "http://localhost:9090/images/p_013.jpg",
+    "reviews": [
+      {
+        "author": "Martín",
+        "rating": 2,
+        "text": "El cable es más corto de lo que muestra la foto."
+      },
+      {
+        "author": "Pedro",
+        "rating": 3,
+        "text": "Lo recomendaría con reservas."
+      },
+      {
+        "author": "Tomás",
+        "rating": 4,
+        "text": "Perfecto para regalar."
+      },
+      {
+        "author": "Lautaro",
+        "rating": 4,
+        "text": "El acabado es impecable, se siente premium."
+      },
+      {
+        "author": "Bruno",
+        "rating": 5,
+        "text": "Sonido nítido, sin distorsión."
+      }
+    ]
+  },
+  {
+    "id": "p_014",
+    "title": "Reloj pared minimalista",
+    "imageUrl": "http://localhost:9090/images/p_014.jpg",
+    "reviews": [
+      {
+        "author": "Agustina",
+        "rating": 3,
+        "text": "Es lo que se ve, ni más ni menos."
+      },
+      {
+        "author": "Julieta",
+        "rating": 4,
+        "text": "Funciona tal como dice la descripción."
+      },
+      {
+        "author": "Santino",
+        "rating": 5,
+        "text": "Muy buena terminación, sin defectos."
+      },
+      {
+        "author": "María",
+        "rating": 5,
+        "text": "Liviano y fácil de transportar."
+      },
+      {
+        "author": "María",
+        "rating": 4,
+        "text": "Súper fácil de usar y configurar."
+      },
+      {
+        "author": "Ana",
+        "rating": 4,
+        "text": "Perfecto para regalar."
+      },
+      {
+        "author": "Bruno",
+        "rating": 3,
+        "text": "Funciona ok, no es lo mejor del mercado."
+      },
+      {
+        "author": "Mateo",
+        "rating": 3,
+        "text": "Nada destacable, pero tampoco fallas graves."
+      }
+    ]
+  },
+  {
+    "id": "p_015",
+    "title": "Recipientes herméticos x10",
+    "imageUrl": "http://localhost:9090/images/p_015.jpg",
+    "reviews": [
+      {
+        "author": "Mía",
+        "rating": 4,
+        "text": "Resistente y bien construido."
+      },
+      {
+        "author": "Sofía",
+        "rating": 2,
+        "text": "Por el precio esperaba mejor calidad de imagen."
+      },
+      {
+        "author": "Lucía",
+        "rating": 5,
+        "text": "Resistente y bien construido."
+      },
+      {
+        "author": "Renata",
+        "rating": 2,
+        "text": "Llegó con un raspón en la caja."
+      },
+      {
+        "author": "Agustina",
+        "rating": 5,
+        "text": "Material de primera, se nota la diferencia."
+      },
+      {
+        "author": "Santino",
+        "rating": 3,
+        "text": "Para el uso ocasional cumple."
+      },
+      {
+        "author": "Santino",
+        "rating": 4,
+        "text": "El acabado es impecable, se siente premium."
+      }
+    ]
+  },
+  {
+    "id": "p_016",
+    "title": "Pulsera de actividad inteligente",
+    "imageUrl": "http://localhost:9090/images/p_016.jpg",
+    "reviews": [
+      {
+        "author": "Bruno",
+        "rating": 4,
+        "text": "Material de primera, se nota la diferencia."
+      },
+      {
+        "author": "Sofía",
+        "rating": 2,
+        "text": "Pesa más de lo que pensaba."
+      },
+      {
+        "author": "Valentina",
+        "rating": 3,
+        "text": "Funciona ok, no es lo mejor del mercado."
+      },
+      {
+        "author": "Benjamín",
+        "rating": 4,
+        "text": "Excelente atención post-venta también."
+      },
+      {
+        "author": "Ana",
+        "rating": 3,
+        "text": "Está bien por el precio."
+      },
+      {
+        "author": "Ana",
+        "rating": 3,
+        "text": "Está bien por el precio."
+      },
+      {
+        "author": "Juan",
+        "rating": 4,
+        "text": "Perfecto para regalar."
+      },
+      {
+        "author": "Mateo",
+        "rating": 4,
+        "text": "Sonido nítido, sin distorsión. Hace ruido cuando se usa a máxima potencia."
+      },
+      {
+        "author": "Mateo",
+        "rating": 4,
+        "text": "Sonido nítido, sin distorsión."
+      },
+      {
+        "author": "Julieta",
+        "rating": 5,
+        "text": "Sonido nítido, sin distorsión."
+      },
+      {
+        "author": "Florencia",
+        "rating": 2,
+        "text": "Llegó con un raspón en la caja."
+      },
+      {
+        "author": "Camila",
+        "rating": 4,
+        "text": "Estoy muy contento con la compra."
+      },
+      {
+        "author": "Florencia",
+        "rating": 5,
+        "text": "Resistente y bien construido. La aplicación móvil es lenta y poco intuitiva."
+      },
+      {
+        "author": "Ana",
+        "rating": 3,
+        "text": "Para el uso ocasional cumple."
+      },
+      {
+        "author": "María",
+        "rating": 5,
+        "text": "Llegó antes de lo esperado y funciona perfecto."
+      },
+      {
+        "author": "Camila",
+        "rating": 4,
+        "text": "Perfecto para regalar. El manual viene en inglés solamente."
+      },
+      {
+        "author": "Valentina",
+        "rating": 3,
+        "text": "Lo recomendaría con reservas."
+      },
+      {
+        "author": "Florencia",
+        "rating": 4,
+        "text": "Lo uso todos los días, súper práctico."
+      }
+    ]
+  },
+  {
+    "id": "p_017",
+    "title": "Kit de emergencia para auto",
+    "imageUrl": "http://localhost:9090/images/p_017.jpg",
+    "reviews": [
+      {
+        "author": "Ignacio",
+        "rating": 4,
+        "text": "Buena duración de batería para el tamaño."
+      },
+      {
+        "author": "Mía",
+        "rating": 4,
+        "text": "Excelente calidad, lo recomiendo sin dudar."
+      },
+      {
+        "author": "Lautaro",
+        "rating": 4,
+        "text": "Muy buena terminación, sin defectos."
+      },
+      {
+        "author": "Ignacio",
+        "rating": 4,
+        "text": "Excelente atención post-venta también."
+      },
+      {
+        "author": "Martín",
+        "rating": 4,
+        "text": "Súper fácil de usar y configurar."
+      },
+      {
+        "author": "Bruno",
+        "rating": 2,
+        "text": "Se calienta más de la cuenta."
+      },
+      {
+        "author": "Olivia",
+        "rating": 5,
+        "text": "Perfecto para regalar."
+      },
+      {
+        "author": "Joaquín",
+        "rating": 5,
+        "text": "Muy buena terminación, sin defectos."
+      },
+      {
+        "author": "Emma",
+        "rating": 3,
+        "text": "Funciona ok, no es lo mejor del mercado."
+      },
+      {
+        "author": "Lucía",
+        "rating": 4,
+        "text": "Muy buena relación calidad-precio."
+      },
+      {
+        "author": "Juan",
+        "rating": 3,
+        "text": "Lo recomendaría con reservas."
+      },
+      {
+        "author": "Joaquín",
+        "rating": 3,
+        "text": "Para el uso ocasional cumple."
+      },
+      {
+        "author": "Lucía",
+        "rating": 1,
+        "text": "La batería dura menos de lo esperado."
+      },
+      {
+        "author": "Pedro",
+        "rating": 5,
+        "text": "Muy buena relación calidad-precio."
+      },
+      {
+        "author": "Mía",
+        "rating": 4,
+        "text": "Súper fácil de usar y configurar."
+      }
+    ]
+  },
+  {
+    "id": "p_018",
+    "title": "Teclado mecánico retroiluminado",
+    "imageUrl": "http://localhost:9090/images/p_018.jpg",
+    "reviews": [
+      {
+        "author": "Felipe",
+        "rating": 4,
+        "text": "Muy buena terminación, sin defectos."
+      },
+      {
+        "author": "Lucía",
+        "rating": 4,
+        "text": "Muy buena relación calidad-precio."
+      },
+      {
+        "author": "Martín",
+        "rating": 5,
+        "text": "Sonido nítido, sin distorsión."
+      },
+      {
+        "author": "Juan",
+        "rating": 4,
+        "text": "Material de primera, se nota la diferencia."
+      },
+      {
+        "author": "María",
+        "rating": 4,
+        "text": "El acabado es impecable, se siente premium."
+      },
+      {
+        "author": "Lautaro",
+        "rating": 4,
+        "text": "Llegó antes de lo esperado y funciona perfecto. El soporte no fija bien al escritorio."
+      },
+      {
+        "author": "Florencia",
+        "rating": 5,
+        "text": "Perfecto para regalar. El plástico se siente un poco endeble."
+      },
+      {
+        "author": "Federico",
+        "rating": 5,
+        "text": "Re cómodo, ideal para uso diario. Hace ruido cuando se usa a máxima potencia."
+      },
+      {
+        "author": "Valentina",
+        "rating": 5,
+        "text": "Excelente calidad, lo recomiendo sin dudar."
+      },
+      {
+        "author": "Bruno",
+        "rating": 4,
+        "text": "Mucho mejor que otras marcas que probé."
+      },
+      {
+        "author": "Lautaro",
+        "rating": 4,
+        "text": "Liviano y fácil de transportar. Se calienta más de la cuenta."
+      },
+      {
+        "author": "Agustina",
+        "rating": 5,
+        "text": "Llegó antes de lo esperado y funciona perfecto."
+      }
+    ]
+  },
+  {
+    "id": "p_019",
+    "title": "Pelota de fútbol talla 5",
+    "imageUrl": "http://localhost:9090/images/p_019.jpg",
+    "reviews": [
+      {
+        "author": "Florencia",
+        "rating": 2,
+        "text": "Se calienta más de la cuenta."
+      },
+      {
+        "author": "Federico",
+        "rating": 5,
+        "text": "Perfecto para regalar."
+      },
+      {
+        "author": "Santino",
+        "rating": 5,
+        "text": "Buena duración de batería para el tamaño."
+      },
+      {
+        "author": "Ana",
+        "rating": 5,
+        "text": "Lo uso todos los días, súper práctico."
+      },
+      {
+        "author": "Juan",
+        "rating": 3,
+        "text": "Cumple su función básica."
+      },
+      {
+        "author": "Florencia",
+        "rating": 4,
+        "text": "Diseño elegante y compacto."
+      },
+      {
+        "author": "Ana",
+        "rating": 4,
+        "text": "Diseño elegante y compacto."
+      },
+      {
+        "author": "María",
+        "rating": 5,
+        "text": "Muy buena relación calidad-precio."
+      },
+      {
+        "author": "Joaquín",
+        "rating": 5,
+        "text": "Resistente y bien construido."
+      },
+      {
+        "author": "Pedro",
+        "rating": 5,
+        "text": "Material de primera, se nota la diferencia. Llegó con un raspón en la caja."
+      },
+      {
+        "author": "Federico",
+        "rating": 3,
+        "text": "Nada destacable, pero tampoco fallas graves."
+      },
+      {
+        "author": "Florencia",
+        "rating": 5,
+        "text": "Cumple con todo lo prometido y más."
+      },
+      {
+        "author": "Florencia",
+        "rating": 5,
+        "text": "Estoy muy contento con la compra."
+      },
+      {
+        "author": "Santino",
+        "rating": 3,
+        "text": "Funciona ok, no es lo mejor del mercado."
+      },
+      {
+        "author": "Florencia",
+        "rating": 5,
+        "text": "Resistente y bien construido."
+      },
+      {
+        "author": "Pedro",
+        "rating": 3,
+        "text": "Está bien por el precio."
+      },
+      {
+        "author": "Sofía",
+        "rating": 5,
+        "text": "Excelente atención post-venta también. Se calienta más de la cuenta."
+      },
+      {
+        "author": "María",
+        "rating": 3,
+        "text": "Es lo que se ve, ni más ni menos."
+      }
+    ]
+  },
+  {
+    "id": "p_020",
+    "title": "Afeitadora eléctrica 4 cabezales",
+    "imageUrl": "http://localhost:9090/images/p_020.jpg",
+    "reviews": [
+      {
+        "author": "Isabella",
+        "rating": 5,
+        "text": "Cumple con todo lo prometido y más."
+      },
+      {
+        "author": "Mía",
+        "rating": 3,
+        "text": "Está bien por el precio."
+      },
+      {
+        "author": "Florencia",
+        "rating": 2,
+        "text": "La batería dura menos de lo esperado."
+      },
+      {
+        "author": "Felipe",
+        "rating": 4,
+        "text": "Muy buena terminación, sin defectos."
+      },
+      {
+        "author": "Joaquín",
+        "rating": 1,
+        "text": "La aplicación móvil es lenta y poco intuitiva."
+      },
+      {
+        "author": "Agustina",
+        "rating": 1,
+        "text": "Por el precio esperaba mejor calidad de imagen."
+      },
+      {
+        "author": "Lucía",
+        "rating": 2,
+        "text": "Tarda demasiado en cargar."
+      },
+      {
+        "author": "Catalina",
+        "rating": 4,
+        "text": "Lo uso todos los días, súper práctico."
+      },
+      {
+        "author": "Isabella",
+        "rating": 5,
+        "text": "El acabado es impecable, se siente premium."
+      },
+      {
+        "author": "Julieta",
+        "rating": 3,
+        "text": "Es lo que se ve, ni más ni menos."
+      },
+      {
+        "author": "Olivia",
+        "rating": 2,
+        "text": "El plástico se siente un poco endeble."
+      },
+      {
+        "author": "Pedro",
+        "rating": 5,
+        "text": "Material de primera, se nota la diferencia."
+      },
+      {
+        "author": "Sofía",
+        "rating": 2,
+        "text": "Tarda demasiado en cargar."
+      },
+      {
+        "author": "Agustina",
+        "rating": 5,
+        "text": "Mucho mejor que otras marcas que probé. El manual viene en inglés solamente."
+      },
+      {
+        "author": "Lautaro",
+        "rating": 5,
+        "text": "Material de primera, se nota la diferencia. Por el precio esperaba mejor calidad de imagen."
+      }
+    ]
+  },
+  {
+    "id": "p_021",
+    "title": "Licuadora de vaso 1.5L 1000W",
+    "imageUrl": "http://localhost:9090/images/p_021.jpg",
+    "reviews": [
+      {
+        "author": "Renata",
+        "rating": 4,
+        "text": "Sonido nítido, sin distorsión."
+      },
+      {
+        "author": "Renata",
+        "rating": 1,
+        "text": "El soporte no fija bien al escritorio."
+      },
+      {
+        "author": "Camila",
+        "rating": 5,
+        "text": "Liviano y fácil de transportar. Llegó con un raspón en la caja."
+      },
+      {
+        "author": "Pedro",
+        "rating": 5,
+        "text": "Perfecto para regalar. Pesa más de lo que pensaba."
+      }
+    ]
+  },
+  {
+    "id": "p_022",
+    "title": "Almohada viscoelástica memoria",
+    "imageUrl": "http://localhost:9090/images/p_022.jpg",
+    "reviews": [
+      {
+        "author": "Julieta",
+        "rating": 3,
+        "text": "Para el uso ocasional cumple."
+      },
+      {
+        "author": "Federico",
+        "rating": 4,
+        "text": "Excelente calidad, lo recomiendo sin dudar."
+      },
+      {
+        "author": "Pedro",
+        "rating": 4,
+        "text": "Llegó antes de lo esperado y funciona perfecto. Tarda demasiado en cargar."
+      }
+    ]
+  },
+  {
+    "id": "p_023",
+    "title": "Cubierta para auto impermeable",
+    "imageUrl": "http://localhost:9090/images/p_023.jpg",
+    "reviews": [
+      {
+        "author": "Felipe",
+        "rating": 4,
+        "text": "Re cómodo, ideal para uso diario."
+      },
+      {
+        "author": "Julieta",
+        "rating": 5,
+        "text": "Estoy muy contento con la compra."
+      },
+      {
+        "author": "Valentina",
+        "rating": 5,
+        "text": "Mucho mejor que otras marcas que probé."
+      },
+      {
+        "author": "Sofía",
+        "rating": 3,
+        "text": "Funciona ok, no es lo mejor del mercado."
+      },
+      {
+        "author": "Isabella",
+        "rating": 5,
+        "text": "Re cómodo, ideal para uso diario."
+      },
+      {
+        "author": "Sofía",
+        "rating": 5,
+        "text": "Buena duración de batería para el tamaño. Los accesorios incluidos son básicos."
+      },
+      {
+        "author": "Martín",
+        "rating": 4,
+        "text": "Mucho mejor que otras marcas que probé. El diseño no es tan moderno como en las fotos."
+      },
+      {
+        "author": "Renata",
+        "rating": 2,
+        "text": "La batería dura menos de lo esperado."
+      },
+      {
+        "author": "Benjamín",
+        "rating": 4,
+        "text": "Lo uso todos los días, súper práctico."
+      },
+      {
+        "author": "Sofía",
+        "rating": 5,
+        "text": "Lo uso todos los días, súper práctico."
+      }
+    ]
+  },
+  {
+    "id": "p_024",
+    "title": "Maleta cabina rígida 4 ruedas",
+    "imageUrl": "http://localhost:9090/images/p_024.jpg",
+    "reviews": [
+      {
+        "author": "Mateo",
+        "rating": 5,
+        "text": "Excelente atención post-venta también."
+      },
+      {
+        "author": "Camila",
+        "rating": 4,
+        "text": "Lo uso todos los días, súper práctico."
+      },
+      {
+        "author": "Joaquín",
+        "rating": 5,
+        "text": "Liviano y fácil de transportar. El manual viene en inglés solamente."
+      },
+      {
+        "author": "Mateo",
+        "rating": 3,
+        "text": "Cumple su función básica."
+      },
+      {
+        "author": "Ignacio",
+        "rating": 2,
+        "text": "La batería dura menos de lo esperado."
+      },
+      {
+        "author": "Agustina",
+        "rating": 4,
+        "text": "Lo uso todos los días, súper práctico. El cable es más corto de lo que muestra la foto."
+      },
+      {
+        "author": "Bruno",
+        "rating": 4,
+        "text": "Cumple con todo lo prometido y más. Tarda demasiado en cargar."
+      },
+      {
+        "author": "Sofía",
+        "rating": 1,
+        "text": "El diseño no es tan moderno como en las fotos."
+      }
+    ]
+  },
+  {
+    "id": "p_025",
+    "title": "Memoria microSD 256GB",
+    "imageUrl": "http://localhost:9090/images/p_025.jpg",
+    "reviews": [
+      {
+        "author": "Mía",
+        "rating": 4,
+        "text": "El acabado es impecable, se siente premium."
+      },
+      {
+        "author": "Nicolás",
+        "rating": 1,
+        "text": "La aplicación móvil es lenta y poco intuitiva."
+      },
+      {
+        "author": "Tomás",
+        "rating": 4,
+        "text": "Muy buena terminación, sin defectos. Pesa más de lo que pensaba."
+      },
+      {
+        "author": "Ignacio",
+        "rating": 4,
+        "text": "Resistente y bien construido."
+      },
+      {
+        "author": "Isabella",
+        "rating": 4,
+        "text": "Perfecto para regalar."
+      },
+      {
+        "author": "Nicolás",
+        "rating": 4,
+        "text": "Llegó antes de lo esperado y funciona perfecto."
+      },
+      {
+        "author": "Joaquín",
+        "rating": 3,
+        "text": "Nada destacable, pero tampoco fallas graves."
+      },
+      {
+        "author": "Camila",
+        "rating": 2,
+        "text": "La aplicación móvil es lenta y poco intuitiva."
+      }
+    ]
+  },
+  {
+    "id": "p_026",
+    "title": "Patines en línea adultos",
+    "imageUrl": "http://localhost:9090/images/p_026.jpg",
+    "reviews": [
+      {
+        "author": "Emma",
+        "rating": 3,
+        "text": "Funciona ok, no es lo mejor del mercado."
+      },
+      {
+        "author": "Santino",
+        "rating": 5,
+        "text": "Estoy muy contento con la compra. Llegó con un raspón en la caja."
+      },
+      {
+        "author": "Pedro",
+        "rating": 4,
+        "text": "Material de primera, se nota la diferencia. Por el precio esperaba mejor calidad de imagen."
+      },
+      {
+        "author": "Mía",
+        "rating": 5,
+        "text": "Muy buena terminación, sin defectos. El manual viene en inglés solamente."
+      },
+      {
+        "author": "Agustina",
+        "rating": 4,
+        "text": "Lo uso todos los días, súper práctico."
+      },
+      {
+        "author": "Catalina",
+        "rating": 5,
+        "text": "Sonido nítido, sin distorsión."
+      },
+      {
+        "author": "Valentina",
+        "rating": 4,
+        "text": "Material de primera, se nota la diferencia."
+      },
+      {
+        "author": "Felipe",
+        "rating": 5,
+        "text": "Lo uso todos los días, súper práctico."
+      },
+      {
+        "author": "Julieta",
+        "rating": 5,
+        "text": "Sonido nítido, sin distorsión."
+      },
+      {
+        "author": "Renata",
+        "rating": 4,
+        "text": "Material de primera, se nota la diferencia."
+      }
+    ]
+  },
+  {
+    "id": "p_027",
+    "title": "Botiquín portátil de viaje",
+    "imageUrl": "http://localhost:9090/images/p_027.jpg",
+    "reviews": [
+      {
+        "author": "Martín",
+        "rating": 5,
+        "text": "Resistente y bien construido."
+      },
+      {
+        "author": "Olivia",
+        "rating": 4,
+        "text": "Sonido nítido, sin distorsión."
+      },
+      {
+        "author": "Catalina",
+        "rating": 2,
+        "text": "La batería dura menos de lo esperado."
+      },
+      {
+        "author": "Pedro",
+        "rating": 3,
+        "text": "Lo recomendaría con reservas."
+      },
+      {
+        "author": "Benjamín",
+        "rating": 4,
+        "text": "Llegó antes de lo esperado y funciona perfecto."
+      }
+    ]
+  },
+  {
+    "id": "p_028",
+    "title": "Set de cuchillos 6 piezas",
+    "imageUrl": "http://localhost:9090/images/p_028.jpg",
+    "reviews": [
+      {
+        "author": "Federico",
+        "rating": 2,
+        "text": "Pesa más de lo que pensaba."
+      },
+      {
+        "author": "María",
+        "rating": 3,
+        "text": "Para el uso ocasional cumple."
+      },
+      {
+        "author": "Agustina",
+        "rating": 4,
+        "text": "Excelente atención post-venta también."
+      },
+      {
+        "author": "Benjamín",
+        "rating": 1,
+        "text": "El manual viene en inglés solamente."
+      },
+      {
+        "author": "Joaquín",
+        "rating": 4,
+        "text": "Diseño elegante y compacto."
+      },
+      {
+        "author": "Federico",
+        "rating": 5,
+        "text": "Sonido nítido, sin distorsión. El manual viene en inglés solamente."
+      },
+      {
+        "author": "Bruno",
+        "rating": 5,
+        "text": "Súper fácil de usar y configurar."
+      },
+      {
+        "author": "Pedro",
+        "rating": 5,
+        "text": "Súper fácil de usar y configurar."
+      },
+      {
+        "author": "Mateo",
+        "rating": 5,
+        "text": "Mucho mejor que otras marcas que probé."
+      },
+      {
+        "author": "Sofía",
+        "rating": 2,
+        "text": "El soporte no fija bien al escritorio."
+      }
+    ]
+  },
+  {
+    "id": "p_029",
+    "title": "Tabla de picar de bambú",
+    "imageUrl": "http://localhost:9090/images/p_029.jpg",
+    "reviews": [
+      {
+        "author": "Lautaro",
+        "rating": 4,
+        "text": "Súper fácil de usar y configurar."
+      },
+      {
+        "author": "Felipe",
+        "rating": 5,
+        "text": "Estoy muy contento con la compra."
+      },
+      {
+        "author": "Joaquín",
+        "rating": 4,
+        "text": "Mucho mejor que otras marcas que probé. Por el precio esperaba mejor calidad de imagen."
+      },
+      {
+        "author": "Julieta",
+        "rating": 4,
+        "text": "Excelente atención post-venta también."
+      },
+      {
+        "author": "Lucía",
+        "rating": 3,
+        "text": "Nada destacable, pero tampoco fallas graves."
+      },
+      {
+        "author": "Camila",
+        "rating": 3,
+        "text": "Lo recomendaría con reservas."
+      },
+      {
+        "author": "Nicolás",
+        "rating": 4,
+        "text": "Excelente atención post-venta también."
+      },
+      {
+        "author": "Lucía",
+        "rating": 4,
+        "text": "Excelente calidad, lo recomiendo sin dudar."
+      },
+      {
+        "author": "Ana",
+        "rating": 5,
+        "text": "Resistente y bien construido."
+      },
+      {
+        "author": "Lucía",
+        "rating": 5,
+        "text": "Súper fácil de usar y configurar. Llegó con un raspón en la caja."
+      },
+      {
+        "author": "Federico",
+        "rating": 2,
+        "text": "El plástico se siente un poco endeble."
+      },
+      {
+        "author": "Felipe",
+        "rating": 5,
+        "text": "Resistente y bien construido."
+      },
+      {
+        "author": "Felipe",
+        "rating": 5,
+        "text": "El acabado es impecable, se siente premium."
+      },
+      {
+        "author": "Florencia",
+        "rating": 4,
+        "text": "Resistente y bien construido."
+      },
+      {
+        "author": "Martín",
+        "rating": 3,
+        "text": "Nada destacable, pero tampoco fallas graves."
+      },
+      {
+        "author": "Mía",
+        "rating": 4,
+        "text": "Estoy muy contento con la compra."
+      },
+      {
+        "author": "Lucía",
+        "rating": 5,
+        "text": "Muy buena terminación, sin defectos. Hace ruido cuando se usa a máxima potencia."
+      },
+      {
+        "author": "Ana",
+        "rating": 5,
+        "text": "Material de primera, se nota la diferencia."
+      }
+    ]
+  },
+  {
+    "id": "p_030",
+    "title": "Auriculares deportivos in-ear",
+    "imageUrl": "http://localhost:9090/images/p_030.jpg",
+    "reviews": [
+      {
+        "author": "Santino",
+        "rating": 3,
+        "text": "Es lo que se ve, ni más ni menos."
+      },
+      {
+        "author": "Catalina",
+        "rating": 5,
+        "text": "Excelente calidad, lo recomiendo sin dudar."
+      },
+      {
+        "author": "Sofía",
+        "rating": 5,
+        "text": "Sonido nítido, sin distorsión."
+      },
+      {
+        "author": "Ignacio",
+        "rating": 2,
+        "text": "Se calienta más de la cuenta."
+      },
+      {
+        "author": "Joaquín",
+        "rating": 4,
+        "text": "Mucho mejor que otras marcas que probé."
+      },
+      {
+        "author": "Sofía",
+        "rating": 3,
+        "text": "Es lo que se ve, ni más ni menos."
+      },
+      {
+        "author": "Federico",
+        "rating": 5,
+        "text": "Muy buena relación calidad-precio."
+      },
+      {
+        "author": "Joaquín",
+        "rating": 5,
+        "text": "Estoy muy contento con la compra. Pesa más de lo que pensaba."
+      }
+    ]
+  },
+  {
+    "id": "p_031",
+    "title": "Aspiradora portátil 12V auto",
+    "imageUrl": "http://localhost:9090/images/p_031.jpg",
+    "reviews": [
+      {
+        "author": "Joaquín",
+        "rating": 5,
+        "text": "Muy buena terminación, sin defectos."
+      },
+      {
+        "author": "Lucía",
+        "rating": 4,
+        "text": "Diseño elegante y compacto."
+      },
+      {
+        "author": "Martín",
+        "rating": 5,
+        "text": "Sonido nítido, sin distorsión."
+      },
+      {
+        "author": "Federico",
+        "rating": 4,
+        "text": "Perfecto para regalar. La batería dura menos de lo esperado."
+      },
+      {
+        "author": "Camila",
+        "rating": 3,
+        "text": "Está bien por el precio."
+      },
+      {
+        "author": "Camila",
+        "rating": 5,
+        "text": "Cumple con todo lo prometido y más."
+      },
+      {
+        "author": "Florencia",
+        "rating": 3,
+        "text": "Funciona ok, no es lo mejor del mercado."
+      }
+    ]
+  },
+  {
+    "id": "p_032",
+    "title": "Drone con cámara 4K",
+    "imageUrl": "http://localhost:9090/images/p_032.jpg",
+    "reviews": [
+      {
+        "author": "Ignacio",
+        "rating": 4,
+        "text": "Re cómodo, ideal para uso diario."
+      },
+      {
+        "author": "Catalina",
+        "rating": 3,
+        "text": "Lo recomendaría con reservas."
+      },
+      {
+        "author": "Mía",
+        "rating": 5,
+        "text": "Súper fácil de usar y configurar."
+      }
+    ]
+  },
+  {
+    "id": "p_033",
+    "title": "Hamaca paraguaya doble",
+    "imageUrl": "http://localhost:9090/images/p_033.jpg",
+    "reviews": [
+      {
+        "author": "Benjamín",
+        "rating": 5,
+        "text": "Material de primera, se nota la diferencia."
+      },
+      {
+        "author": "Diego",
+        "rating": 2,
+        "text": "Hace ruido cuando se usa a máxima potencia."
+      },
+      {
+        "author": "Joaquín",
+        "rating": 4,
+        "text": "Mucho mejor que otras marcas que probé."
+      },
+      {
+        "author": "Agustina",
+        "rating": 4,
+        "text": "Sonido nítido, sin distorsión."
+      },
+      {
+        "author": "Mía",
+        "rating": 3,
+        "text": "Está bien por el precio."
+      },
+      {
+        "author": "Mía",
+        "rating": 1,
+        "text": "La aplicación móvil es lenta y poco intuitiva."
+      },
+      {
+        "author": "Isabella",
+        "rating": 4,
+        "text": "Estoy muy contento con la compra. Hace ruido cuando se usa a máxima potencia."
+      },
+      {
+        "author": "Diego",
+        "rating": 3,
+        "text": "Para el uso ocasional cumple."
+      },
+      {
+        "author": "Bruno",
+        "rating": 5,
+        "text": "Material de primera, se nota la diferencia."
+      },
+      {
+        "author": "Juan",
+        "rating": 2,
+        "text": "Se calienta más de la cuenta."
+      },
+      {
+        "author": "Mía",
+        "rating": 1,
+        "text": "La aplicación móvil es lenta y poco intuitiva."
+      },
+      {
+        "author": "Benjamín",
+        "rating": 4,
+        "text": "Cumple con todo lo prometido y más. Llegó con un raspón en la caja."
+      },
+      {
+        "author": "Mateo",
+        "rating": 5,
+        "text": "Súper fácil de usar y configurar."
+      },
+      {
+        "author": "Joaquín",
+        "rating": 3,
+        "text": "Cumple su función básica."
+      },
+      {
+        "author": "Santino",
+        "rating": 5,
+        "text": "Re cómodo, ideal para uso diario."
+      }
+    ]
+  },
+  {
+    "id": "p_034",
+    "title": "Vidrio templado pantalla",
+    "imageUrl": "http://localhost:9090/images/p_034.jpg",
+    "reviews": [
+      {
+        "author": "Ignacio",
+        "rating": 4,
+        "text": "Diseño elegante y compacto."
+      },
+      {
+        "author": "Florencia",
+        "rating": 5,
+        "text": "Excelente atención post-venta también. Hace ruido cuando se usa a máxima potencia."
+      },
+      {
+        "author": "Ana",
+        "rating": 2,
+        "text": "Se calienta más de la cuenta."
+      },
+      {
+        "author": "Olivia",
+        "rating": 5,
+        "text": "Liviano y fácil de transportar."
+      },
+      {
+        "author": "Santino",
+        "rating": 3,
+        "text": "Cumple su función básica."
+      },
+      {
+        "author": "Nicolás",
+        "rating": 5,
+        "text": "Cumple con todo lo prometido y más. El botón se traba a veces."
+      },
+      {
+        "author": "Olivia",
+        "rating": 5,
+        "text": "Excelente calidad, lo recomiendo sin dudar. Hace ruido cuando se usa a máxima potencia."
+      },
+      {
+        "author": "Lucía",
+        "rating": 3,
+        "text": "Está bien por el precio."
+      },
+      {
+        "author": "Benjamín",
+        "rating": 2,
+        "text": "La aplicación móvil es lenta y poco intuitiva."
+      },
+      {
+        "author": "Olivia",
+        "rating": 5,
+        "text": "Resistente y bien construido. Por el precio esperaba mejor calidad de imagen."
+      },
+      {
+        "author": "Tomás",
+        "rating": 5,
+        "text": "Súper fácil de usar y configurar. El diseño no es tan moderno como en las fotos."
+      },
+      {
+        "author": "Santino",
+        "rating": 4,
+        "text": "Súper fácil de usar y configurar."
+      },
+      {
+        "author": "Julieta",
+        "rating": 4,
+        "text": "Excelente atención post-venta también."
+      },
+      {
+        "author": "Ana",
+        "rating": 5,
+        "text": "El acabado es impecable, se siente premium."
+      },
+      {
+        "author": "Florencia",
+        "rating": 1,
+        "text": "La batería dura menos de lo esperado."
+      },
+      {
+        "author": "Agustina",
+        "rating": 4,
+        "text": "Funciona tal como dice la descripción."
+      },
+      {
+        "author": "Santino",
+        "rating": 5,
+        "text": "Material de primera, se nota la diferencia. Se calienta más de la cuenta."
+      },
+      {
+        "author": "Tomás",
+        "rating": 4,
+        "text": "Sonido nítido, sin distorsión."
+      },
+      {
+        "author": "Renata",
+        "rating": 3,
+        "text": "Está bien por el precio."
+      },
+      {
+        "author": "María",
+        "rating": 4,
+        "text": "Resistente y bien construido. La aplicación móvil es lenta y poco intuitiva."
+      }
+    ]
+  },
+  {
+    "id": "p_035",
+    "title": "Cortinas blackout 2 paños",
+    "imageUrl": "http://localhost:9090/images/p_035.jpg",
+    "reviews": [
+      {
+        "author": "Santino",
+        "rating": 2,
+        "text": "La aplicación móvil es lenta y poco intuitiva."
+      },
+      {
+        "author": "Federico",
+        "rating": 5,
+        "text": "Buena duración de batería para el tamaño. Pesa más de lo que pensaba."
+      },
+      {
+        "author": "Martín",
+        "rating": 4,
+        "text": "Excelente atención post-venta también. El soporte no fija bien al escritorio."
+      },
+      {
+        "author": "Sofía",
+        "rating": 4,
+        "text": "Lo uso todos los días, súper práctico. Tarda demasiado en cargar."
+      },
+      {
+        "author": "Camila",
+        "rating": 2,
+        "text": "Se calienta más de la cuenta."
+      },
+      {
+        "author": "Mía",
+        "rating": 3,
+        "text": "Nada destacable, pero tampoco fallas graves."
+      },
+      {
+        "author": "Bruno",
+        "rating": 3,
+        "text": "Cumple su función básica."
+      },
+      {
+        "author": "Sofía",
+        "rating": 4,
+        "text": "Súper fácil de usar y configurar."
+      },
+      {
+        "author": "Ana",
+        "rating": 3,
+        "text": "Funciona ok, no es lo mejor del mercado."
+      },
+      {
+        "author": "Julieta",
+        "rating": 4,
+        "text": "Diseño elegante y compacto. El botón se traba a veces."
+      }
+    ]
+  },
+  {
+    "id": "p_036",
+    "title": "Termómetro infrarrojo sin contacto",
+    "imageUrl": "http://localhost:9090/images/p_036.jpg",
+    "reviews": [
+      {
+        "author": "Tomás",
+        "rating": 3,
+        "text": "Para el uso ocasional cumple."
+      },
+      {
+        "author": "Federico",
+        "rating": 5,
+        "text": "Buena duración de batería para el tamaño."
+      },
+      {
+        "author": "Lautaro",
+        "rating": 4,
+        "text": "Muy buena relación calidad-precio."
+      },
+      {
+        "author": "Pedro",
+        "rating": 5,
+        "text": "Excelente atención post-venta también."
+      },
+      {
+        "author": "Nicolás",
+        "rating": 4,
+        "text": "Perfecto para regalar."
+      },
+      {
+        "author": "Benjamín",
+        "rating": 5,
+        "text": "Re cómodo, ideal para uso diario."
+      },
+      {
+        "author": "Florencia",
+        "rating": 2,
+        "text": "El soporte no fija bien al escritorio."
+      },
+      {
+        "author": "Emma",
+        "rating": 5,
+        "text": "Diseño elegante y compacto."
+      }
+    ]
+  },
+  {
+    "id": "p_037",
+    "title": "Aspiradora de mano sin cable",
+    "imageUrl": "http://localhost:9090/images/p_037.jpg",
+    "reviews": [
+      {
+        "author": "Lucía",
+        "rating": 3,
+        "text": "Cumple su función básica."
+      },
+      {
+        "author": "Federico",
+        "rating": 1,
+        "text": "Por el precio esperaba mejor calidad de imagen."
+      },
+      {
+        "author": "María",
+        "rating": 4,
+        "text": "Funciona tal como dice la descripción. Se calienta más de la cuenta."
+      },
+      {
+        "author": "Nicolás",
+        "rating": 4,
+        "text": "Excelente atención post-venta también. Pesa más de lo que pensaba."
+      },
+      {
+        "author": "Sofía",
+        "rating": 2,
+        "text": "Pesa más de lo que pensaba."
+      },
+      {
+        "author": "Julieta",
+        "rating": 4,
+        "text": "El acabado es impecable, se siente premium."
+      },
+      {
+        "author": "Mateo",
+        "rating": 1,
+        "text": "La aplicación móvil es lenta y poco intuitiva."
+      },
+      {
+        "author": "Florencia",
+        "rating": 4,
+        "text": "Muy buena relación calidad-precio."
+      },
+      {
+        "author": "Isabella",
+        "rating": 5,
+        "text": "Muy buena relación calidad-precio."
+      },
+      {
+        "author": "Nicolás",
+        "rating": 4,
+        "text": "Excelente atención post-venta también. Por el precio esperaba mejor calidad de imagen."
+      },
+      {
+        "author": "Juan",
+        "rating": 4,
+        "text": "Sonido nítido, sin distorsión. El cable es más corto de lo que muestra la foto."
+      },
+      {
+        "author": "Pedro",
+        "rating": 5,
+        "text": "Excelente atención post-venta también."
+      },
+      {
+        "author": "Tomás",
+        "rating": 5,
+        "text": "Llegó antes de lo esperado y funciona perfecto."
+      },
+      {
+        "author": "Mateo",
+        "rating": 4,
+        "text": "Excelente calidad, lo recomiendo sin dudar."
+      },
+      {
+        "author": "Camila",
+        "rating": 4,
+        "text": "Muy buena relación calidad-precio."
+      },
+      {
+        "author": "Joaquín",
+        "rating": 5,
+        "text": "Súper fácil de usar y configurar. El diseño no es tan moderno como en las fotos."
+      },
+      {
+        "author": "Olivia",
+        "rating": 4,
+        "text": "Perfecto para regalar."
+      },
+      {
+        "author": "Julieta",
+        "rating": 4,
+        "text": "Diseño elegante y compacto. Los accesorios incluidos son básicos."
+      },
+      {
+        "author": "Emma",
+        "rating": 4,
+        "text": "El acabado es impecable, se siente premium."
+      },
+      {
+        "author": "Bruno",
+        "rating": 5,
+        "text": "Mucho mejor que otras marcas que probé."
+      }
+    ]
+  },
+  {
+    "id": "p_038",
+    "title": "Cargador inalámbrico para auto",
+    "imageUrl": "http://localhost:9090/images/p_038.jpg",
+    "reviews": [
+      {
+        "author": "Bruno",
+        "rating": 5,
+        "text": "Material de primera, se nota la diferencia."
+      },
+      {
+        "author": "Benjamín",
+        "rating": 3,
+        "text": "Lo recomendaría con reservas."
+      },
+      {
+        "author": "Felipe",
+        "rating": 5,
+        "text": "Liviano y fácil de transportar."
+      },
+      {
+        "author": "Joaquín",
+        "rating": 4,
+        "text": "Resistente y bien construido."
+      },
+      {
+        "author": "Florencia",
+        "rating": 3,
+        "text": "Cumple su función básica."
+      },
+      {
+        "author": "Olivia",
+        "rating": 4,
+        "text": "Muy buena relación calidad-precio. Tarda demasiado en cargar."
+      },
+      {
+        "author": "Lautaro",
+        "rating": 3,
+        "text": "Para el uso ocasional cumple."
+      }
+    ]
+  },
+  {
+    "id": "p_039",
+    "title": "Anteojos de sol polarizados",
+    "imageUrl": "http://localhost:9090/images/p_039.jpg",
+    "reviews": [
+      {
+        "author": "Martín",
+        "rating": 3,
+        "text": "Está bien por el precio."
+      },
+      {
+        "author": "Renata",
+        "rating": 5,
+        "text": "Sonido nítido, sin distorsión. Se calienta más de la cuenta."
+      },
+      {
+        "author": "Federico",
+        "rating": 2,
+        "text": "La aplicación móvil es lenta y poco intuitiva."
+      },
+      {
+        "author": "Mía",
+        "rating": 4,
+        "text": "Resistente y bien construido."
+      },
+      {
+        "author": "Benjamín",
+        "rating": 4,
+        "text": "Excelente atención post-venta también. Llegó con un raspón en la caja."
+      },
+      {
+        "author": "Lucía",
+        "rating": 3,
+        "text": "Nada destacable, pero tampoco fallas graves."
+      },
+      {
+        "author": "Camila",
+        "rating": 1,
+        "text": "Hace ruido cuando se usa a máxima potencia."
+      }
+    ]
+  },
+  {
+    "id": "p_040",
+    "title": "Mouse inalámbrico ergonómico",
+    "imageUrl": "http://localhost:9090/images/p_040.jpg",
+    "reviews": [
+      {
+        "author": "Ignacio",
+        "rating": 4,
+        "text": "Estoy muy contento con la compra. El cable es más corto de lo que muestra la foto."
+      }
+    ]
+  },
+  {
+    "id": "p_041",
+    "title": "Taladro inalámbrico 18V",
+    "imageUrl": "http://localhost:9090/images/p_041.jpg",
+    "reviews": [
+      {
+        "author": "María",
+        "rating": 5,
+        "text": "Llegó antes de lo esperado y funciona perfecto. El manual viene en inglés solamente."
+      },
+      {
+        "author": "Ignacio",
+        "rating": 4,
+        "text": "Funciona tal como dice la descripción. La aplicación móvil es lenta y poco intuitiva."
+      }
+    ]
+  },
+  {
+    "id": "p_042",
+    "title": "Hidrolavadora 1800W",
+    "imageUrl": "http://localhost:9090/images/p_042.jpg",
+    "reviews": [
+      {
+        "author": "Isabella",
+        "rating": 5,
+        "text": "El acabado es impecable, se siente premium."
+      },
+      {
+        "author": "Santino",
+        "rating": 4,
+        "text": "Material de primera, se nota la diferencia. La batería dura menos de lo esperado."
+      },
+      {
+        "author": "Nicolás",
+        "rating": 5,
+        "text": "El acabado es impecable, se siente premium. Tarda demasiado en cargar."
+      },
+      {
+        "author": "Mía",
+        "rating": 4,
+        "text": "Súper fácil de usar y configurar."
+      },
+      {
+        "author": "Bruno",
+        "rating": 4,
+        "text": "Excelente atención post-venta también. El soporte no fija bien al escritorio."
+      },
+      {
+        "author": "Santino",
+        "rating": 5,
+        "text": "Perfecto para regalar. Se calienta más de la cuenta."
+      },
+      {
+        "author": "Joaquín",
+        "rating": 2,
+        "text": "Pesa más de lo que pensaba."
+      }
+    ]
+  },
+  {
+    "id": "p_043",
+    "title": "Procesador de alimentos multifunción",
+    "imageUrl": "http://localhost:9090/images/p_043.jpg",
+    "reviews": [
+      {
+        "author": "Mía",
+        "rating": 3,
+        "text": "Funciona ok, no es lo mejor del mercado."
+      },
+      {
+        "author": "Santino",
+        "rating": 5,
+        "text": "Diseño elegante y compacto."
+      },
+      {
+        "author": "Agustina",
+        "rating": 3,
+        "text": "Está bien por el precio."
+      },
+      {
+        "author": "Benjamín",
+        "rating": 4,
+        "text": "Buena duración de batería para el tamaño."
+      },
+      {
+        "author": "Olivia",
+        "rating": 3,
+        "text": "Es lo que se ve, ni más ni menos."
+      },
+      {
+        "author": "Santino",
+        "rating": 2,
+        "text": "El manual viene en inglés solamente."
+      },
+      {
+        "author": "Federico",
+        "rating": 4,
+        "text": "Liviano y fácil de transportar."
+      },
+      {
+        "author": "Nicolás",
+        "rating": 4,
+        "text": "Lo uso todos los días, súper práctico."
+      },
+      {
+        "author": "Emma",
+        "rating": 2,
+        "text": "Pesa más de lo que pensaba."
+      },
+      {
+        "author": "Bruno",
+        "rating": 5,
+        "text": "Súper fácil de usar y configurar. Tarda demasiado en cargar."
+      },
+      {
+        "author": "Tomás",
+        "rating": 5,
+        "text": "Diseño elegante y compacto."
+      },
+      {
+        "author": "Valentina",
+        "rating": 5,
+        "text": "Muy buena terminación, sin defectos."
+      },
+      {
+        "author": "Julieta",
+        "rating": 4,
+        "text": "Resistente y bien construido."
+      },
+      {
+        "author": "Valentina",
+        "rating": 4,
+        "text": "Estoy muy contento con la compra."
+      },
+      {
+        "author": "Nicolás",
+        "rating": 4,
+        "text": "Estoy muy contento con la compra."
+      },
+      {
+        "author": "Mateo",
+        "rating": 4,
+        "text": "Resistente y bien construido. El cable es más corto de lo que muestra la foto."
+      },
+      {
+        "author": "Ignacio",
+        "rating": 3,
+        "text": "Lo recomendaría con reservas."
+      },
+      {
+        "author": "Martín",
+        "rating": 2,
+        "text": "El plástico se siente un poco endeble."
+      }
+    ]
+  },
+  {
+    "id": "p_044",
+    "title": "Reloj deportivo con GPS",
+    "imageUrl": "http://localhost:9090/images/p_044.jpg",
+    "reviews": [
+      {
+        "author": "Federico",
+        "rating": 2,
+        "text": "Se calienta más de la cuenta."
+      },
+      {
+        "author": "Florencia",
+        "rating": 4,
+        "text": "Mucho mejor que otras marcas que probé."
+      },
+      {
+        "author": "Mía",
+        "rating": 3,
+        "text": "Para el uso ocasional cumple."
+      },
+      {
+        "author": "Catalina",
+        "rating": 3,
+        "text": "Nada destacable, pero tampoco fallas graves."
+      },
+      {
+        "author": "Emma",
+        "rating": 4,
+        "text": "Material de primera, se nota la diferencia."
+      },
+      {
+        "author": "Lucía",
+        "rating": 4,
+        "text": "Muy buena terminación, sin defectos."
+      },
+      {
+        "author": "Isabella",
+        "rating": 5,
+        "text": "Liviano y fácil de transportar."
+      },
+      {
+        "author": "Ignacio",
+        "rating": 3,
+        "text": "Cumple su función básica."
+      },
+      {
+        "author": "Pedro",
+        "rating": 4,
+        "text": "Excelente calidad, lo recomiendo sin dudar. El botón se traba a veces."
+      },
+      {
+        "author": "Martín",
+        "rating": 4,
+        "text": "Muy buena terminación, sin defectos."
+      },
+      {
+        "author": "Lucía",
+        "rating": 3,
+        "text": "Cumple su función básica."
+      },
+      {
+        "author": "Florencia",
+        "rating": 3,
+        "text": "Para el uso ocasional cumple."
+      },
+      {
+        "author": "Benjamín",
+        "rating": 4,
+        "text": "Estoy muy contento con la compra."
+      },
+      {
+        "author": "Lautaro",
+        "rating": 1,
+        "text": "Por el precio esperaba mejor calidad de imagen."
+      },
+      {
+        "author": "Mía",
+        "rating": 5,
+        "text": "Súper fácil de usar y configurar. Por el precio esperaba mejor calidad de imagen."
+      },
+      {
+        "author": "Joaquín",
+        "rating": 4,
+        "text": "Re cómodo, ideal para uso diario."
+      },
+      {
+        "author": "Nicolás",
+        "rating": 4,
+        "text": "Perfecto para regalar."
+      },
+      {
+        "author": "Renata",
+        "rating": 4,
+        "text": "Súper fácil de usar y configurar."
+      },
+      {
+        "author": "Tomás",
+        "rating": 5,
+        "text": "Súper fácil de usar y configurar."
+      },
+      {
+        "author": "Pedro",
+        "rating": 3,
+        "text": "Cumple su función básica."
+      }
+    ]
+  },
+  {
+    "id": "p_045",
+    "title": "Bolsa de dormir -5°C",
+    "imageUrl": "http://localhost:9090/images/p_045.jpg",
+    "reviews": [
+      {
+        "author": "Valentina",
+        "rating": 1,
+        "text": "El diseño no es tan moderno como en las fotos."
+      },
+      {
+        "author": "Mía",
+        "rating": 2,
+        "text": "El diseño no es tan moderno como en las fotos."
+      },
+      {
+        "author": "Mateo",
+        "rating": 5,
+        "text": "Funciona tal como dice la descripción."
+      },
+      {
+        "author": "Catalina",
+        "rating": 3,
+        "text": "Para el uso ocasional cumple."
+      },
+      {
+        "author": "Mía",
+        "rating": 4,
+        "text": "Buena duración de batería para el tamaño."
+      },
+      {
+        "author": "María",
+        "rating": 3,
+        "text": "Es lo que se ve, ni más ni menos."
+      }
+    ]
+  },
+  {
+    "id": "p_046",
+    "title": "Cesto de ropa plegable",
+    "imageUrl": "http://localhost:9090/images/p_046.jpg",
+    "reviews": [
+      {
+        "author": "Federico",
+        "rating": 3,
+        "text": "Para el uso ocasional cumple."
+      },
+      {
+        "author": "Florencia",
+        "rating": 5,
+        "text": "Excelente atención post-venta también."
+      },
+      {
+        "author": "Lautaro",
+        "rating": 5,
+        "text": "Cumple con todo lo prometido y más. La aplicación móvil es lenta y poco intuitiva."
+      },
+      {
+        "author": "Mateo",
+        "rating": 2,
+        "text": "Los accesorios incluidos son básicos."
+      },
+      {
+        "author": "Benjamín",
+        "rating": 5,
+        "text": "Mucho mejor que otras marcas que probé. Pesa más de lo que pensaba."
+      },
+      {
+        "author": "Federico",
+        "rating": 4,
+        "text": "Perfecto para regalar."
+      },
+      {
+        "author": "Pedro",
+        "rating": 3,
+        "text": "Es lo que se ve, ni más ni menos."
+      },
+      {
+        "author": "Renata",
+        "rating": 5,
+        "text": "Muy buena relación calidad-precio."
+      },
+      {
+        "author": "Olivia",
+        "rating": 1,
+        "text": "Hace ruido cuando se usa a máxima potencia."
+      },
+      {
+        "author": "Camila",
+        "rating": 3,
+        "text": "Lo recomendaría con reservas."
+      }
+    ]
+  },
+  {
+    "id": "p_047",
+    "title": "Lámpara de escritorio LED",
+    "imageUrl": "http://localhost:9090/images/p_047.jpg",
+    "reviews": [
+      {
+        "author": "Olivia",
+        "rating": 5,
+        "text": "Sonido nítido, sin distorsión."
+      }
+    ]
+  },
+  {
+    "id": "p_048",
+    "title": "Tetera eléctrica 1.7L",
+    "imageUrl": "http://localhost:9090/images/p_048.jpg",
+    "reviews": [
+      {
+        "author": "Renata",
+        "rating": 5,
+        "text": "Re cómodo, ideal para uso diario. Tarda demasiado en cargar."
+      },
+      {
+        "author": "Felipe",
+        "rating": 3,
+        "text": "Está bien por el precio."
+      },
+      {
+        "author": "Federico",
+        "rating": 4,
+        "text": "Mucho mejor que otras marcas que probé. El manual viene en inglés solamente."
+      },
+      {
+        "author": "Santino",
+        "rating": 3,
+        "text": "Es lo que se ve, ni más ni menos."
+      },
+      {
+        "author": "Santino",
+        "rating": 4,
+        "text": "Liviano y fácil de transportar."
+      },
+      {
+        "author": "Lucía",
+        "rating": 3,
+        "text": "Para el uso ocasional cumple."
+      },
+      {
+        "author": "Sofía",
+        "rating": 4,
+        "text": "Llegó antes de lo esperado y funciona perfecto. Llegó con un raspón en la caja."
+      },
+      {
+        "author": "Julieta",
+        "rating": 5,
+        "text": "Re cómodo, ideal para uso diario."
+      },
+      {
+        "author": "Valentina",
+        "rating": 1,
+        "text": "El plástico se siente un poco endeble."
+      },
+      {
+        "author": "Santino",
+        "rating": 3,
+        "text": "Funciona ok, no es lo mejor del mercado."
+      },
+      {
+        "author": "Sofía",
+        "rating": 4,
+        "text": "Funciona tal como dice la descripción. El diseño no es tan moderno como en las fotos."
+      },
+      {
+        "author": "Renata",
+        "rating": 2,
+        "text": "Se calienta más de la cuenta."
+      },
+      {
+        "author": "María",
+        "rating": 2,
+        "text": "El diseño no es tan moderno como en las fotos."
+      },
+      {
+        "author": "Bruno",
+        "rating": 5,
+        "text": "Liviano y fácil de transportar."
+      },
+      {
+        "author": "Camila",
+        "rating": 3,
+        "text": "Lo recomendaría con reservas."
+      },
+      {
+        "author": "Emma",
+        "rating": 5,
+        "text": "Material de primera, se nota la diferencia."
+      },
+      {
+        "author": "Lautaro",
+        "rating": 4,
+        "text": "Material de primera, se nota la diferencia."
+      },
+      {
+        "author": "Renata",
+        "rating": 1,
+        "text": "El soporte no fija bien al escritorio."
+      }
+    ]
+  },
+  {
+    "id": "p_049",
+    "title": "Cartera de cuero unisex",
+    "imageUrl": "http://localhost:9090/images/p_049.jpg",
+    "reviews": [
+      {
+        "author": "Mía",
+        "rating": 2,
+        "text": "El soporte no fija bien al escritorio."
+      },
+      {
+        "author": "Ana",
+        "rating": 3,
+        "text": "Es lo que se ve, ni más ni menos."
+      },
+      {
+        "author": "Lautaro",
+        "rating": 4,
+        "text": "Perfecto para regalar."
+      },
+      {
+        "author": "Pedro",
+        "rating": 3,
+        "text": "Nada destacable, pero tampoco fallas graves."
+      },
+      {
+        "author": "Isabella",
+        "rating": 5,
+        "text": "Diseño elegante y compacto. Llegó con un raspón en la caja."
+      },
+      {
+        "author": "Renata",
+        "rating": 5,
+        "text": "Muy buena terminación, sin defectos."
+      },
+      {
+        "author": "Olivia",
+        "rating": 5,
+        "text": "Lo uso todos los días, súper práctico."
+      },
+      {
+        "author": "Catalina",
+        "rating": 3,
+        "text": "Es lo que se ve, ni más ni menos."
+      },
+      {
+        "author": "Tomás",
+        "rating": 4,
+        "text": "Lo uso todos los días, súper práctico."
+      },
+      {
+        "author": "Catalina",
+        "rating": 5,
+        "text": "Llegó antes de lo esperado y funciona perfecto."
+      },
+      {
+        "author": "Tomás",
+        "rating": 2,
+        "text": "Hace ruido cuando se usa a máxima potencia."
+      },
+      {
+        "author": "Federico",
+        "rating": 5,
+        "text": "Resistente y bien construido."
+      },
+      {
+        "author": "Valentina",
+        "rating": 5,
+        "text": "Lo uso todos los días, súper práctico."
+      },
+      {
+        "author": "Lautaro",
+        "rating": 1,
+        "text": "Hace ruido cuando se usa a máxima potencia."
+      },
+      {
+        "author": "María",
+        "rating": 4,
+        "text": "Resistente y bien construido."
+      },
+      {
+        "author": "Ana",
+        "rating": 4,
+        "text": "Muy buena relación calidad-precio."
+      },
+      {
+        "author": "Olivia",
+        "rating": 3,
+        "text": "Nada destacable, pero tampoco fallas graves."
+      },
+      {
+        "author": "Julieta",
+        "rating": 3,
+        "text": "Es lo que se ve, ni más ni menos."
+      }
+    ]
+  },
+  {
+    "id": "p_050",
+    "title": "Funda silicona para celular",
+    "imageUrl": "http://localhost:9090/images/p_050.jpg",
+    "reviews": [
+      {
+        "author": "Catalina",
+        "rating": 5,
+        "text": "Muy buena relación calidad-precio. La batería dura menos de lo esperado."
+      },
+      {
+        "author": "Ignacio",
+        "rating": 2,
+        "text": "Tarda demasiado en cargar."
+      },
+      {
+        "author": "Nicolás",
+        "rating": 3,
+        "text": "Lo recomendaría con reservas."
+      },
+      {
+        "author": "Tomás",
+        "rating": 5,
+        "text": "Estoy muy contento con la compra."
+      },
+      {
+        "author": "Bruno",
+        "rating": 2,
+        "text": "El plástico se siente un poco endeble."
+      },
+      {
+        "author": "Benjamín",
+        "rating": 5,
+        "text": "Muy buena terminación, sin defectos."
+      },
+      {
+        "author": "Ignacio",
+        "rating": 3,
+        "text": "Para el uso ocasional cumple."
+      },
+      {
+        "author": "Olivia",
+        "rating": 5,
+        "text": "Buena duración de batería para el tamaño. El manual viene en inglés solamente."
+      },
+      {
+        "author": "Benjamín",
+        "rating": 4,
+        "text": "Diseño elegante y compacto. El soporte no fija bien al escritorio."
+      },
+      {
+        "author": "Santino",
+        "rating": 2,
+        "text": "Hace ruido cuando se usa a máxima potencia."
+      },
+      {
+        "author": "Agustina",
+        "rating": 4,
+        "text": "Re cómodo, ideal para uso diario."
+      },
+      {
+        "author": "Agustina",
+        "rating": 5,
+        "text": "Perfecto para regalar. La batería dura menos de lo esperado."
+      }
+    ]
+  },
+  {
+    "id": "p_051",
+    "title": "Mancuernas ajustables 20kg",
+    "imageUrl": "http://localhost:9090/images/p_051.jpg",
+    "reviews": [
+      {
+        "author": "Benjamín",
+        "rating": 4,
+        "text": "Mucho mejor que otras marcas que probé."
+      },
+      {
+        "author": "Mateo",
+        "rating": 3,
+        "text": "Funciona ok, no es lo mejor del mercado."
+      },
+      {
+        "author": "Julieta",
+        "rating": 1,
+        "text": "Los accesorios incluidos son básicos."
+      },
+      {
+        "author": "Florencia",
+        "rating": 1,
+        "text": "El botón se traba a veces."
+      },
+      {
+        "author": "Benjamín",
+        "rating": 4,
+        "text": "Liviano y fácil de transportar. El diseño no es tan moderno como en las fotos."
+      },
+      {
+        "author": "Valentina",
+        "rating": 5,
+        "text": "Muy buena terminación, sin defectos."
+      },
+      {
+        "author": "Agustina",
+        "rating": 5,
+        "text": "Llegó antes de lo esperado y funciona perfecto. Hace ruido cuando se usa a máxima potencia."
+      },
+      {
+        "author": "Nicolás",
+        "rating": 5,
+        "text": "Muy buena relación calidad-precio."
+      },
+      {
+        "author": "Joaquín",
+        "rating": 2,
+        "text": "Se calienta más de la cuenta."
+      },
+      {
+        "author": "Bruno",
+        "rating": 4,
+        "text": "Súper fácil de usar y configurar."
+      },
+      {
+        "author": "Isabella",
+        "rating": 1,
+        "text": "Por el precio esperaba mejor calidad de imagen."
+      },
+      {
+        "author": "Ignacio",
+        "rating": 3,
+        "text": "Nada destacable, pero tampoco fallas graves."
+      },
+      {
+        "author": "Sofía",
+        "rating": 5,
+        "text": "Diseño elegante y compacto."
+      },
+      {
+        "author": "Benjamín",
+        "rating": 4,
+        "text": "Sonido nítido, sin distorsión."
+      },
+      {
+        "author": "Sofía",
+        "rating": 4,
+        "text": "Llegó antes de lo esperado y funciona perfecto. Por el precio esperaba mejor calidad de imagen."
+      },
+      {
+        "author": "Santino",
+        "rating": 2,
+        "text": "Hace ruido cuando se usa a máxima potencia."
+      },
+      {
+        "author": "Florencia",
+        "rating": 4,
+        "text": "Muy buena terminación, sin defectos."
+      },
+      {
+        "author": "Felipe",
+        "rating": 5,
+        "text": "Muy buena terminación, sin defectos. Hace ruido cuando se usa a máxima potencia."
+      }
+    ]
+  },
+  {
+    "id": "p_052",
+    "title": "Freidora de aire XL 6L",
+    "imageUrl": "http://localhost:9090/images/p_052.jpg",
+    "reviews": [
+      {
+        "author": "Santino",
+        "rating": 1,
+        "text": "El cable es más corto de lo que muestra la foto."
+      },
+      {
+        "author": "Florencia",
+        "rating": 4,
+        "text": "El acabado es impecable, se siente premium. El botón se traba a veces."
+      },
+      {
+        "author": "Nicolás",
+        "rating": 3,
+        "text": "Está bien por el precio."
+      },
+      {
+        "author": "Lucía",
+        "rating": 5,
+        "text": "Resistente y bien construido. Llegó con un raspón en la caja."
+      },
+      {
+        "author": "Camila",
+        "rating": 4,
+        "text": "Cumple con todo lo prometido y más. El plástico se siente un poco endeble."
+      },
+      {
+        "author": "Julieta",
+        "rating": 5,
+        "text": "Mucho mejor que otras marcas que probé."
+      },
+      {
+        "author": "Emma",
+        "rating": 3,
+        "text": "Es lo que se ve, ni más ni menos."
+      },
+      {
+        "author": "Tomás",
+        "rating": 4,
+        "text": "Re cómodo, ideal para uso diario."
+      },
+      {
+        "author": "Tomás",
+        "rating": 2,
+        "text": "El manual viene en inglés solamente."
+      },
+      {
+        "author": "Camila",
+        "rating": 5,
+        "text": "Lo uso todos los días, súper práctico."
+      },
+      {
+        "author": "Joaquín",
+        "rating": 5,
+        "text": "Funciona tal como dice la descripción."
+      },
+      {
+        "author": "Isabella",
+        "rating": 4,
+        "text": "Re cómodo, ideal para uso diario."
+      }
+    ]
+  },
+  {
+    "id": "p_053",
+    "title": "Repetidor Wi-Fi mesh",
+    "imageUrl": "http://localhost:9090/images/p_053.jpg",
+    "reviews": [
+      {
+        "author": "Olivia",
+        "rating": 5,
+        "text": "Funciona tal como dice la descripción."
+      },
+      {
+        "author": "Valentina",
+        "rating": 5,
+        "text": "Súper fácil de usar y configurar."
+      },
+      {
+        "author": "Santino",
+        "rating": 5,
+        "text": "Muy buena terminación, sin defectos. La aplicación móvil es lenta y poco intuitiva."
+      },
+      {
+        "author": "Juan",
+        "rating": 4,
+        "text": "Muy buena terminación, sin defectos."
+      },
+      {
+        "author": "Felipe",
+        "rating": 5,
+        "text": "Liviano y fácil de transportar."
+      },
+      {
+        "author": "Lautaro",
+        "rating": 4,
+        "text": "Sonido nítido, sin distorsión. Pesa más de lo que pensaba."
+      },
+      {
+        "author": "Florencia",
+        "rating": 4,
+        "text": "Estoy muy contento con la compra."
+      }
+    ]
+  },
+  {
+    "id": "p_054",
+    "title": "Lector de e-books",
+    "imageUrl": "http://localhost:9090/images/p_054.jpg",
+    "reviews": [
+      {
+        "author": "Joaquín",
+        "rating": 4,
+        "text": "Excelente atención post-venta también. El soporte no fija bien al escritorio."
+      },
+      {
+        "author": "Ignacio",
+        "rating": 4,
+        "text": "Excelente calidad, lo recomiendo sin dudar."
+      },
+      {
+        "author": "Sofía",
+        "rating": 5,
+        "text": "Cumple con todo lo prometido y más. Por el precio esperaba mejor calidad de imagen."
+      },
+      {
+        "author": "Isabella",
+        "rating": 4,
+        "text": "Diseño elegante y compacto. La aplicación móvil es lenta y poco intuitiva."
+      }
+    ]
+  },
+  {
+    "id": "p_055",
+    "title": "Smart TV 50 pulgadas 4K",
+    "imageUrl": "http://localhost:9090/images/p_055.jpg",
+    "reviews": [
+      {
+        "author": "Ana",
+        "rating": 4,
+        "text": "Liviano y fácil de transportar."
+      },
+      {
+        "author": "Joaquín",
+        "rating": 4,
+        "text": "Sonido nítido, sin distorsión."
+      },
+      {
+        "author": "Lautaro",
+        "rating": 5,
+        "text": "Funciona tal como dice la descripción."
+      },
+      {
+        "author": "Sofía",
+        "rating": 2,
+        "text": "Tarda demasiado en cargar."
+      },
+      {
+        "author": "Sofía",
+        "rating": 3,
+        "text": "Está bien por el precio."
+      },
+      {
+        "author": "Emma",
+        "rating": 1,
+        "text": "Por el precio esperaba mejor calidad de imagen."
+      },
+      {
+        "author": "Diego",
+        "rating": 1,
+        "text": "El soporte no fija bien al escritorio."
+      },
+      {
+        "author": "Florencia",
+        "rating": 3,
+        "text": "Cumple su función básica."
+      },
+      {
+        "author": "Mía",
+        "rating": 5,
+        "text": "Llegó antes de lo esperado y funciona perfecto."
+      },
+      {
+        "author": "Pedro",
+        "rating": 5,
+        "text": "Cumple con todo lo prometido y más."
+      },
+      {
+        "author": "Joaquín",
+        "rating": 5,
+        "text": "Excelente atención post-venta también. El diseño no es tan moderno como en las fotos."
+      },
+      {
+        "author": "Joaquín",
+        "rating": 1,
+        "text": "El manual viene en inglés solamente."
+      }
+    ]
+  },
+  {
+    "id": "p_056",
+    "title": "Termo café para auto 500ml",
+    "imageUrl": "http://localhost:9090/images/p_056.jpg",
+    "reviews": [
+      {
+        "author": "María",
+        "rating": 3,
+        "text": "Cumple su función básica."
+      },
+      {
+        "author": "Valentina",
+        "rating": 5,
+        "text": "Excelente calidad, lo recomiendo sin dudar."
+      },
+      {
+        "author": "Lucía",
+        "rating": 3,
+        "text": "Lo recomendaría con reservas."
+      },
+      {
+        "author": "Renata",
+        "rating": 5,
+        "text": "Mucho mejor que otras marcas que probé."
+      },
+      {
+        "author": "Catalina",
+        "rating": 5,
+        "text": "Súper fácil de usar y configurar."
+      },
+      {
+        "author": "Federico",
+        "rating": 4,
+        "text": "Perfecto para regalar. Los accesorios incluidos son básicos."
+      },
+      {
+        "author": "Olivia",
+        "rating": 2,
+        "text": "Por el precio esperaba mejor calidad de imagen."
+      },
+      {
+        "author": "Federico",
+        "rating": 2,
+        "text": "Hace ruido cuando se usa a máxima potencia."
+      }
+    ]
+  },
+  {
+    "id": "p_057",
+    "title": "Silla de oficina ergonómica",
+    "imageUrl": "http://localhost:9090/images/p_057.jpg",
+    "reviews": [
+      {
+        "author": "Sofía",
+        "rating": 1,
+        "text": "El diseño no es tan moderno como en las fotos."
+      },
+      {
+        "author": "Lucía",
+        "rating": 5,
+        "text": "Liviano y fácil de transportar. Tarda demasiado en cargar."
+      },
+      {
+        "author": "Isabella",
+        "rating": 4,
+        "text": "Funciona tal como dice la descripción. Los accesorios incluidos son básicos."
+      },
+      {
+        "author": "Joaquín",
+        "rating": 4,
+        "text": "Súper fácil de usar y configurar."
+      },
+      {
+        "author": "Pedro",
+        "rating": 3,
+        "text": "Para el uso ocasional cumple."
+      },
+      {
+        "author": "Catalina",
+        "rating": 1,
+        "text": "El soporte no fija bien al escritorio."
+      },
+      {
+        "author": "Olivia",
+        "rating": 3,
+        "text": "Lo recomendaría con reservas."
+      },
+      {
+        "author": "Isabella",
+        "rating": 5,
+        "text": "Estoy muy contento con la compra. El botón se traba a veces."
+      },
+      {
+        "author": "Emma",
+        "rating": 2,
+        "text": "El botón se traba a veces."
+      },
+      {
+        "author": "Bruno",
+        "rating": 2,
+        "text": "La aplicación móvil es lenta y poco intuitiva."
+      },
+      {
+        "author": "Benjamín",
+        "rating": 2,
+        "text": "Hace ruido cuando se usa a máxima potencia."
+      },
+      {
+        "author": "Mía",
+        "rating": 5,
+        "text": "Cumple con todo lo prometido y más. El plástico se siente un poco endeble."
+      },
+      {
+        "author": "Ana",
+        "rating": 3,
+        "text": "Para el uso ocasional cumple."
+      },
+      {
+        "author": "Camila",
+        "rating": 5,
+        "text": "Resistente y bien construido."
+      },
+      {
+        "author": "María",
+        "rating": 3,
+        "text": "Para el uso ocasional cumple."
+      }
+    ]
+  },
+  {
+    "id": "p_058",
+    "title": "Estantería modular 5 niveles",
+    "imageUrl": "http://localhost:9090/images/p_058.jpg",
+    "reviews": [
+      {
+        "author": "Renata",
+        "rating": 4,
+        "text": "Lo uso todos los días, súper práctico."
+      },
+      {
+        "author": "Florencia",
+        "rating": 5,
+        "text": "Súper fácil de usar y configurar."
+      },
+      {
+        "author": "María",
+        "rating": 3,
+        "text": "Está bien por el precio."
+      },
+      {
+        "author": "Joaquín",
+        "rating": 4,
+        "text": "Mucho mejor que otras marcas que probé. Por el precio esperaba mejor calidad de imagen."
+      }
+    ]
+  },
+  {
+    "id": "p_059",
+    "title": "Plancha de ropa con vapor 2400W",
+    "imageUrl": "http://localhost:9090/images/p_059.jpg",
+    "reviews": [
+      {
+        "author": "Santino",
+        "rating": 4,
+        "text": "Re cómodo, ideal para uso diario."
+      }
+    ]
+  },
+  {
+    "id": "p_060",
+    "title": "Cepillo dental eléctrico recargable",
+    "imageUrl": "http://localhost:9090/images/p_060.jpg",
+    "reviews": [
+      {
+        "author": "Joaquín",
+        "rating": 4,
+        "text": "Muy buena relación calidad-precio."
+      },
+      {
+        "author": "María",
+        "rating": 4,
+        "text": "Lo uso todos los días, súper práctico."
+      },
+      {
+        "author": "Julieta",
+        "rating": 5,
+        "text": "Excelente calidad, lo recomiendo sin dudar."
+      },
+      {
+        "author": "Benjamín",
+        "rating": 5,
+        "text": "Diseño elegante y compacto."
+      },
+      {
+        "author": "Bruno",
+        "rating": 3,
+        "text": "Es lo que se ve, ni más ni menos."
+      },
+      {
+        "author": "Felipe",
+        "rating": 4,
+        "text": "Buena duración de batería para el tamaño."
+      },
+      {
+        "author": "Olivia",
+        "rating": 4,
+        "text": "Mucho mejor que otras marcas que probé."
+      },
+      {
+        "author": "Olivia",
+        "rating": 2,
+        "text": "La batería dura menos de lo esperado."
+      },
+      {
+        "author": "Juan",
+        "rating": 1,
+        "text": "El soporte no fija bien al escritorio."
+      },
+      {
+        "author": "Ana",
+        "rating": 4,
+        "text": "Liviano y fácil de transportar. La batería dura menos de lo esperado."
+      },
+      {
+        "author": "Agustina",
+        "rating": 4,
+        "text": "Excelente atención post-venta también. Hace ruido cuando se usa a máxima potencia."
+      },
+      {
+        "author": "Florencia",
+        "rating": 5,
+        "text": "Material de primera, se nota la diferencia."
+      },
+      {
+        "author": "Joaquín",
+        "rating": 2,
+        "text": "El plástico se siente un poco endeble."
+      },
+      {
+        "author": "Benjamín",
+        "rating": 5,
+        "text": "Mucho mejor que otras marcas que probé. Los accesorios incluidos son básicos."
+      },
+      {
+        "author": "Emma",
+        "rating": 3,
+        "text": "Es lo que se ve, ni más ni menos."
+      },
+      {
+        "author": "Olivia",
+        "rating": 5,
+        "text": "Diseño elegante y compacto."
+      },
+      {
+        "author": "Renata",
+        "rating": 5,
+        "text": "Estoy muy contento con la compra."
+      },
+      {
+        "author": "María",
+        "rating": 4,
+        "text": "Funciona tal como dice la descripción."
+      },
+      {
+        "author": "Julieta",
+        "rating": 1,
+        "text": "El manual viene en inglés solamente."
+      },
+      {
+        "author": "Catalina",
+        "rating": 5,
+        "text": "Muy buena relación calidad-precio."
+      }
+    ]
+  },
+  {
+    "id": "p_061",
+    "title": "Banda elástica de resistencia",
+    "imageUrl": "http://localhost:9090/images/p_061.jpg",
+    "reviews": [
+      {
+        "author": "Mateo",
+        "rating": 4,
+        "text": "Material de primera, se nota la diferencia. El diseño no es tan moderno como en las fotos."
+      },
+      {
+        "author": "Juan",
+        "rating": 5,
+        "text": "Buena duración de batería para el tamaño."
+      }
+    ]
+  },
+  {
+    "id": "p_062",
+    "title": "Webcam Full HD con micrófono",
+    "imageUrl": "http://localhost:9090/images/p_062.jpg",
+    "reviews": [
+      {
+        "author": "Catalina",
+        "rating": 4,
+        "text": "Liviano y fácil de transportar."
+      },
+      {
+        "author": "Joaquín",
+        "rating": 4,
+        "text": "Mucho mejor que otras marcas que probé. Se calienta más de la cuenta."
+      },
+      {
+        "author": "Juan",
+        "rating": 5,
+        "text": "El acabado es impecable, se siente premium."
+      },
+      {
+        "author": "Felipe",
+        "rating": 2,
+        "text": "Los accesorios incluidos son básicos."
+      },
+      {
+        "author": "Valentina",
+        "rating": 3,
+        "text": "Cumple su función básica."
+      },
+      {
+        "author": "Joaquín",
+        "rating": 2,
+        "text": "Llegó con un raspón en la caja."
+      },
+      {
+        "author": "Camila",
+        "rating": 3,
+        "text": "Nada destacable, pero tampoco fallas graves."
+      },
+      {
+        "author": "Mateo",
+        "rating": 4,
+        "text": "Diseño elegante y compacto."
+      },
+      {
+        "author": "Tomás",
+        "rating": 4,
+        "text": "Mucho mejor que otras marcas que probé."
+      },
+      {
+        "author": "Lautaro",
+        "rating": 4,
+        "text": "Estoy muy contento con la compra. La batería dura menos de lo esperado."
+      }
+    ]
+  },
+  {
+    "id": "p_063",
+    "title": "Tensiómetro digital de brazo",
+    "imageUrl": "http://localhost:9090/images/p_063.jpg",
+    "reviews": [
+      {
+        "author": "Joaquín",
+        "rating": 4,
+        "text": "El acabado es impecable, se siente premium."
+      },
+      {
+        "author": "Lucía",
+        "rating": 4,
+        "text": "Estoy muy contento con la compra. El botón se traba a veces."
+      },
+      {
+        "author": "Felipe",
+        "rating": 5,
+        "text": "Excelente atención post-venta también."
+      }
+    ]
+  },
+  {
+    "id": "p_064",
+    "title": "Aspirador de polvo a batería",
+    "imageUrl": "http://localhost:9090/images/p_064.jpg",
+    "reviews": [
+      {
+        "author": "Lucía",
+        "rating": 4,
+        "text": "Re cómodo, ideal para uso diario. El plástico se siente un poco endeble."
+      },
+      {
+        "author": "Julieta",
+        "rating": 3,
+        "text": "Es lo que se ve, ni más ni menos."
+      },
+      {
+        "author": "Valentina",
+        "rating": 3,
+        "text": "Es lo que se ve, ni más ni menos."
+      },
+      {
+        "author": "Florencia",
+        "rating": 5,
+        "text": "Cumple con todo lo prometido y más. El botón se traba a veces."
+      },
+      {
+        "author": "Isabella",
+        "rating": 5,
+        "text": "Llegó antes de lo esperado y funciona perfecto. Por el precio esperaba mejor calidad de imagen."
+      },
+      {
+        "author": "Pedro",
+        "rating": 4,
+        "text": "Muy buena terminación, sin defectos."
+      },
+      {
+        "author": "Nicolás",
+        "rating": 4,
+        "text": "Muy buena terminación, sin defectos. El cable es más corto de lo que muestra la foto."
+      }
+    ]
+  },
+  {
+    "id": "p_065",
+    "title": "Aro de luz para streaming",
+    "imageUrl": "http://localhost:9090/images/p_065.jpg",
+    "reviews": [
+      {
+        "author": "Mía",
+        "rating": 2,
+        "text": "El cable es más corto de lo que muestra la foto."
+      },
+      {
+        "author": "Florencia",
+        "rating": 1,
+        "text": "Los accesorios incluidos son básicos."
+      },
+      {
+        "author": "Ana",
+        "rating": 3,
+        "text": "Está bien por el precio."
+      },
+      {
+        "author": "Tomás",
+        "rating": 3,
+        "text": "Nada destacable, pero tampoco fallas graves."
+      },
+      {
+        "author": "Pedro",
+        "rating": 2,
+        "text": "Por el precio esperaba mejor calidad de imagen."
+      },
+      {
+        "author": "Agustina",
+        "rating": 3,
+        "text": "Es lo que se ve, ni más ni menos."
+      },
+      {
+        "author": "Benjamín",
+        "rating": 4,
+        "text": "Diseño elegante y compacto."
+      },
+      {
+        "author": "Isabella",
+        "rating": 5,
+        "text": "Excelente atención post-venta también."
+      },
+      {
+        "author": "Camila",
+        "rating": 5,
+        "text": "Lo uso todos los días, súper práctico."
+      },
+      {
+        "author": "Juan",
+        "rating": 4,
+        "text": "Excelente calidad, lo recomiendo sin dudar."
+      },
+      {
+        "author": "Felipe",
+        "rating": 4,
+        "text": "Buena duración de batería para el tamaño. Pesa más de lo que pensaba."
+      },
+      {
+        "author": "Olivia",
+        "rating": 1,
+        "text": "La batería dura menos de lo esperado."
+      },
+      {
+        "author": "Felipe",
+        "rating": 3,
+        "text": "Lo recomendaría con reservas."
+      },
+      {
+        "author": "Julieta",
+        "rating": 3,
+        "text": "Nada destacable, pero tampoco fallas graves."
+      },
+      {
+        "author": "Agustina",
+        "rating": 2,
+        "text": "Pesa más de lo que pensaba."
+      },
+      {
+        "author": "Diego",
+        "rating": 3,
+        "text": "Nada destacable, pero tampoco fallas graves."
+      },
+      {
+        "author": "Sofía",
+        "rating": 3,
+        "text": "Lo recomendaría con reservas."
+      },
+      {
+        "author": "Julieta",
+        "rating": 1,
+        "text": "El diseño no es tan moderno como en las fotos."
+      },
+      {
+        "author": "Agustina",
+        "rating": 5,
+        "text": "Muy buena terminación, sin defectos."
+      },
+      {
+        "author": "Ana",
+        "rating": 3,
+        "text": "Lo recomendaría con reservas."
+      }
+    ]
+  },
+  {
+    "id": "p_066",
+    "title": "Mesa auxiliar plegable",
+    "imageUrl": "http://localhost:9090/images/p_066.jpg",
+    "reviews": [
+      {
+        "author": "Florencia",
+        "rating": 3,
+        "text": "Es lo que se ve, ni más ni menos."
+      },
+      {
+        "author": "Federico",
+        "rating": 5,
+        "text": "Sonido nítido, sin distorsión."
+      },
+      {
+        "author": "Agustina",
+        "rating": 3,
+        "text": "Nada destacable, pero tampoco fallas graves."
+      },
+      {
+        "author": "Julieta",
+        "rating": 5,
+        "text": "Sonido nítido, sin distorsión."
+      },
+      {
+        "author": "Federico",
+        "rating": 4,
+        "text": "Excelente calidad, lo recomiendo sin dudar."
+      },
+      {
+        "author": "Emma",
+        "rating": 5,
+        "text": "Sonido nítido, sin distorsión."
+      },
+      {
+        "author": "Catalina",
+        "rating": 4,
+        "text": "Perfecto para regalar."
+      },
+      {
+        "author": "Ana",
+        "rating": 4,
+        "text": "Excelente calidad, lo recomiendo sin dudar."
+      },
+      {
+        "author": "Santino",
+        "rating": 5,
+        "text": "Muy buena relación calidad-precio. Los accesorios incluidos son básicos."
+      },
+      {
+        "author": "Julieta",
+        "rating": 4,
+        "text": "Llegó antes de lo esperado y funciona perfecto. El soporte no fija bien al escritorio."
+      }
+    ]
+  },
+  {
+    "id": "p_067",
+    "title": "Plancha de pelo iónica",
+    "imageUrl": "http://localhost:9090/images/p_067.jpg",
+    "reviews": [
+      {
+        "author": "Catalina",
+        "rating": 5,
+        "text": "Diseño elegante y compacto. El cable es más corto de lo que muestra la foto."
+      },
+      {
+        "author": "Juan",
+        "rating": 5,
+        "text": "Estoy muy contento con la compra. Se calienta más de la cuenta."
+      }
+    ]
+  },
+  {
+    "id": "p_068",
+    "title": "Parlante portátil resistente al agua",
+    "imageUrl": "http://localhost:9090/images/p_068.jpg",
+    "reviews": [
+      {
+        "author": "Mía",
+        "rating": 5,
+        "text": "Resistente y bien construido. El manual viene en inglés solamente."
+      },
+      {
+        "author": "Lucía",
+        "rating": 2,
+        "text": "Se calienta más de la cuenta."
+      },
+      {
+        "author": "Santino",
+        "rating": 5,
+        "text": "Funciona tal como dice la descripción. El manual viene en inglés solamente."
+      },
+      {
+        "author": "Agustina",
+        "rating": 2,
+        "text": "Llegó con un raspón en la caja."
+      },
+      {
+        "author": "Olivia",
+        "rating": 5,
+        "text": "Lo uso todos los días, súper práctico."
+      }
+    ]
+  },
+  {
+    "id": "p_069",
+    "title": "Cuchillo multiusos plegable",
+    "imageUrl": "http://localhost:9090/images/p_069.jpg",
+    "reviews": [
+      {
+        "author": "Pedro",
+        "rating": 3,
+        "text": "Funciona ok, no es lo mejor del mercado."
+      },
+      {
+        "author": "Valentina",
+        "rating": 4,
+        "text": "Liviano y fácil de transportar."
+      },
+      {
+        "author": "Ignacio",
+        "rating": 5,
+        "text": "Estoy muy contento con la compra. La batería dura menos de lo esperado."
+      },
+      {
+        "author": "Lucía",
+        "rating": 2,
+        "text": "Llegó con un raspón en la caja."
+      },
+      {
+        "author": "Juan",
+        "rating": 5,
+        "text": "Estoy muy contento con la compra. El diseño no es tan moderno como en las fotos."
+      },
+      {
+        "author": "Camila",
+        "rating": 4,
+        "text": "Perfecto para regalar. El plástico se siente un poco endeble."
+      },
+      {
+        "author": "Sofía",
+        "rating": 5,
+        "text": "Sonido nítido, sin distorsión. Pesa más de lo que pensaba."
+      },
+      {
+        "author": "Federico",
+        "rating": 4,
+        "text": "Mucho mejor que otras marcas que probé."
+      },
+      {
+        "author": "Renata",
+        "rating": 2,
+        "text": "Los accesorios incluidos son básicos."
+      },
+      {
+        "author": "Federico",
+        "rating": 4,
+        "text": "Llegó antes de lo esperado y funciona perfecto. Los accesorios incluidos son básicos."
+      },
+      {
+        "author": "Valentina",
+        "rating": 3,
+        "text": "Está bien por el precio."
+      },
+      {
+        "author": "María",
+        "rating": 5,
+        "text": "Liviano y fácil de transportar. Por el precio esperaba mejor calidad de imagen."
+      },
+      {
+        "author": "Ana",
+        "rating": 5,
+        "text": "Material de primera, se nota la diferencia."
+      },
+      {
+        "author": "Nicolás",
+        "rating": 5,
+        "text": "Sonido nítido, sin distorsión."
+      },
+      {
+        "author": "Agustina",
+        "rating": 2,
+        "text": "El manual viene en inglés solamente."
+      },
+      {
+        "author": "Diego",
+        "rating": 3,
+        "text": "Nada destacable, pero tampoco fallas graves."
+      },
+      {
+        "author": "Ignacio",
+        "rating": 3,
+        "text": "Cumple su función básica."
+      },
+      {
+        "author": "Catalina",
+        "rating": 4,
+        "text": "Muy buena terminación, sin defectos. Llegó con un raspón en la caja."
+      },
+      {
+        "author": "Catalina",
+        "rating": 4,
+        "text": "Resistente y bien construido."
+      },
+      {
+        "author": "Ignacio",
+        "rating": 3,
+        "text": "Lo recomendaría con reservas."
+      }
+    ]
+  },
+  {
+    "id": "p_070",
+    "title": "Termo de acero inoxidable 1L",
+    "imageUrl": "http://localhost:9090/images/p_070.jpg",
+    "reviews": [
+      {
+        "author": "Olivia",
+        "rating": 2,
+        "text": "El manual viene en inglés solamente."
+      },
+      {
+        "author": "Julieta",
+        "rating": 3,
+        "text": "Para el uso ocasional cumple."
+      },
+      {
+        "author": "Santino",
+        "rating": 3,
+        "text": "Cumple su función básica."
+      },
+      {
+        "author": "Emma",
+        "rating": 5,
+        "text": "Perfecto para regalar. La batería dura menos de lo esperado."
+      },
+      {
+        "author": "Felipe",
+        "rating": 4,
+        "text": "Muy buena terminación, sin defectos."
+      },
+      {
+        "author": "Joaquín",
+        "rating": 2,
+        "text": "Los accesorios incluidos son básicos."
+      },
+      {
+        "author": "Florencia",
+        "rating": 3,
+        "text": "Cumple su función básica."
+      },
+      {
+        "author": "Florencia",
+        "rating": 4,
+        "text": "Llegó antes de lo esperado y funciona perfecto."
+      },
+      {
+        "author": "Federico",
+        "rating": 3,
+        "text": "Es lo que se ve, ni más ni menos."
+      },
+      {
+        "author": "Tomás",
+        "rating": 3,
+        "text": "Cumple su función básica."
+      },
+      {
+        "author": "Camila",
+        "rating": 4,
+        "text": "El acabado es impecable, se siente premium. La aplicación móvil es lenta y poco intuitiva."
+      },
+      {
+        "author": "Catalina",
+        "rating": 4,
+        "text": "Sonido nítido, sin distorsión."
+      }
+    ]
+  },
+  {
+    "id": "p_071",
+    "title": "Reloj despertador digital",
+    "imageUrl": "http://localhost:9090/images/p_071.jpg",
+    "reviews": [
+      {
+        "author": "Bruno",
+        "rating": 4,
+        "text": "Lo uso todos los días, súper práctico."
+      },
+      {
+        "author": "Lautaro",
+        "rating": 1,
+        "text": "Tarda demasiado en cargar."
+      },
+      {
+        "author": "Agustina",
+        "rating": 4,
+        "text": "El acabado es impecable, se siente premium."
+      },
+      {
+        "author": "Ignacio",
+        "rating": 5,
+        "text": "Buena duración de batería para el tamaño."
+      },
+      {
+        "author": "Ana",
+        "rating": 2,
+        "text": "La aplicación móvil es lenta y poco intuitiva."
+      },
+      {
+        "author": "Bruno",
+        "rating": 5,
+        "text": "Excelente calidad, lo recomiendo sin dudar."
+      },
+      {
+        "author": "Renata",
+        "rating": 4,
+        "text": "Liviano y fácil de transportar."
+      },
+      {
+        "author": "Bruno",
+        "rating": 2,
+        "text": "El diseño no es tan moderno como en las fotos."
+      },
+      {
+        "author": "Valentina",
+        "rating": 4,
+        "text": "Lo uso todos los días, súper práctico."
+      },
+      {
+        "author": "Lautaro",
+        "rating": 3,
+        "text": "Cumple su función básica."
+      }
+    ]
+  },
+  {
+    "id": "p_072",
+    "title": "Cocina de camping a gas",
+    "imageUrl": "http://localhost:9090/images/p_072.jpg",
+    "reviews": [
+      {
+        "author": "Lucía",
+        "rating": 5,
+        "text": "Buena duración de batería para el tamaño."
+      },
+      {
+        "author": "Ignacio",
+        "rating": 4,
+        "text": "Excelente atención post-venta también."
+      },
+      {
+        "author": "Mía",
+        "rating": 3,
+        "text": "Está bien por el precio."
+      },
+      {
+        "author": "Catalina",
+        "rating": 1,
+        "text": "Los accesorios incluidos son básicos."
+      },
+      {
+        "author": "Emma",
+        "rating": 1,
+        "text": "Se calienta más de la cuenta."
+      },
+      {
+        "author": "Lucía",
+        "rating": 5,
+        "text": "Diseño elegante y compacto. La aplicación móvil es lenta y poco intuitiva."
+      },
+      {
+        "author": "Julieta",
+        "rating": 4,
+        "text": "Perfecto para regalar."
+      },
+      {
+        "author": "Martín",
+        "rating": 4,
+        "text": "Mucho mejor que otras marcas que probé."
+      },
+      {
+        "author": "Martín",
+        "rating": 5,
+        "text": "Diseño elegante y compacto."
+      },
+      {
+        "author": "Nicolás",
+        "rating": 3,
+        "text": "Es lo que se ve, ni más ni menos."
+      },
+      {
+        "author": "Lautaro",
+        "rating": 1,
+        "text": "Se calienta más de la cuenta."
+      },
+      {
+        "author": "Valentina",
+        "rating": 4,
+        "text": "Liviano y fácil de transportar."
+      },
+      {
+        "author": "Mía",
+        "rating": 2,
+        "text": "Los accesorios incluidos son básicos."
+      },
+      {
+        "author": "Mía",
+        "rating": 5,
+        "text": "El acabado es impecable, se siente premium."
+      },
+      {
+        "author": "Catalina",
+        "rating": 5,
+        "text": "Mucho mejor que otras marcas que probé. Pesa más de lo que pensaba."
+      },
+      {
+        "author": "Emma",
+        "rating": 5,
+        "text": "Mucho mejor que otras marcas que probé."
+      },
+      {
+        "author": "Camila",
+        "rating": 2,
+        "text": "El soporte no fija bien al escritorio."
+      },
+      {
+        "author": "Bruno",
+        "rating": 5,
+        "text": "Liviano y fácil de transportar."
+      },
+      {
+        "author": "Mateo",
+        "rating": 4,
+        "text": "Diseño elegante y compacto."
+      },
+      {
+        "author": "Isabella",
+        "rating": 5,
+        "text": "Perfecto para regalar."
+      }
+    ]
+  },
+  {
+    "id": "p_073",
+    "title": "Set de limpieza microfibra",
+    "imageUrl": "http://localhost:9090/images/p_073.jpg",
+    "reviews": [
+      {
+        "author": "Tomás",
+        "rating": 5,
+        "text": "Funciona tal como dice la descripción. El diseño no es tan moderno como en las fotos."
+      },
+      {
+        "author": "Lautaro",
+        "rating": 4,
+        "text": "Diseño elegante y compacto."
+      }
+    ]
+  },
+  {
+    "id": "p_074",
+    "title": "Aislante térmico inflable",
+    "imageUrl": "http://localhost:9090/images/p_074.jpg",
+    "reviews": [
+      {
+        "author": "Emma",
+        "rating": 4,
+        "text": "Perfecto para regalar."
+      },
+      {
+        "author": "Isabella",
+        "rating": 4,
+        "text": "Liviano y fácil de transportar."
+      },
+      {
+        "author": "Juan",
+        "rating": 3,
+        "text": "Para el uso ocasional cumple."
+      },
+      {
+        "author": "Renata",
+        "rating": 4,
+        "text": "Material de primera, se nota la diferencia."
+      },
+      {
+        "author": "Renata",
+        "rating": 4,
+        "text": "Resistente y bien construido."
+      },
+      {
+        "author": "Tomás",
+        "rating": 5,
+        "text": "Resistente y bien construido."
+      }
+    ]
+  },
+  {
+    "id": "p_075",
+    "title": "Set de copas de vino cristal",
+    "imageUrl": "http://localhost:9090/images/p_075.jpg",
+    "reviews": [
+      {
+        "author": "Federico",
+        "rating": 3,
+        "text": "Lo recomendaría con reservas."
+      },
+      {
+        "author": "María",
+        "rating": 4,
+        "text": "Muy buena relación calidad-precio."
+      },
+      {
+        "author": "Santino",
+        "rating": 3,
+        "text": "Lo recomendaría con reservas."
+      },
+      {
+        "author": "Camila",
+        "rating": 1,
+        "text": "El manual viene en inglés solamente."
+      },
+      {
+        "author": "Benjamín",
+        "rating": 3,
+        "text": "Lo recomendaría con reservas."
+      },
+      {
+        "author": "Martín",
+        "rating": 1,
+        "text": "El botón se traba a veces."
+      },
+      {
+        "author": "Julieta",
+        "rating": 5,
+        "text": "Buena duración de batería para el tamaño."
+      },
+      {
+        "author": "Nicolás",
+        "rating": 1,
+        "text": "El soporte no fija bien al escritorio."
+      },
+      {
+        "author": "Diego",
+        "rating": 4,
+        "text": "Diseño elegante y compacto."
+      },
+      {
+        "author": "Tomás",
+        "rating": 5,
+        "text": "Funciona tal como dice la descripción."
+      }
+    ]
+  },
+  {
+    "id": "p_076",
+    "title": "Cable HDMI 4K 2m",
+    "imageUrl": "http://localhost:9090/images/p_076.jpg",
+    "reviews": [
+      {
+        "author": "Catalina",
+        "rating": 3,
+        "text": "Nada destacable, pero tampoco fallas graves."
+      },
+      {
+        "author": "Olivia",
+        "rating": 4,
+        "text": "Súper fácil de usar y configurar."
+      },
+      {
+        "author": "Sofía",
+        "rating": 5,
+        "text": "Mucho mejor que otras marcas que probé. Por el precio esperaba mejor calidad de imagen."
+      },
+      {
+        "author": "Santino",
+        "rating": 5,
+        "text": "Mucho mejor que otras marcas que probé."
+      },
+      {
+        "author": "Catalina",
+        "rating": 3,
+        "text": "Funciona ok, no es lo mejor del mercado."
+      },
+      {
+        "author": "Agustina",
+        "rating": 4,
+        "text": "Cumple con todo lo prometido y más."
+      },
+      {
+        "author": "Tomás",
+        "rating": 5,
+        "text": "Mucho mejor que otras marcas que probé."
+      },
+      {
+        "author": "Isabella",
+        "rating": 5,
+        "text": "Cumple con todo lo prometido y más."
+      }
+    ]
+  },
+  {
+    "id": "p_077",
+    "title": "Alfombra antideslizante baño",
+    "imageUrl": "http://localhost:9090/images/p_077.jpg",
+    "reviews": [
+      {
+        "author": "Lautaro",
+        "rating": 4,
+        "text": "Sonido nítido, sin distorsión."
+      },
+      {
+        "author": "Ignacio",
+        "rating": 5,
+        "text": "Material de primera, se nota la diferencia."
+      },
+      {
+        "author": "Catalina",
+        "rating": 1,
+        "text": "El diseño no es tan moderno como en las fotos."
+      },
+      {
+        "author": "Juan",
+        "rating": 4,
+        "text": "Buena duración de batería para el tamaño."
+      },
+      {
+        "author": "Joaquín",
+        "rating": 5,
+        "text": "Material de primera, se nota la diferencia. El manual viene en inglés solamente."
+      },
+      {
+        "author": "Santino",
+        "rating": 4,
+        "text": "Sonido nítido, sin distorsión."
+      },
+      {
+        "author": "Joaquín",
+        "rating": 3,
+        "text": "Lo recomendaría con reservas."
+      },
+      {
+        "author": "Sofía",
+        "rating": 5,
+        "text": "Excelente atención post-venta también."
+      },
+      {
+        "author": "Renata",
+        "rating": 5,
+        "text": "Funciona tal como dice la descripción."
+      },
+      {
+        "author": "Joaquín",
+        "rating": 3,
+        "text": "Está bien por el precio."
+      },
+      {
+        "author": "Lucía",
+        "rating": 1,
+        "text": "Se calienta más de la cuenta."
+      },
+      {
+        "author": "María",
+        "rating": 3,
+        "text": "Lo recomendaría con reservas."
+      },
+      {
+        "author": "Diego",
+        "rating": 5,
+        "text": "Súper fácil de usar y configurar. El manual viene en inglés solamente."
+      },
+      {
+        "author": "Santino",
+        "rating": 4,
+        "text": "Buena duración de batería para el tamaño."
+      },
+      {
+        "author": "Olivia",
+        "rating": 3,
+        "text": "Cumple su función básica."
+      }
+    ]
+  },
+  {
+    "id": "p_078",
+    "title": "Cafetera de cápsulas automática",
+    "imageUrl": "http://localhost:9090/images/p_078.jpg",
+    "reviews": [
+      {
+        "author": "Florencia",
+        "rating": 5,
+        "text": "Cumple con todo lo prometido y más. Tarda demasiado en cargar."
+      },
+      {
+        "author": "Julieta",
+        "rating": 5,
+        "text": "Buena duración de batería para el tamaño."
+      },
+      {
+        "author": "Julieta",
+        "rating": 2,
+        "text": "El cable es más corto de lo que muestra la foto."
+      },
+      {
+        "author": "Martín",
+        "rating": 3,
+        "text": "Funciona ok, no es lo mejor del mercado."
+      },
+      {
+        "author": "Agustina",
+        "rating": 4,
+        "text": "Material de primera, se nota la diferencia."
+      },
+      {
+        "author": "Felipe",
+        "rating": 5,
+        "text": "Liviano y fácil de transportar. El manual viene en inglés solamente."
+      },
+      {
+        "author": "Nicolás",
+        "rating": 2,
+        "text": "Tarda demasiado en cargar."
+      },
+      {
+        "author": "Olivia",
+        "rating": 5,
+        "text": "Material de primera, se nota la diferencia."
+      },
+      {
+        "author": "Diego",
+        "rating": 5,
+        "text": "Funciona tal como dice la descripción. Llegó con un raspón en la caja."
+      },
+      {
+        "author": "Sofía",
+        "rating": 5,
+        "text": "Sonido nítido, sin distorsión."
+      }
+    ]
+  },
+  {
+    "id": "p_079",
+    "title": "Powerbank 20000mAh",
+    "imageUrl": "http://localhost:9090/images/p_079.jpg",
+    "reviews": [
+      {
+        "author": "Joaquín",
+        "rating": 2,
+        "text": "El botón se traba a veces."
+      },
+      {
+        "author": "Ana",
+        "rating": 4,
+        "text": "Buena duración de batería para el tamaño."
+      },
+      {
+        "author": "Emma",
+        "rating": 4,
+        "text": "Cumple con todo lo prometido y más."
+      },
+      {
+        "author": "Federico",
+        "rating": 5,
+        "text": "Liviano y fácil de transportar."
+      },
+      {
+        "author": "Felipe",
+        "rating": 4,
+        "text": "Material de primera, se nota la diferencia. Se calienta más de la cuenta."
+      },
+      {
+        "author": "Florencia",
+        "rating": 4,
+        "text": "Resistente y bien construido. Pesa más de lo que pensaba."
+      },
+      {
+        "author": "Catalina",
+        "rating": 4,
+        "text": "Buena duración de batería para el tamaño. El manual viene en inglés solamente."
+      },
+      {
+        "author": "Juan",
+        "rating": 2,
+        "text": "El botón se traba a veces."
+      },
+      {
+        "author": "Lucía",
+        "rating": 5,
+        "text": "Buena duración de batería para el tamaño. El diseño no es tan moderno como en las fotos."
+      },
+      {
+        "author": "Ana",
+        "rating": 5,
+        "text": "Re cómodo, ideal para uso diario. El soporte no fija bien al escritorio."
+      },
+      {
+        "author": "Florencia",
+        "rating": 5,
+        "text": "Lo uso todos los días, súper práctico. Llegó con un raspón en la caja."
+      },
+      {
+        "author": "Santino",
+        "rating": 3,
+        "text": "Para el uso ocasional cumple."
+      },
+      {
+        "author": "Renata",
+        "rating": 4,
+        "text": "Muy buena terminación, sin defectos. El diseño no es tan moderno como en las fotos."
+      },
+      {
+        "author": "Lautaro",
+        "rating": 2,
+        "text": "La aplicación móvil es lenta y poco intuitiva."
+      },
+      {
+        "author": "Lautaro",
+        "rating": 5,
+        "text": "Súper fácil de usar y configurar. Por el precio esperaba mejor calidad de imagen."
+      },
+      {
+        "author": "Federico",
+        "rating": 5,
+        "text": "Funciona tal como dice la descripción. La batería dura menos de lo esperado."
+      },
+      {
+        "author": "Tomás",
+        "rating": 4,
+        "text": "Cumple con todo lo prometido y más."
+      },
+      {
+        "author": "Sofía",
+        "rating": 3,
+        "text": "Funciona ok, no es lo mejor del mercado."
+      }
+    ]
+  },
+  {
+    "id": "p_080",
+    "title": "Trapeador con balde escurridor",
+    "imageUrl": "http://localhost:9090/images/p_080.jpg",
+    "reviews": [
+      {
+        "author": "Martín",
+        "rating": 4,
+        "text": "Cumple con todo lo prometido y más. Hace ruido cuando se usa a máxima potencia."
+      },
+      {
+        "author": "Benjamín",
+        "rating": 5,
+        "text": "Excelente atención post-venta también."
+      },
+      {
+        "author": "Juan",
+        "rating": 4,
+        "text": "Estoy muy contento con la compra."
+      },
+      {
+        "author": "Agustina",
+        "rating": 4,
+        "text": "Cumple con todo lo prometido y más."
+      },
+      {
+        "author": "Bruno",
+        "rating": 5,
+        "text": "Mucho mejor que otras marcas que probé."
+      },
+      {
+        "author": "Florencia",
+        "rating": 2,
+        "text": "Se calienta más de la cuenta."
+      },
+      {
+        "author": "Ana",
+        "rating": 5,
+        "text": "Sonido nítido, sin distorsión."
+      },
+      {
+        "author": "María",
+        "rating": 4,
+        "text": "Súper fácil de usar y configurar."
+      },
+      {
+        "author": "María",
+        "rating": 4,
+        "text": "Diseño elegante y compacto."
+      },
+      {
+        "author": "Catalina",
+        "rating": 5,
+        "text": "Excelente atención post-venta también."
+      },
+      {
+        "author": "Mateo",
+        "rating": 3,
+        "text": "Nada destacable, pero tampoco fallas graves."
+      },
+      {
+        "author": "Florencia",
+        "rating": 3,
+        "text": "Para el uso ocasional cumple."
+      },
+      {
+        "author": "Renata",
+        "rating": 2,
+        "text": "Se calienta más de la cuenta."
+      },
+      {
+        "author": "Mía",
+        "rating": 3,
+        "text": "Para el uso ocasional cumple."
+      },
+      {
+        "author": "Martín",
+        "rating": 5,
+        "text": "Material de primera, se nota la diferencia."
+      },
+      {
+        "author": "Diego",
+        "rating": 2,
+        "text": "La batería dura menos de lo esperado."
+      },
+      {
+        "author": "Martín",
+        "rating": 4,
+        "text": "Sonido nítido, sin distorsión. Se calienta más de la cuenta."
+      },
+      {
+        "author": "Lucía",
+        "rating": 3,
+        "text": "Cumple su función básica."
+      }
+    ]
+  },
+  {
+    "id": "p_081",
+    "title": "Carpa para 4 personas impermeable",
+    "imageUrl": "http://localhost:9090/images/p_081.jpg",
+    "reviews": [
+      {
+        "author": "Lucía",
+        "rating": 4,
+        "text": "Sonido nítido, sin distorsión."
+      },
+      {
+        "author": "Emma",
+        "rating": 5,
+        "text": "Material de primera, se nota la diferencia. El cable es más corto de lo que muestra la foto."
+      },
+      {
+        "author": "Diego",
+        "rating": 2,
+        "text": "Por el precio esperaba mejor calidad de imagen."
+      },
+      {
+        "author": "Martín",
+        "rating": 5,
+        "text": "Muy buena terminación, sin defectos."
+      },
+      {
+        "author": "María",
+        "rating": 3,
+        "text": "Está bien por el precio."
+      },
+      {
+        "author": "Bruno",
+        "rating": 5,
+        "text": "Funciona tal como dice la descripción. El soporte no fija bien al escritorio."
+      },
+      {
+        "author": "Valentina",
+        "rating": 4,
+        "text": "Sonido nítido, sin distorsión."
+      },
+      {
+        "author": "Felipe",
+        "rating": 2,
+        "text": "Pesa más de lo que pensaba."
+      },
+      {
+        "author": "Florencia",
+        "rating": 3,
+        "text": "Cumple su función básica."
+      },
+      {
+        "author": "Bruno",
+        "rating": 3,
+        "text": "Para el uso ocasional cumple."
+      },
+      {
+        "author": "Felipe",
+        "rating": 2,
+        "text": "Hace ruido cuando se usa a máxima potencia."
+      },
+      {
+        "author": "Lautaro",
+        "rating": 4,
+        "text": "Diseño elegante y compacto."
+      }
+    ]
+  },
+  {
+    "id": "p_082",
+    "title": "Auriculares con cancelación de ruido",
+    "imageUrl": "http://localhost:9090/images/p_082.jpg",
+    "reviews": [
+      {
+        "author": "Juan",
+        "rating": 2,
+        "text": "La aplicación móvil es lenta y poco intuitiva."
+      },
+      {
+        "author": "Emma",
+        "rating": 2,
+        "text": "El soporte no fija bien al escritorio."
+      }
+    ]
+  },
+  {
+    "id": "p_083",
+    "title": "Skate completo doble curva",
+    "imageUrl": "http://localhost:9090/images/p_083.jpg",
+    "reviews": [
+      {
+        "author": "Isabella",
+        "rating": 5,
+        "text": "Estoy muy contento con la compra. Se calienta más de la cuenta."
+      },
+      {
+        "author": "Pedro",
+        "rating": 1,
+        "text": "El plástico se siente un poco endeble."
+      },
+      {
+        "author": "Pedro",
+        "rating": 4,
+        "text": "Liviano y fácil de transportar. La batería dura menos de lo esperado."
+      },
+      {
+        "author": "Isabella",
+        "rating": 4,
+        "text": "Cumple con todo lo prometido y más."
+      },
+      {
+        "author": "Juan",
+        "rating": 4,
+        "text": "Resistente y bien construido."
+      },
+      {
+        "author": "Pedro",
+        "rating": 5,
+        "text": "Buena duración de batería para el tamaño. Pesa más de lo que pensaba."
+      },
+      {
+        "author": "Bruno",
+        "rating": 3,
+        "text": "Para el uso ocasional cumple."
+      },
+      {
+        "author": "Mateo",
+        "rating": 1,
+        "text": "Se calienta más de la cuenta."
+      },
+      {
+        "author": "Martín",
+        "rating": 5,
+        "text": "Re cómodo, ideal para uso diario."
+      },
+      {
+        "author": "Joaquín",
+        "rating": 5,
+        "text": "Funciona tal como dice la descripción. La batería dura menos de lo esperado."
+      },
+      {
+        "author": "María",
+        "rating": 4,
+        "text": "Lo uso todos los días, súper práctico."
+      },
+      {
+        "author": "Ignacio",
+        "rating": 5,
+        "text": "Excelente atención post-venta también."
+      },
+      {
+        "author": "Felipe",
+        "rating": 4,
+        "text": "Excelente atención post-venta también."
+      },
+      {
+        "author": "Emma",
+        "rating": 3,
+        "text": "Nada destacable, pero tampoco fallas graves."
+      },
+      {
+        "author": "Ignacio",
+        "rating": 5,
+        "text": "Funciona tal como dice la descripción."
+      },
+      {
+        "author": "Sofía",
+        "rating": 3,
+        "text": "Nada destacable, pero tampoco fallas graves."
+      },
+      {
+        "author": "Mateo",
+        "rating": 3,
+        "text": "Para el uso ocasional cumple."
+      },
+      {
+        "author": "María",
+        "rating": 4,
+        "text": "Material de primera, se nota la diferencia. Llegó con un raspón en la caja."
+      },
+      {
+        "author": "Florencia",
+        "rating": 4,
+        "text": "Muy buena relación calidad-precio."
+      },
+      {
+        "author": "Renata",
+        "rating": 3,
+        "text": "Está bien por el precio."
+      }
+    ]
+  },
+  {
+    "id": "p_084",
+    "title": "Set de utensilios camping",
+    "imageUrl": "http://localhost:9090/images/p_084.jpg",
+    "reviews": []
+  },
+  {
+    "id": "p_085",
+    "title": "Trípode flexible para celular",
+    "imageUrl": "http://localhost:9090/images/p_085.jpg",
+    "reviews": [
+      {
+        "author": "Renata",
+        "rating": 4,
+        "text": "Cumple con todo lo prometido y más."
+      },
+      {
+        "author": "Tomás",
+        "rating": 4,
+        "text": "Cumple con todo lo prometido y más. La aplicación móvil es lenta y poco intuitiva."
+      },
+      {
+        "author": "María",
+        "rating": 1,
+        "text": "Hace ruido cuando se usa a máxima potencia."
+      },
+      {
+        "author": "Nicolás",
+        "rating": 2,
+        "text": "Se calienta más de la cuenta."
+      },
+      {
+        "author": "Diego",
+        "rating": 1,
+        "text": "Tarda demasiado en cargar."
+      },
+      {
+        "author": "Martín",
+        "rating": 1,
+        "text": "El cable es más corto de lo que muestra la foto."
+      },
+      {
+        "author": "Isabella",
+        "rating": 4,
+        "text": "Re cómodo, ideal para uso diario. El diseño no es tan moderno como en las fotos."
+      },
+      {
+        "author": "Federico",
+        "rating": 4,
+        "text": "Funciona tal como dice la descripción."
+      },
+      {
+        "author": "Nicolás",
+        "rating": 4,
+        "text": "El acabado es impecable, se siente premium."
+      },
+      {
+        "author": "Camila",
+        "rating": 4,
+        "text": "Lo uso todos los días, súper práctico. El plástico se siente un poco endeble."
+      }
+    ]
+  },
+  {
+    "id": "p_086",
+    "title": "Cortacésped eléctrico 1600W",
+    "imageUrl": "http://localhost:9090/images/p_086.jpg",
+    "reviews": [
+      {
+        "author": "Mateo",
+        "rating": 4,
+        "text": "Cumple con todo lo prometido y más."
+      },
+      {
+        "author": "Joaquín",
+        "rating": 1,
+        "text": "Llegó con un raspón en la caja."
+      },
+      {
+        "author": "Sofía",
+        "rating": 3,
+        "text": "Lo recomendaría con reservas."
+      },
+      {
+        "author": "Joaquín",
+        "rating": 2,
+        "text": "La batería dura menos de lo esperado."
+      },
+      {
+        "author": "Nicolás",
+        "rating": 2,
+        "text": "El manual viene en inglés solamente."
+      },
+      {
+        "author": "Valentina",
+        "rating": 4,
+        "text": "Excelente calidad, lo recomiendo sin dudar."
+      },
+      {
+        "author": "Santino",
+        "rating": 4,
+        "text": "Excelente calidad, lo recomiendo sin dudar. La batería dura menos de lo esperado."
+      }
+    ]
+  },
+  {
+    "id": "p_087",
+    "title": "Soporte ergonómico para notebook",
+    "imageUrl": "http://localhost:9090/images/p_087.jpg",
+    "reviews": [
+      {
+        "author": "Mía",
+        "rating": 4,
+        "text": "Cumple con todo lo prometido y más."
+      },
+      {
+        "author": "Valentina",
+        "rating": 5,
+        "text": "Cumple con todo lo prometido y más. El manual viene en inglés solamente."
+      },
+      {
+        "author": "Isabella",
+        "rating": 5,
+        "text": "Material de primera, se nota la diferencia."
+      },
+      {
+        "author": "Santino",
+        "rating": 2,
+        "text": "La batería dura menos de lo esperado."
+      },
+      {
+        "author": "Nicolás",
+        "rating": 1,
+        "text": "El diseño no es tan moderno como en las fotos."
+      },
+      {
+        "author": "Juan",
+        "rating": 5,
+        "text": "Sonido nítido, sin distorsión."
+      },
+      {
+        "author": "Isabella",
+        "rating": 3,
+        "text": "Para el uso ocasional cumple."
+      },
+      {
+        "author": "Martín",
+        "rating": 4,
+        "text": "Perfecto para regalar."
+      },
+      {
+        "author": "Felipe",
+        "rating": 5,
+        "text": "Diseño elegante y compacto."
+      },
+      {
+        "author": "Federico",
+        "rating": 2,
+        "text": "El botón se traba a veces."
+      },
+      {
+        "author": "Felipe",
+        "rating": 2,
+        "text": "El cable es más corto de lo que muestra la foto."
+      },
+      {
+        "author": "Mateo",
+        "rating": 5,
+        "text": "Sonido nítido, sin distorsión."
+      },
+      {
+        "author": "Isabella",
+        "rating": 4,
+        "text": "Muy buena terminación, sin defectos."
+      },
+      {
+        "author": "Camila",
+        "rating": 5,
+        "text": "Funciona tal como dice la descripción."
+      },
+      {
+        "author": "Santino",
+        "rating": 5,
+        "text": "Mucho mejor que otras marcas que probé."
+      },
+      {
+        "author": "Mía",
+        "rating": 2,
+        "text": "El plástico se siente un poco endeble."
+      },
+      {
+        "author": "Catalina",
+        "rating": 2,
+        "text": "El soporte no fija bien al escritorio."
+      },
+      {
+        "author": "Pedro",
+        "rating": 4,
+        "text": "Sonido nítido, sin distorsión."
+      }
+    ]
+  },
+  {
+    "id": "p_088",
+    "title": "Candado bicicleta nivel 9",
+    "imageUrl": "http://localhost:9090/images/p_088.jpg",
+    "reviews": [
+      {
+        "author": "Tomás",
+        "rating": 4,
+        "text": "Excelente atención post-venta también."
+      },
+      {
+        "author": "Catalina",
+        "rating": 2,
+        "text": "El plástico se siente un poco endeble."
+      },
+      {
+        "author": "Pedro",
+        "rating": 4,
+        "text": "Muy buena relación calidad-precio. El soporte no fija bien al escritorio."
+      },
+      {
+        "author": "Ignacio",
+        "rating": 4,
+        "text": "Cumple con todo lo prometido y más."
+      },
+      {
+        "author": "Pedro",
+        "rating": 5,
+        "text": "Diseño elegante y compacto."
+      },
+      {
+        "author": "Nicolás",
+        "rating": 2,
+        "text": "El plástico se siente un poco endeble."
+      },
+      {
+        "author": "Mateo",
+        "rating": 4,
+        "text": "Resistente y bien construido."
+      },
+      {
+        "author": "Bruno",
+        "rating": 2,
+        "text": "Llegó con un raspón en la caja."
+      }
+    ]
+  },
+  {
+    "id": "p_089",
+    "title": "Aspiradora robot inteligente",
+    "imageUrl": "http://localhost:9090/images/p_089.jpg",
+    "reviews": [
+      {
+        "author": "Mía",
+        "rating": 4,
+        "text": "Estoy muy contento con la compra."
+      },
+      {
+        "author": "Bruno",
+        "rating": 5,
+        "text": "Súper fácil de usar y configurar."
+      },
+      {
+        "author": "Joaquín",
+        "rating": 5,
+        "text": "Muy buena terminación, sin defectos."
+      },
+      {
+        "author": "Bruno",
+        "rating": 5,
+        "text": "Muy buena terminación, sin defectos."
+      },
+      {
+        "author": "Florencia",
+        "rating": 3,
+        "text": "Para el uso ocasional cumple."
+      },
+      {
+        "author": "Tomás",
+        "rating": 4,
+        "text": "Estoy muy contento con la compra."
+      },
+      {
+        "author": "Diego",
+        "rating": 4,
+        "text": "Excelente calidad, lo recomiendo sin dudar."
+      },
+      {
+        "author": "Federico",
+        "rating": 4,
+        "text": "Muy buena terminación, sin defectos. Llegó con un raspón en la caja."
+      },
+      {
+        "author": "Mateo",
+        "rating": 4,
+        "text": "Lo uso todos los días, súper práctico."
+      },
+      {
+        "author": "María",
+        "rating": 4,
+        "text": "Llegó antes de lo esperado y funciona perfecto."
+      },
+      {
+        "author": "Catalina",
+        "rating": 4,
+        "text": "Re cómodo, ideal para uso diario."
+      },
+      {
+        "author": "Florencia",
+        "rating": 1,
+        "text": "La batería dura menos de lo esperado."
+      }
+    ]
+  },
+  {
+    "id": "p_090",
+    "title": "Difusor de aceites esenciales",
+    "imageUrl": "http://localhost:9090/images/p_090.jpg",
+    "reviews": [
+      {
+        "author": "Mateo",
+        "rating": 1,
+        "text": "El manual viene en inglés solamente."
+      },
+      {
+        "author": "Joaquín",
+        "rating": 5,
+        "text": "Excelente atención post-venta también."
+      },
+      {
+        "author": "Lautaro",
+        "rating": 4,
+        "text": "Re cómodo, ideal para uso diario."
+      },
+      {
+        "author": "María",
+        "rating": 1,
+        "text": "La batería dura menos de lo esperado."
+      },
+      {
+        "author": "Joaquín",
+        "rating": 4,
+        "text": "Perfecto para regalar."
+      },
+      {
+        "author": "Nicolás",
+        "rating": 5,
+        "text": "Material de primera, se nota la diferencia."
+      },
+      {
+        "author": "Valentina",
+        "rating": 4,
+        "text": "Excelente calidad, lo recomiendo sin dudar."
+      },
+      {
+        "author": "Florencia",
+        "rating": 2,
+        "text": "El cable es más corto de lo que muestra la foto."
+      },
+      {
+        "author": "Juan",
+        "rating": 1,
+        "text": "La batería dura menos de lo esperado."
+      },
+      {
+        "author": "Valentina",
+        "rating": 5,
+        "text": "Súper fácil de usar y configurar. El botón se traba a veces."
+      }
+    ]
+  },
+  {
+    "id": "p_091",
+    "title": "Mochila hidratación trail 6L",
+    "imageUrl": "http://localhost:9090/images/p_091.jpg",
+    "reviews": [
+      {
+        "author": "Agustina",
+        "rating": 5,
+        "text": "Excelente calidad, lo recomiendo sin dudar. Llegó con un raspón en la caja."
+      },
+      {
+        "author": "Agustina",
+        "rating": 1,
+        "text": "Tarda demasiado en cargar."
+      },
+      {
+        "author": "Diego",
+        "rating": 3,
+        "text": "Para el uso ocasional cumple."
+      },
+      {
+        "author": "Olivia",
+        "rating": 3,
+        "text": "Para el uso ocasional cumple."
+      },
+      {
+        "author": "Camila",
+        "rating": 5,
+        "text": "Resistente y bien construido."
+      },
+      {
+        "author": "Joaquín",
+        "rating": 4,
+        "text": "Mucho mejor que otras marcas que probé."
+      },
+      {
+        "author": "Sofía",
+        "rating": 4,
+        "text": "Perfecto para regalar. El soporte no fija bien al escritorio."
+      },
+      {
+        "author": "Camila",
+        "rating": 3,
+        "text": "Lo recomendaría con reservas."
+      },
+      {
+        "author": "Lautaro",
+        "rating": 5,
+        "text": "Cumple con todo lo prometido y más."
+      },
+      {
+        "author": "Benjamín",
+        "rating": 4,
+        "text": "Sonido nítido, sin distorsión."
+      },
+      {
+        "author": "María",
+        "rating": 5,
+        "text": "Súper fácil de usar y configurar."
+      },
+      {
+        "author": "Juan",
+        "rating": 2,
+        "text": "El diseño no es tan moderno como en las fotos."
+      }
+    ]
+  },
+  {
+    "id": "p_092",
+    "title": "Smartwatch Pulse Pro",
+    "imageUrl": "http://localhost:9090/images/p_092.jpg",
+    "reviews": [
+      {
+        "author": "Pedro",
+        "rating": 4,
+        "text": "Excelente atención post-venta también. Se calienta más de la cuenta."
+      },
+      {
+        "author": "Juan",
+        "rating": 5,
+        "text": "Diseño elegante y compacto."
+      },
+      {
+        "author": "Diego",
+        "rating": 3,
+        "text": "Está bien por el precio."
+      },
+      {
+        "author": "Catalina",
+        "rating": 5,
+        "text": "Estoy muy contento con la compra."
+      },
+      {
+        "author": "Joaquín",
+        "rating": 5,
+        "text": "Re cómodo, ideal para uso diario."
+      },
+      {
+        "author": "Joaquín",
+        "rating": 5,
+        "text": "Muy buena relación calidad-precio."
+      },
+      {
+        "author": "Santino",
+        "rating": 5,
+        "text": "Sonido nítido, sin distorsión."
+      },
+      {
+        "author": "Lautaro",
+        "rating": 4,
+        "text": "Resistente y bien construido."
+      },
+      {
+        "author": "Bruno",
+        "rating": 4,
+        "text": "Funciona tal como dice la descripción. La aplicación móvil es lenta y poco intuitiva."
+      },
+      {
+        "author": "Lautaro",
+        "rating": 3,
+        "text": "Cumple su función básica."
+      },
+      {
+        "author": "Diego",
+        "rating": 5,
+        "text": "Excelente atención post-venta también."
+      },
+      {
+        "author": "Julieta",
+        "rating": 5,
+        "text": "Perfecto para regalar."
+      },
+      {
+        "author": "Diego",
+        "rating": 4,
+        "text": "Cumple con todo lo prometido y más."
+      },
+      {
+        "author": "Lucía",
+        "rating": 2,
+        "text": "Pesa más de lo que pensaba."
+      },
+      {
+        "author": "Ignacio",
+        "rating": 3,
+        "text": "Está bien por el precio."
+      },
+      {
+        "author": "Sofía",
+        "rating": 5,
+        "text": "Material de primera, se nota la diferencia."
+      },
+      {
+        "author": "Tomás",
+        "rating": 4,
+        "text": "Excelente calidad, lo recomiendo sin dudar."
+      },
+      {
+        "author": "Bruno",
+        "rating": 5,
+        "text": "Súper fácil de usar y configurar."
+      }
+    ]
+  },
+  {
+    "id": "p_093",
+    "title": "Mesa de planchar con perchero",
+    "imageUrl": "http://localhost:9090/images/p_093.jpg",
+    "reviews": [
+      {
+        "author": "Mía",
+        "rating": 4,
+        "text": "Sonido nítido, sin distorsión."
+      },
+      {
+        "author": "Renata",
+        "rating": 4,
+        "text": "Diseño elegante y compacto. La aplicación móvil es lenta y poco intuitiva."
+      },
+      {
+        "author": "Diego",
+        "rating": 4,
+        "text": "Lo uso todos los días, súper práctico. La aplicación móvil es lenta y poco intuitiva."
+      },
+      {
+        "author": "Pedro",
+        "rating": 4,
+        "text": "Cumple con todo lo prometido y más."
+      },
+      {
+        "author": "Federico",
+        "rating": 3,
+        "text": "Es lo que se ve, ni más ni menos."
+      },
+      {
+        "author": "Lucía",
+        "rating": 4,
+        "text": "Material de primera, se nota la diferencia."
+      },
+      {
+        "author": "Lucía",
+        "rating": 5,
+        "text": "Perfecto para regalar."
+      },
+      {
+        "author": "Lautaro",
+        "rating": 2,
+        "text": "El cable es más corto de lo que muestra la foto."
+      },
+      {
+        "author": "Ana",
+        "rating": 5,
+        "text": "Súper fácil de usar y configurar."
+      },
+      {
+        "author": "Tomás",
+        "rating": 5,
+        "text": "Súper fácil de usar y configurar. Se calienta más de la cuenta."
+      }
+    ]
+  },
+  {
+    "id": "p_094",
+    "title": "Humidificador ultrasónico 3L",
+    "imageUrl": "http://localhost:9090/images/p_094.jpg",
+    "reviews": [
+      {
+        "author": "Emma",
+        "rating": 4,
+        "text": "Excelente atención post-venta también."
+      },
+      {
+        "author": "Diego",
+        "rating": 4,
+        "text": "Cumple con todo lo prometido y más. El botón se traba a veces."
+      },
+      {
+        "author": "Bruno",
+        "rating": 4,
+        "text": "Mucho mejor que otras marcas que probé."
+      },
+      {
+        "author": "Lautaro",
+        "rating": 3,
+        "text": "Es lo que se ve, ni más ni menos."
+      },
+      {
+        "author": "Ignacio",
+        "rating": 4,
+        "text": "Buena duración de batería para el tamaño. El cable es más corto de lo que muestra la foto."
+      },
+      {
+        "author": "Olivia",
+        "rating": 4,
+        "text": "Mucho mejor que otras marcas que probé. Se calienta más de la cuenta."
+      }
+    ]
+  },
+  {
+    "id": "p_095",
+    "title": "Secador de pelo 2200W",
+    "imageUrl": "http://localhost:9090/images/p_095.jpg",
+    "reviews": [
+      {
+        "author": "Bruno",
+        "rating": 4,
+        "text": "Excelente calidad, lo recomiendo sin dudar. Hace ruido cuando se usa a máxima potencia."
+      },
+      {
+        "author": "Diego",
+        "rating": 4,
+        "text": "Súper fácil de usar y configurar. Por el precio esperaba mejor calidad de imagen."
+      },
+      {
+        "author": "Ana",
+        "rating": 4,
+        "text": "Muy buena terminación, sin defectos."
+      },
+      {
+        "author": "Felipe",
+        "rating": 5,
+        "text": "Diseño elegante y compacto."
+      },
+      {
+        "author": "Diego",
+        "rating": 1,
+        "text": "La batería dura menos de lo esperado."
+      },
+      {
+        "author": "Ignacio",
+        "rating": 4,
+        "text": "Resistente y bien construido. El soporte no fija bien al escritorio."
+      },
+      {
+        "author": "Nicolás",
+        "rating": 4,
+        "text": "Funciona tal como dice la descripción. El manual viene en inglés solamente."
+      },
+      {
+        "author": "Florencia",
+        "rating": 3,
+        "text": "Nada destacable, pero tampoco fallas graves."
+      },
+      {
+        "author": "Bruno",
+        "rating": 5,
+        "text": "Muy buena relación calidad-precio."
+      },
+      {
+        "author": "Nicolás",
+        "rating": 5,
+        "text": "Mucho mejor que otras marcas que probé. El plástico se siente un poco endeble."
+      },
+      {
+        "author": "Florencia",
+        "rating": 5,
+        "text": "Buena duración de batería para el tamaño."
+      },
+      {
+        "author": "Bruno",
+        "rating": 3,
+        "text": "Funciona ok, no es lo mejor del mercado."
+      }
+    ]
+  },
+  {
+    "id": "p_096",
+    "title": "Tostadora 4 ranuras",
+    "imageUrl": "http://localhost:9090/images/p_096.jpg",
+    "reviews": [
+      {
+        "author": "Renata",
+        "rating": 2,
+        "text": "El soporte no fija bien al escritorio."
+      },
+      {
+        "author": "Bruno",
+        "rating": 5,
+        "text": "Sonido nítido, sin distorsión. Hace ruido cuando se usa a máxima potencia."
+      },
+      {
+        "author": "Renata",
+        "rating": 2,
+        "text": "El soporte no fija bien al escritorio."
+      },
+      {
+        "author": "Lucía",
+        "rating": 4,
+        "text": "Súper fácil de usar y configurar."
+      },
+      {
+        "author": "Bruno",
+        "rating": 4,
+        "text": "Re cómodo, ideal para uso diario."
+      },
+      {
+        "author": "Bruno",
+        "rating": 4,
+        "text": "Excelente atención post-venta también. Se calienta más de la cuenta."
+      },
+      {
+        "author": "Camila",
+        "rating": 5,
+        "text": "Llegó antes de lo esperado y funciona perfecto."
+      },
+      {
+        "author": "Diego",
+        "rating": 4,
+        "text": "Cumple con todo lo prometido y más. La batería dura menos de lo esperado."
+      },
+      {
+        "author": "Joaquín",
+        "rating": 4,
+        "text": "Resistente y bien construido."
+      },
+      {
+        "author": "Mía",
+        "rating": 4,
+        "text": "Muy buena relación calidad-precio."
+      },
+      {
+        "author": "Pedro",
+        "rating": 4,
+        "text": "Sonido nítido, sin distorsión. El soporte no fija bien al escritorio."
+      },
+      {
+        "author": "Camila",
+        "rating": 4,
+        "text": "Material de primera, se nota la diferencia."
+      },
+      {
+        "author": "Lucía",
+        "rating": 3,
+        "text": "Funciona ok, no es lo mejor del mercado."
+      },
+      {
+        "author": "Ignacio",
+        "rating": 4,
+        "text": "Cumple con todo lo prometido y más. Llegó con un raspón en la caja."
+      },
+      {
+        "author": "Lautaro",
+        "rating": 3,
+        "text": "Es lo que se ve, ni más ni menos."
+      },
+      {
+        "author": "Isabella",
+        "rating": 5,
+        "text": "Muy buena terminación, sin defectos."
+      },
+      {
+        "author": "Benjamín",
+        "rating": 3,
+        "text": "Nada destacable, pero tampoco fallas graves."
+      },
+      {
+        "author": "Santino",
+        "rating": 2,
+        "text": "El diseño no es tan moderno como en las fotos."
+      },
+      {
+        "author": "Ana",
+        "rating": 5,
+        "text": "Buena duración de batería para el tamaño."
+      },
+      {
+        "author": "Felipe",
+        "rating": 2,
+        "text": "El diseño no es tan moderno como en las fotos."
+      }
+    ]
+  },
+  {
+    "id": "p_097",
+    "title": "Batidora de mano 800W",
+    "imageUrl": "http://localhost:9090/images/p_097.jpg",
+    "reviews": [
+      {
+        "author": "Lautaro",
+        "rating": 4,
+        "text": "Estoy muy contento con la compra."
+      },
+      {
+        "author": "Camila",
+        "rating": 4,
+        "text": "Liviano y fácil de transportar."
+      },
+      {
+        "author": "Pedro",
+        "rating": 4,
+        "text": "Buena duración de batería para el tamaño."
+      },
+      {
+        "author": "Federico",
+        "rating": 5,
+        "text": "El acabado es impecable, se siente premium."
+      }
+    ]
+  },
+  {
+    "id": "p_098",
+    "title": "Sábanas king size 100% algodón",
+    "imageUrl": "http://localhost:9090/images/p_098.jpg",
+    "reviews": [
+      {
+        "author": "Martín",
+        "rating": 2,
+        "text": "El botón se traba a veces."
+      },
+      {
+        "author": "Renata",
+        "rating": 3,
+        "text": "Lo recomendaría con reservas."
+      },
+      {
+        "author": "Ignacio",
+        "rating": 2,
+        "text": "El plástico se siente un poco endeble."
+      },
+      {
+        "author": "Felipe",
+        "rating": 4,
+        "text": "Cumple con todo lo prometido y más."
+      },
+      {
+        "author": "Ana",
+        "rating": 4,
+        "text": "Mucho mejor que otras marcas que probé."
+      },
+      {
+        "author": "Felipe",
+        "rating": 4,
+        "text": "Re cómodo, ideal para uso diario."
+      }
+    ]
+  },
+  {
+    "id": "p_099",
+    "title": "Bolsa hermética para viaje",
+    "imageUrl": "http://localhost:9090/images/p_099.jpg",
+    "reviews": [
+      {
+        "author": "Benjamín",
+        "rating": 5,
+        "text": "Funciona tal como dice la descripción. El diseño no es tan moderno como en las fotos."
+      },
+      {
+        "author": "Lautaro",
+        "rating": 2,
+        "text": "El diseño no es tan moderno como en las fotos."
+      },
+      {
+        "author": "Pedro",
+        "rating": 5,
+        "text": "Perfecto para regalar."
+      },
+      {
+        "author": "Mateo",
+        "rating": 4,
+        "text": "El acabado es impecable, se siente premium."
+      },
+      {
+        "author": "Olivia",
+        "rating": 5,
+        "text": "Cumple con todo lo prometido y más. El cable es más corto de lo que muestra la foto."
+      },
+      {
+        "author": "Mía",
+        "rating": 5,
+        "text": "Muy buena relación calidad-precio."
+      },
+      {
+        "author": "Lucía",
+        "rating": 5,
+        "text": "Muy buena terminación, sin defectos."
+      },
+      {
+        "author": "Joaquín",
+        "rating": 5,
+        "text": "Lo uso todos los días, súper práctico. Pesa más de lo que pensaba."
+      }
+    ]
+  },
+  {
+    "id": "p_100",
+    "title": "Sartén antiadherente 28cm",
+    "imageUrl": "http://localhost:9090/images/p_100.jpg",
+    "reviews": [
+      {
+        "author": "Valentina",
+        "rating": 5,
+        "text": "Re cómodo, ideal para uso diario."
+      },
+      {
+        "author": "Bruno",
+        "rating": 3,
+        "text": "Es lo que se ve, ni más ni menos."
+      }
+    ]
+  },
+  {
+    "id": "p_101",
+    "title": "Báscula corporal Bluetooth",
+    "imageUrl": "http://localhost:9090/images/p_101.jpg",
+    "reviews": [
+      {
+        "author": "Ana",
+        "rating": 5,
+        "text": "Llegó antes de lo esperado y funciona perfecto. Por el precio esperaba mejor calidad de imagen."
+      }
+    ]
+  },
+  {
+    "id": "p_102",
+    "title": "Estabilizador gimbal de mano",
+    "imageUrl": "http://localhost:9090/images/p_102.jpg",
+    "reviews": [
+      {
+        "author": "Martín",
+        "rating": 2,
+        "text": "La batería dura menos de lo esperado."
+      },
+      {
+        "author": "Camila",
+        "rating": 1,
+        "text": "El manual viene en inglés solamente."
+      },
+      {
+        "author": "Emma",
+        "rating": 5,
+        "text": "Estoy muy contento con la compra. Los accesorios incluidos son básicos."
+      },
+      {
+        "author": "Camila",
+        "rating": 3,
+        "text": "Cumple su función básica."
+      },
+      {
+        "author": "Camila",
+        "rating": 4,
+        "text": "Diseño elegante y compacto."
+      },
+      {
+        "author": "Julieta",
+        "rating": 4,
+        "text": "Lo uso todos los días, súper práctico."
+      },
+      {
+        "author": "Tomás",
+        "rating": 3,
+        "text": "Está bien por el precio."
+      },
+      {
+        "author": "Santino",
+        "rating": 4,
+        "text": "Funciona tal como dice la descripción."
+      },
+      {
+        "author": "Juan",
+        "rating": 4,
+        "text": "Cumple con todo lo prometido y más."
+      },
+      {
+        "author": "Nicolás",
+        "rating": 5,
+        "text": "Lo uso todos los días, súper práctico."
+      }
+    ]
+  },
+  {
+    "id": "p_103",
+    "title": "Colchoneta de yoga antideslizante",
+    "imageUrl": "http://localhost:9090/images/p_103.jpg",
+    "reviews": [
+      {
+        "author": "Catalina",
+        "rating": 5,
+        "text": "El acabado es impecable, se siente premium."
+      }
+    ]
+  },
+  {
+    "id": "p_104",
+    "title": "Vajilla 16 piezas porcelana",
+    "imageUrl": "http://localhost:9090/images/p_104.jpg",
+    "reviews": [
+      {
+        "author": "Pedro",
+        "rating": 4,
+        "text": "Excelente calidad, lo recomiendo sin dudar."
+      },
+      {
+        "author": "Mateo",
+        "rating": 5,
+        "text": "Liviano y fácil de transportar. El plástico se siente un poco endeble."
+      },
+      {
+        "author": "Felipe",
+        "rating": 3,
+        "text": "Es lo que se ve, ni más ni menos."
+      },
+      {
+        "author": "Ana",
+        "rating": 5,
+        "text": "Diseño elegante y compacto. Hace ruido cuando se usa a máxima potencia."
+      },
+      {
+        "author": "Benjamín",
+        "rating": 4,
+        "text": "Liviano y fácil de transportar. El soporte no fija bien al escritorio."
+      },
+      {
+        "author": "Martín",
+        "rating": 2,
+        "text": "Pesa más de lo que pensaba."
+      },
+      {
+        "author": "Camila",
+        "rating": 3,
+        "text": "Nada destacable, pero tampoco fallas graves."
+      },
+      {
+        "author": "Olivia",
+        "rating": 2,
+        "text": "La batería dura menos de lo esperado."
+      },
+      {
+        "author": "Isabella",
+        "rating": 3,
+        "text": "Funciona ok, no es lo mejor del mercado."
+      },
+      {
+        "author": "Olivia",
+        "rating": 5,
+        "text": "Excelente atención post-venta también. El botón se traba a veces."
+      }
+    ]
+  },
+  {
+    "id": "p_105",
+    "title": "Lámpara de pie LED regulable",
+    "imageUrl": "http://localhost:9090/images/p_105.jpg",
+    "reviews": [
+      {
+        "author": "Mía",
+        "rating": 4,
+        "text": "Material de primera, se nota la diferencia."
+      },
+      {
+        "author": "Julieta",
+        "rating": 3,
+        "text": "Es lo que se ve, ni más ni menos."
+      },
+      {
+        "author": "Benjamín",
+        "rating": 5,
+        "text": "Buena duración de batería para el tamaño."
+      },
+      {
+        "author": "Tomás",
+        "rating": 1,
+        "text": "Llegó con un raspón en la caja."
+      },
+      {
+        "author": "Emma",
+        "rating": 5,
+        "text": "Diseño elegante y compacto."
+      },
+      {
+        "author": "Lautaro",
+        "rating": 5,
+        "text": "Llegó antes de lo esperado y funciona perfecto."
+      },
+      {
+        "author": "Olivia",
+        "rating": 4,
+        "text": "Perfecto para regalar."
+      },
+      {
+        "author": "Mateo",
+        "rating": 4,
+        "text": "Funciona tal como dice la descripción."
+      },
+      {
+        "author": "Camila",
+        "rating": 3,
+        "text": "Está bien por el precio."
+      },
+      {
+        "author": "Emma",
+        "rating": 4,
+        "text": "Resistente y bien construido. Se calienta más de la cuenta."
+      },
+      {
+        "author": "Lucía",
+        "rating": 4,
+        "text": "Re cómodo, ideal para uso diario."
+      },
+      {
+        "author": "Federico",
+        "rating": 3,
+        "text": "Cumple su función básica."
+      },
+      {
+        "author": "Nicolás",
+        "rating": 4,
+        "text": "Resistente y bien construido."
+      },
+      {
+        "author": "Mateo",
+        "rating": 4,
+        "text": "Excelente atención post-venta también. El cable es más corto de lo que muestra la foto."
+      },
+      {
+        "author": "Agustina",
+        "rating": 3,
+        "text": "Para el uso ocasional cumple."
+      },
+      {
+        "author": "Juan",
+        "rating": 4,
+        "text": "Muy buena relación calidad-precio."
+      },
+      {
+        "author": "Isabella",
+        "rating": 3,
+        "text": "Cumple su función básica."
+      },
+      {
+        "author": "Martín",
+        "rating": 3,
+        "text": "Está bien por el precio."
+      },
+      {
+        "author": "Olivia",
+        "rating": 5,
+        "text": "Excelente calidad, lo recomiendo sin dudar."
+      },
+      {
+        "author": "Mía",
+        "rating": 5,
+        "text": "Lo uso todos los días, súper práctico."
+      }
+    ]
+  },
+  {
+    "id": "p_106",
+    "title": "Aspersor giratorio para riego",
+    "imageUrl": "http://localhost:9090/images/p_106.jpg",
+    "reviews": [
+      {
+        "author": "Emma",
+        "rating": 4,
+        "text": "Liviano y fácil de transportar."
+      },
+      {
+        "author": "Olivia",
+        "rating": 5,
+        "text": "Material de primera, se nota la diferencia. Pesa más de lo que pensaba."
+      },
+      {
+        "author": "Florencia",
+        "rating": 1,
+        "text": "El soporte no fija bien al escritorio."
+      },
+      {
+        "author": "Santino",
+        "rating": 5,
+        "text": "Muy buena terminación, sin defectos."
+      },
+      {
+        "author": "Florencia",
+        "rating": 1,
+        "text": "El plástico se siente un poco endeble."
+      }
+    ]
+  },
+  {
+    "id": "p_107",
+    "title": "Bicicleta plegable urbana",
+    "imageUrl": "http://localhost:9090/images/p_107.jpg",
+    "reviews": [
+      {
+        "author": "Joaquín",
+        "rating": 3,
+        "text": "Para el uso ocasional cumple."
+      },
+      {
+        "author": "Julieta",
+        "rating": 4,
+        "text": "Cumple con todo lo prometido y más."
+      },
+      {
+        "author": "Mía",
+        "rating": 5,
+        "text": "Sonido nítido, sin distorsión."
+      },
+      {
+        "author": "Tomás",
+        "rating": 5,
+        "text": "Lo uso todos los días, súper práctico."
+      },
+      {
+        "author": "Isabella",
+        "rating": 3,
+        "text": "Funciona ok, no es lo mejor del mercado."
+      },
+      {
+        "author": "Nicolás",
+        "rating": 4,
+        "text": "Súper fácil de usar y configurar."
+      },
+      {
+        "author": "Bruno",
+        "rating": 4,
+        "text": "Estoy muy contento con la compra. Hace ruido cuando se usa a máxima potencia."
+      }
+    ]
+  },
+  {
+    "id": "p_108",
+    "title": "Sopladora de hojas a batería",
+    "imageUrl": "http://localhost:9090/images/p_108.jpg",
+    "reviews": [
+      {
+        "author": "Mateo",
+        "rating": 5,
+        "text": "Material de primera, se nota la diferencia."
+      },
+      {
+        "author": "Bruno",
+        "rating": 3,
+        "text": "Cumple su función básica."
+      },
+      {
+        "author": "Martín",
+        "rating": 5,
+        "text": "Liviano y fácil de transportar. El manual viene en inglés solamente."
+      },
+      {
+        "author": "Ignacio",
+        "rating": 4,
+        "text": "Cumple con todo lo prometido y más."
+      },
+      {
+        "author": "Bruno",
+        "rating": 4,
+        "text": "Llegó antes de lo esperado y funciona perfecto."
+      },
+      {
+        "author": "Mateo",
+        "rating": 3,
+        "text": "Está bien por el precio."
+      },
+      {
+        "author": "Diego",
+        "rating": 5,
+        "text": "Estoy muy contento con la compra. Llegó con un raspón en la caja."
+      },
+      {
+        "author": "Felipe",
+        "rating": 5,
+        "text": "Súper fácil de usar y configurar."
+      },
+      {
+        "author": "Ana",
+        "rating": 4,
+        "text": "Buena duración de batería para el tamaño. La aplicación móvil es lenta y poco intuitiva."
+      },
+      {
+        "author": "Renata",
+        "rating": 3,
+        "text": "Es lo que se ve, ni más ni menos."
+      }
+    ]
+  },
+  {
+    "id": "p_109",
+    "title": "Pen drive 128GB USB 3.2",
+    "imageUrl": "http://localhost:9090/images/p_109.jpg",
+    "reviews": [
+      {
+        "author": "Nicolás",
+        "rating": 5,
+        "text": "Sonido nítido, sin distorsión."
+      },
+      {
+        "author": "Florencia",
+        "rating": 4,
+        "text": "Buena duración de batería para el tamaño."
+      },
+      {
+        "author": "Martín",
+        "rating": 4,
+        "text": "Re cómodo, ideal para uso diario."
+      },
+      {
+        "author": "Tomás",
+        "rating": 4,
+        "text": "Lo uso todos los días, súper práctico."
+      },
+      {
+        "author": "Pedro",
+        "rating": 1,
+        "text": "Hace ruido cuando se usa a máxima potencia."
+      },
+      {
+        "author": "Lucía",
+        "rating": 3,
+        "text": "Nada destacable, pero tampoco fallas graves."
+      },
+      {
+        "author": "Bruno",
+        "rating": 4,
+        "text": "Súper fácil de usar y configurar."
+      },
+      {
+        "author": "Ignacio",
+        "rating": 4,
+        "text": "Excelente calidad, lo recomiendo sin dudar."
+      }
+    ]
+  },
+  {
+    "id": "p_110",
+    "title": "Manguera extensible de jardín",
+    "imageUrl": "http://localhost:9090/images/p_110.jpg",
+    "reviews": [
+      {
+        "author": "Santino",
+        "rating": 4,
+        "text": "Estoy muy contento con la compra."
+      },
+      {
+        "author": "Benjamín",
+        "rating": 5,
+        "text": "Muy buena relación calidad-precio."
+      },
+      {
+        "author": "Lucía",
+        "rating": 5,
+        "text": "Súper fácil de usar y configurar. El botón se traba a veces."
+      },
+      {
+        "author": "Juan",
+        "rating": 4,
+        "text": "Muy buena terminación, sin defectos."
+      }
+    ]
+  },
+  {
+    "id": "p_111",
+    "title": "Botella deportiva con sorbete",
+    "imageUrl": "http://localhost:9090/images/p_111.jpg",
+    "reviews": [
+      {
+        "author": "Ana",
+        "rating": 5,
+        "text": "El acabado es impecable, se siente premium. Tarda demasiado en cargar."
+      },
+      {
+        "author": "Camila",
+        "rating": 1,
+        "text": "El cable es más corto de lo que muestra la foto."
+      },
+      {
+        "author": "María",
+        "rating": 3,
+        "text": "Cumple su función básica."
+      },
+      {
+        "author": "Benjamín",
+        "rating": 1,
+        "text": "Se calienta más de la cuenta."
+      },
+      {
+        "author": "Ignacio",
+        "rating": 5,
+        "text": "Estoy muy contento con la compra. El botón se traba a veces."
+      },
+      {
+        "author": "Felipe",
+        "rating": 5,
+        "text": "Diseño elegante y compacto."
+      },
+      {
+        "author": "Julieta",
+        "rating": 3,
+        "text": "Está bien por el precio."
+      },
+      {
+        "author": "Mateo",
+        "rating": 2,
+        "text": "Tarda demasiado en cargar."
+      },
+      {
+        "author": "Catalina",
+        "rating": 5,
+        "text": "Perfecto para regalar. Se calienta más de la cuenta."
+      },
+      {
+        "author": "Emma",
+        "rating": 2,
+        "text": "El botón se traba a veces."
+      },
+      {
+        "author": "Felipe",
+        "rating": 4,
+        "text": "Excelente atención post-venta también."
+      },
+      {
+        "author": "Sofía",
+        "rating": 4,
+        "text": "Diseño elegante y compacto."
+      }
+    ]
+  },
+  {
+    "id": "p_112",
+    "title": "Router Wi-Fi 6 doble banda",
+    "imageUrl": "http://localhost:9090/images/p_112.jpg",
+    "reviews": [
+      {
+        "author": "Federico",
+        "rating": 4,
+        "text": "Excelente calidad, lo recomiendo sin dudar. La batería dura menos de lo esperado."
+      },
+      {
+        "author": "Felipe",
+        "rating": 4,
+        "text": "Funciona tal como dice la descripción. El botón se traba a veces."
+      },
+      {
+        "author": "Catalina",
+        "rating": 4,
+        "text": "Llegó antes de lo esperado y funciona perfecto."
+      },
+      {
+        "author": "Lautaro",
+        "rating": 4,
+        "text": "Muy buena relación calidad-precio."
+      },
+      {
+        "author": "Diego",
+        "rating": 4,
+        "text": "Súper fácil de usar y configurar."
+      },
+      {
+        "author": "Juan",
+        "rating": 5,
+        "text": "Excelente atención post-venta también."
+      },
+      {
+        "author": "Sofía",
+        "rating": 5,
+        "text": "Mucho mejor que otras marcas que probé."
+      },
+      {
+        "author": "Agustina",
+        "rating": 4,
+        "text": "El acabado es impecable, se siente premium."
+      },
+      {
+        "author": "Tomás",
+        "rating": 5,
+        "text": "Estoy muy contento con la compra. El plástico se siente un poco endeble."
+      },
+      {
+        "author": "Diego",
+        "rating": 5,
+        "text": "Mucho mejor que otras marcas que probé. El manual viene en inglés solamente."
+      },
+      {
+        "author": "Ana",
+        "rating": 3,
+        "text": "Para el uso ocasional cumple."
+      },
+      {
+        "author": "María",
+        "rating": 4,
+        "text": "Diseño elegante y compacto."
+      }
+    ]
+  },
+  {
+    "id": "p_113",
+    "title": "Tablet 10 pulgadas Wi-Fi",
+    "imageUrl": "http://localhost:9090/images/p_113.jpg",
+    "reviews": [
+      {
+        "author": "Mateo",
+        "rating": 3,
+        "text": "Funciona ok, no es lo mejor del mercado."
+      },
+      {
+        "author": "Florencia",
+        "rating": 2,
+        "text": "El cable es más corto de lo que muestra la foto."
+      },
+      {
+        "author": "Valentina",
+        "rating": 4,
+        "text": "Material de primera, se nota la diferencia."
+      },
+      {
+        "author": "Renata",
+        "rating": 2,
+        "text": "Por el precio esperaba mejor calidad de imagen."
+      },
+      {
+        "author": "Lucía",
+        "rating": 5,
+        "text": "Re cómodo, ideal para uso diario. Hace ruido cuando se usa a máxima potencia."
+      },
+      {
+        "author": "Santino",
+        "rating": 4,
+        "text": "Excelente atención post-venta también."
+      },
+      {
+        "author": "Benjamín",
+        "rating": 4,
+        "text": "Funciona tal como dice la descripción."
+      },
+      {
+        "author": "Pedro",
+        "rating": 3,
+        "text": "Para el uso ocasional cumple."
+      },
+      {
+        "author": "Ana",
+        "rating": 2,
+        "text": "Pesa más de lo que pensaba."
+      },
+      {
+        "author": "María",
+        "rating": 3,
+        "text": "Cumple su función básica."
+      },
+      {
+        "author": "Benjamín",
+        "rating": 3,
+        "text": "Funciona ok, no es lo mejor del mercado."
+      },
+      {
+        "author": "Camila",
+        "rating": 3,
+        "text": "Nada destacable, pero tampoco fallas graves."
+      }
+    ]
+  },
+  {
+    "id": "p_114",
+    "title": "Riñonera deportiva impermeable",
+    "imageUrl": "http://localhost:9090/images/p_114.jpg",
+    "reviews": [
+      {
+        "author": "Ignacio",
+        "rating": 5,
+        "text": "Estoy muy contento con la compra."
+      },
+      {
+        "author": "Nicolás",
+        "rating": 2,
+        "text": "Los accesorios incluidos son básicos."
+      },
+      {
+        "author": "Tomás",
+        "rating": 3,
+        "text": "Nada destacable, pero tampoco fallas graves."
+      },
+      {
+        "author": "Santino",
+        "rating": 4,
+        "text": "Funciona tal como dice la descripción."
+      },
+      {
+        "author": "Emma",
+        "rating": 1,
+        "text": "Pesa más de lo que pensaba."
+      },
+      {
+        "author": "Federico",
+        "rating": 4,
+        "text": "Muy buena relación calidad-precio."
+      },
+      {
+        "author": "Florencia",
+        "rating": 4,
+        "text": "Estoy muy contento con la compra."
+      },
+      {
+        "author": "Valentina",
+        "rating": 3,
+        "text": "Lo recomendaría con reservas."
+      }
+    ]
+  },
+  {
+    "id": "p_115",
+    "title": "Set de herramientas 32 piezas",
+    "imageUrl": "http://localhost:9090/images/p_115.jpg",
+    "reviews": [
+      {
+        "author": "Julieta",
+        "rating": 5,
+        "text": "Llegó antes de lo esperado y funciona perfecto."
+      },
+      {
+        "author": "Joaquín",
+        "rating": 4,
+        "text": "Liviano y fácil de transportar. Pesa más de lo que pensaba."
+      },
+      {
+        "author": "Nicolás",
+        "rating": 1,
+        "text": "La batería dura menos de lo esperado."
+      },
+      {
+        "author": "Felipe",
+        "rating": 5,
+        "text": "Resistente y bien construido. Hace ruido cuando se usa a máxima potencia."
+      },
+      {
+        "author": "Martín",
+        "rating": 3,
+        "text": "Funciona ok, no es lo mejor del mercado."
+      },
+      {
+        "author": "Joaquín",
+        "rating": 4,
+        "text": "Súper fácil de usar y configurar."
+      },
+      {
+        "author": "María",
+        "rating": 2,
+        "text": "Llegó con un raspón en la caja."
+      },
+      {
+        "author": "Benjamín",
+        "rating": 3,
+        "text": "Es lo que se ve, ni más ni menos."
+      }
+    ]
+  },
+  {
+    "id": "p_116",
+    "title": "Cuadro decorativo abstracto",
+    "imageUrl": "http://localhost:9090/images/p_116.jpg",
+    "reviews": [
+      {
+        "author": "Emma",
+        "rating": 5,
+        "text": "Resistente y bien construido."
+      },
+      {
+        "author": "Juan",
+        "rating": 4,
+        "text": "Diseño elegante y compacto."
+      },
+      {
+        "author": "Olivia",
+        "rating": 4,
+        "text": "Sonido nítido, sin distorsión."
+      },
+      {
+        "author": "Isabella",
+        "rating": 2,
+        "text": "Por el precio esperaba mejor calidad de imagen."
+      },
+      {
+        "author": "Nicolás",
+        "rating": 1,
+        "text": "El soporte no fija bien al escritorio."
+      },
+      {
+        "author": "Federico",
+        "rating": 3,
+        "text": "Lo recomendaría con reservas."
+      },
+      {
+        "author": "Tomás",
+        "rating": 5,
+        "text": "Funciona tal como dice la descripción."
+      },
+      {
+        "author": "Ignacio",
+        "rating": 4,
+        "text": "Lo uso todos los días, súper práctico. El manual viene en inglés solamente."
+      }
+    ]
+  },
+  {
+    "id": "p_117",
+    "title": "Auriculares Bluetooth XS-200",
+    "imageUrl": "http://localhost:9090/images/p_117.jpg",
+    "reviews": [
+      {
+        "author": "Nicolás",
+        "rating": 4,
+        "text": "Llegó antes de lo esperado y funciona perfecto."
+      },
+      {
+        "author": "Camila",
+        "rating": 5,
+        "text": "Estoy muy contento con la compra."
+      },
+      {
+        "author": "Benjamín",
+        "rating": 4,
+        "text": "Muy buena relación calidad-precio. El soporte no fija bien al escritorio."
+      },
+      {
+        "author": "Ignacio",
+        "rating": 4,
+        "text": "Mucho mejor que otras marcas que probé."
+      },
+      {
+        "author": "Benjamín",
+        "rating": 2,
+        "text": "La aplicación móvil es lenta y poco intuitiva."
+      },
+      {
+        "author": "Felipe",
+        "rating": 5,
+        "text": "Resistente y bien construido. Por el precio esperaba mejor calidad de imagen."
+      },
+      {
+        "author": "Juan",
+        "rating": 4,
+        "text": "Excelente atención post-venta también."
+      }
+    ]
+  },
+  {
+    "id": "p_118",
+    "title": "Bomba de aire portátil",
+    "imageUrl": "http://localhost:9090/images/p_118.jpg",
+    "reviews": [
+      {
+        "author": "Mía",
+        "rating": 3,
+        "text": "Lo recomendaría con reservas."
+      },
+      {
+        "author": "Sofía",
+        "rating": 1,
+        "text": "La aplicación móvil es lenta y poco intuitiva."
+      }
+    ]
+  },
+  {
+    "id": "p_119",
+    "title": "Adaptador de viaje universal",
+    "imageUrl": "http://localhost:9090/images/p_119.jpg",
+    "reviews": [
+      {
+        "author": "Mateo",
+        "rating": 4,
+        "text": "Funciona tal como dice la descripción. Tarda demasiado en cargar."
+      },
+      {
+        "author": "Tomás",
+        "rating": 5,
+        "text": "Excelente calidad, lo recomiendo sin dudar. El botón se traba a veces."
+      },
+      {
+        "author": "Felipe",
+        "rating": 4,
+        "text": "Material de primera, se nota la diferencia."
+      },
+      {
+        "author": "Pedro",
+        "rating": 1,
+        "text": "El soporte no fija bien al escritorio."
+      },
+      {
+        "author": "Pedro",
+        "rating": 3,
+        "text": "Cumple su función básica."
+      },
+      {
+        "author": "Sofía",
+        "rating": 5,
+        "text": "Re cómodo, ideal para uso diario."
+      },
+      {
+        "author": "Lucía",
+        "rating": 5,
+        "text": "El acabado es impecable, se siente premium."
+      },
+      {
+        "author": "Ignacio",
+        "rating": 4,
+        "text": "Resistente y bien construido."
+      },
+      {
+        "author": "Ignacio",
+        "rating": 5,
+        "text": "Liviano y fácil de transportar."
+      },
+      {
+        "author": "Camila",
+        "rating": 3,
+        "text": "Está bien por el precio."
+      },
+      {
+        "author": "María",
+        "rating": 4,
+        "text": "El acabado es impecable, se siente premium. El soporte no fija bien al escritorio."
+      },
+      {
+        "author": "Julieta",
+        "rating": 5,
+        "text": "Material de primera, se nota la diferencia."
+      },
+      {
+        "author": "Pedro",
+        "rating": 4,
+        "text": "Excelente calidad, lo recomiendo sin dudar."
+      },
+      {
+        "author": "Emma",
+        "rating": 4,
+        "text": "Perfecto para regalar."
+      },
+      {
+        "author": "Martín",
+        "rating": 4,
+        "text": "Perfecto para regalar. La aplicación móvil es lenta y poco intuitiva."
+      },
+      {
+        "author": "Julieta",
+        "rating": 4,
+        "text": "Llegó antes de lo esperado y funciona perfecto. El plástico se siente un poco endeble."
+      },
+      {
+        "author": "Catalina",
+        "rating": 4,
+        "text": "El acabado es impecable, se siente premium."
+      },
+      {
+        "author": "Mía",
+        "rating": 4,
+        "text": "Re cómodo, ideal para uso diario."
+      },
+      {
+        "author": "Joaquín",
+        "rating": 5,
+        "text": "Resistente y bien construido. El botón se traba a veces."
+      },
+      {
+        "author": "Juan",
+        "rating": 2,
+        "text": "Por el precio esperaba mejor calidad de imagen."
+      }
+    ]
+  },
+  {
+    "id": "p_120",
+    "title": "Hub USB-C 7-en-1",
+    "imageUrl": "http://localhost:9090/images/p_120.jpg",
+    "reviews": [
+      {
+        "author": "Ana",
+        "rating": 5,
+        "text": "Excelente calidad, lo recomiendo sin dudar."
+      },
+      {
+        "author": "Julieta",
+        "rating": 4,
+        "text": "Diseño elegante y compacto."
+      },
+      {
+        "author": "Federico",
+        "rating": 2,
+        "text": "La batería dura menos de lo esperado."
+      },
+      {
+        "author": "Mía",
+        "rating": 4,
+        "text": "Muy buena terminación, sin defectos. El manual viene en inglés solamente."
+      },
+      {
+        "author": "Diego",
+        "rating": 5,
+        "text": "Estoy muy contento con la compra. El cable es más corto de lo que muestra la foto."
+      },
+      {
+        "author": "Lautaro",
+        "rating": 5,
+        "text": "Liviano y fácil de transportar. Se calienta más de la cuenta."
+      },
+      {
+        "author": "Federico",
+        "rating": 4,
+        "text": "Súper fácil de usar y configurar. Llegó con un raspón en la caja."
+      },
+      {
+        "author": "Lucía",
+        "rating": 3,
+        "text": "Para el uso ocasional cumple."
+      },
+      {
+        "author": "Felipe",
+        "rating": 3,
+        "text": "Es lo que se ve, ni más ni menos."
+      },
+      {
+        "author": "Catalina",
+        "rating": 4,
+        "text": "Muy buena relación calidad-precio."
+      },
+      {
+        "author": "Federico",
+        "rating": 1,
+        "text": "Hace ruido cuando se usa a máxima potencia."
+      },
+      {
+        "author": "Mía",
+        "rating": 4,
+        "text": "Material de primera, se nota la diferencia."
+      },
+      {
+        "author": "Benjamín",
+        "rating": 2,
+        "text": "El diseño no es tan moderno como en las fotos."
+      },
+      {
+        "author": "Emma",
+        "rating": 4,
+        "text": "Lo uso todos los días, súper práctico. El plástico se siente un poco endeble."
+      },
+      {
+        "author": "Santino",
+        "rating": 5,
+        "text": "Muy buena terminación, sin defectos."
+      }
+    ]
+  }
+]
