@@ -4,4 +4,4 @@
 
 // URL base del backend mock. Solo HTTP cuando el host es localhost (RNF-03).
 // Override en runtime: ProcessInfo.environment["BACKEND_BASE_URL"].
-BACKEND_BASE_URL = http:/$()/localhost:9090
+BACKEND_BASE_URL = https:/$()/mock.api/

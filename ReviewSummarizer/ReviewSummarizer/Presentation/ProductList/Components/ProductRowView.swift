@@ -32,8 +32,9 @@ struct ProductRowView: View {
     }
 
     private var thumbnail: some View {
-        ProductImageView(url: item.imageURL, cornerRadius: 8)
+        ProductImageView(url: item.imageURL)
             .frame(width: 64, height: 64)
+            .clipShape(RoundedRectangle(cornerRadius: 8))
             .accessibilityHidden(true)
     }
 }

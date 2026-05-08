@@ -34,9 +34,10 @@ struct ProductDetailView: View {
 
     private var header: some View {
         VStack(alignment: .leading, spacing: 12) {
-            ProductImageView(url: viewModel.product.imageURL, cornerRadius: 12)
-                .frame(height: 200)
+            ProductImageView(url: viewModel.product.imageURL)
+                .aspectRatio(1, contentMode: .fit)
                 .frame(maxWidth: .infinity)
+                .clipShape(RoundedRectangle(cornerRadius: 12))
                 .accessibilityLabel(Text("a11y.product_image \(viewModel.product.title)"))
 
             Text(viewModel.product.title)

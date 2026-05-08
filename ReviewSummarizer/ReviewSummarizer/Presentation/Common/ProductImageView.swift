@@ -5,18 +5,17 @@ import SwiftUI
 ///
 /// Usa `AsyncImage` con `AsyncImagePhase` explícito para diferenciar:
 /// - `.empty`: spinner sobre placeholder mientras descarga.
-/// - `.success`: imagen renderizada.
+/// - `.success`: imagen renderizada con `scaledToFill`.
 /// - `.failure`: placeholder estático (CA-RF-02 actualizado).
+///
+/// **Importante**: el componente NO aplica `.frame(...)` ni `.clipShape(...)`.
+/// El caller debe encadenar primero `.frame(...)` y luego `.clipShape(...)`
+/// — en ese orden — para que `scaledToFill` quede acotado al frame y no
+/// desborde el layout circundante.
 ///
 /// La caché HTTP la maneja `URLSession.shared.URLCache` (RF-17, plan §10.5).
 struct ProductImageView: View {
     let url: URL?
-    let cornerRadius: CGFloat
-
-    init(url: URL?, cornerRadius: CGFloat = 8) {
-        self.url = url
-        self.cornerRadius = cornerRadius
-    }
 
     var body: some View {
         AsyncImage(url: url) { phase in
@@ -33,12 +32,12 @@ struct ProductImageView: View {
                 placeholder
             }
         }
-        .clipShape(RoundedRectangle(cornerRadius: cornerRadius))
     }
 
     private var placeholder: some View {
-        RoundedRectangle(cornerRadius: cornerRadius)
-            .fill(Color.secondary.opacity(0.15))
+        // Sin RoundedRectangle propio: el caller aplica `.clipShape` después
+        // del `.frame`, y eso recorta también el placeholder.
+        Color.secondary.opacity(0.15)
             .overlay {
                 Image(systemName: "photo")
                     .foregroundStyle(.secondary)
@@ -51,6 +50,7 @@ struct ProductImageView: View {
 #Preview("URL Picsum válida → .success") {
     ProductImageView(url: URL(string: "https://picsum.photos/seed/preview/200/200"))
         .frame(width: 120, height: 120)
+        .clipShape(RoundedRectangle(cornerRadius: 8))
         .padding()
 }
 
@@ -58,11 +58,13 @@ struct ProductImageView: View {
     // Path inexistente bajo el dominio Picsum.
     ProductImageView(url: URL(string: "https://picsum.photos/notfound/x"))
         .frame(width: 120, height: 120)
+        .clipShape(RoundedRectangle(cornerRadius: 8))
         .padding()
 }
 
 #Preview("URL nil → .empty → placeholder") {
     ProductImageView(url: nil)
         .frame(width: 120, height: 120)
+        .clipShape(RoundedRectangle(cornerRadius: 8))
         .padding()
 }
