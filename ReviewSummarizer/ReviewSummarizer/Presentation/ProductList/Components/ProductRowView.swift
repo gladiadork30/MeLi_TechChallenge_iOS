@@ -31,43 +31,20 @@ struct ProductRowView: View {
         .accessibilityElement(children: .combine)
     }
 
-    @ViewBuilder
     private var thumbnail: some View {
-        AsyncImage(url: item.imageURL) { phase in
-            switch phase {
-            case .success(let image):
-                image
-                    .resizable()
-                    .scaledToFill()
-            case .empty:
-                placeholder
-                    .overlay(ProgressView())
-            case .failure:
-                placeholder
-            @unknown default:
-                placeholder
-            }
-        }
-        .frame(width: 64, height: 64)
-        .clipShape(RoundedRectangle(cornerRadius: 8))
-        .accessibilityHidden(true)
-    }
-
-    private var placeholder: some View {
-        RoundedRectangle(cornerRadius: 8)
-            .fill(Color.secondary.opacity(0.15))
-            .overlay {
-                Image(systemName: "photo")
-                    .foregroundStyle(.secondary)
-            }
+        ProductImageView(url: item.imageURL, cornerRadius: 8)
+            .frame(width: 64, height: 64)
+            .accessibilityHidden(true)
     }
 }
 
-#Preview("Con resumen y rating") {
+// MARK: - Previews (RF-17: cubrir los 3 casos del AsyncImagePhase)
+
+#Preview("URL Picsum válida + cached summary") {
     ProductRowView(item: .init(
         id: "p1",
         title: "Auriculares Bluetooth XS-200",
-        imageURL: nil,
+        imageURL: URL(string: "https://picsum.photos/seed/p_001/200/200"),
         reviewCount: 18,
         ratingDisplay: .value("4.3"),
         hasCachedSummary: true
@@ -75,9 +52,22 @@ struct ProductRowView: View {
     .padding()
 }
 
-#Preview("Sin reviews") {
+#Preview("URL inválida → placeholder por .failure") {
+    // Path inexistente bajo el dominio Picsum: dispara .failure tras el GET.
     ProductRowView(item: .init(
         id: "p2",
+        title: "Producto con URL rota",
+        imageURL: URL(string: "https://picsum.photos/notfound/no-existe"),
+        reviewCount: 8,
+        ratingDisplay: .value("3.5"),
+        hasCachedSummary: false
+    ))
+    .padding()
+}
+
+#Preview("Sin URL (nil) → placeholder por .empty") {
+    ProductRowView(item: .init(
+        id: "p3",
         title: "Soporte ergonómico para notebook",
         imageURL: nil,
         reviewCount: 0,

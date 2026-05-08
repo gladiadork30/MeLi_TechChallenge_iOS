@@ -6,7 +6,7 @@ Las tareas T-140 (mock JSON) y la documentación de los pasos manuales (T-141..T
 
 ---
 
-## T-140 — Mock JSON ✅ generado
+## T-140 — Mock JSON ✅ generado (v1.1: imágenes Picsum + URL rota)
 
 `products.json` (120 productos) generado por `generate_products.py` con seed determinista. Cubre boundaries:
 
@@ -17,6 +17,11 @@ Las tareas T-140 (mock JSON) y la documentación de los pasos manuales (T-141..T
 | 6 reviews (CA-RF-05 habilitado) | 5 |
 | 20 reviews (tope superior) | 14 |
 | `> 5` reviews totales | 93 |
+
+**Imágenes (RF-17 v1.1)**:
+- 119 productos con `imageUrl` → `https://picsum.photos/seed/{id}/400/400` (HTTPS, seed determinista por id).
+- **1 producto deliberadamente con URL rota: `p_008`** → `https://picsum.photos/notfound/p_008`. Se usa para validar el fallback en T-148 (la celda debe mostrar placeholder y mantener el resto del contenido visible — `p_008` tiene 7 reviews, así que también verifica que el botón "Generar resumen" sigue habilitable).
+- 0 imágenes con HTTP (todas HTTPS, sin tocar ATS — RNF-03 + RF-17).
 
 Para regenerar con otro seed o agregar productos: editar `RNG_SEED` o `PRODUCT_TITLES` y correr `python3 generate_products.py`.
 
@@ -36,7 +41,7 @@ curl http://localhost:9090/products | python3 -c "import sys, json; print(len(js
 # Debe imprimir 120.
 ```
 
-> **Imágenes**: el JSON apunta a `http://localhost:9090/images/p_001.jpg`. Para el smoke E2E completo se puede agregar una segunda regla en Proxyman que sirva una imagen estática para `/images/*`. Para el MVP, la app muestra placeholder cuando la imagen no carga (ver `ProductRowView.placeholder`); el test sigue siendo válido sin esa regla.
+> **Imágenes (RF-17 v1.1)**: las `imageUrl` apuntan a Picsum (`https://picsum.photos/seed/...`), un repositorio público externo HTTPS. **El mock NO sirve binarios de imágenes** — solo provee URLs como strings. La app descarga las imágenes directamente contra Picsum. Para Proxyman alcanza con la regla `GET /products`. Si querés inspeccionar el tráfico de imágenes (T-144), agregá `picsum.photos` a la lista de hosts capturados — son GETs HTTPS anónimos sin PII.
 
 ---
 
@@ -115,6 +120,20 @@ curl http://localhost:9090/products | python3 -c "import sys, json; print(len(js
 
 ---
 
+## T-148 — Fallback de imagen (RF-17 / CA-RF-02 v1.1) `[NUEVA v1.1]`
+
+**Pre**: app instalada, lista cargada con 120 productos.
+
+| Escenario | Esperado | ✓ |
+|---|---|---|
+| 1. Encontrar el producto `p_008` (URL rota sembrada en T-140) en la lista | Celda muestra placeholder de imagen (icono `photo`), pero título, rating, conteo de reviews y, si aplica, indicador de resumen, se ven correctos |  |
+| 2. Tap en `p_008` | Header del detalle muestra placeholder de imagen (más grande), el resto del detalle renderiza normal. Botón "Generar resumen" disponible (`p_008` tiene 7 reviews) |  |
+| 3. **Sin conectividad a Picsum**: tras cargar la lista, deshabilitar red en simulador (Hardware → Network Link Conditioner = 100% Loss) o bloquear `picsum.photos` en Proxyman | Celdas ya cacheadas siguen mostrando imagen; celdas nuevas (al scrollear) muestran placeholder. La app no muestra estado de error global ni crashea |  |
+
+**Capturas**: adjuntar screenshot de cada escenario.
+
+---
+
 ## T-147 — Cambio de URL base (CA-RF-01)
 
 **Vía xcconfig** (relanzar app):
@@ -148,3 +167,4 @@ Marcar este checklist al final de la fase:
 - [ ] T-145: Captura del fallback con copy correcto
 - [ ] T-146: Logs `os.Logger.ai` sin upsert post-cancellation
 - [ ] T-147: xcconfig + launch argument funcionan independientemente
+- [ ] T-148: 3 capturas de fallback de imagen (URL rota, sin red, detalle con placeholder)
