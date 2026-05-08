@@ -37,7 +37,7 @@ Video corto (1–2 min) mostrando el flujo principal: lista → detalle → gene
 | **Swift** | 6.0 (strict concurrency) |
 | **Simulador** | iPhone 17 (recomendado) o cualquier iPhone con runtime iOS 26.4 |
 | **Device físico** | Cualquier iPhone compatible con **Apple Intelligence** habilitado, para validar la generación AI on-device. En simuladores donde Foundation Models no esté disponible la app degrada con copy claro (RF-12). |
-| **Proxyman** | Para servir el mock REST en `http://localhost:9090` |
+| **Proxyman** | Para mapear `http://mock.api` al `products.json` local mediante **Map Local**. Requiere certificados de Proxyman instalados (ver más abajo). |
 
 Sin dependencias externas (SPM, CocoaPods, Carthage). Todo nativo: SwiftUI, SwiftData, Foundation Models, URLSession, `os.Logger`, Swift Testing.
 
@@ -66,20 +66,45 @@ Para correr en device físico: en Xcode → Target → Signing → seleccionar t
 
 ## Configurar el mock con Proxyman
 
-El backend se simula con un Local Mock Server de Proxyman.
+El backend se simula mapeando `http://mock.api/products` al archivo local `products.json` mediante la feature **Map Local** de Proxyman.
 
-1. Instalar Proxyman: <https://proxyman.com>
-2. Tools → Local Mock Server → New Mock Server
-3. Crear ruta `GET /products` → Response Body → seleccionar `ReviewSummarizer/Mocks/products.json` (120 productos generados deterministícamente; ver [`Mocks/README_QA.md`](ReviewSummarizer/Mocks/README_QA.md))
-4. Configurar puerto **9090** (matchea `BACKEND_BASE_URL`)
-5. Iniciar el mock server
+### 1. Instalar Proxyman y los certificados
 
-**Verificación rápida**:
+Instalar Proxyman: <https://proxyman.com>.
 
-```bash
-curl http://localhost:9090/products | python3 -c "import sys, json; print(len(json.load(sys.stdin)))"
-# Debe imprimir 120
-```
+Para que Proxyman pueda interceptar tráfico (incluyendo HTTPS y dominios custom como `mock.api`), hay que instalar y confiar sus certificados raíz:
+
+**En la Mac:**
+- Proxyman → menú **Certificate** → **Install Certificate on this Mac** → seguir el asistente.
+- Verificar que el certificado quede como **trusted** en Keychain Access (System keychain → category Certificates → buscar "Proxyman" → Trust → "Always Trust").
+
+**En el simulador iOS:**
+- Proxyman → menú **Certificate** → **Install Certificate on iOS** → **Simulators** → seguir el asistente (instala automáticamente en todos los simuladores corriendo).
+- En el simulador: **Settings → General → About → Certificate Trust Settings** → habilitar el certificado de Proxyman.
+
+**En un device físico iOS** (necesario para T-143/T-145 con AI on-device):
+- Proxyman → **Certificate** → **Install Certificate on iOS** → **Physical Devices** → seguir las instrucciones (descargar perfil desde Safari del device, instalarlo en **Settings → General → VPN & Device Management**).
+- Después: **Settings → General → About → Certificate Trust Settings** → habilitar el certificado.
+
+> Sin estos certificados, Proxyman no puede resolver `mock.api` ni interceptar HTTPS — la app va a fallar silenciosamente con errores de red.
+
+### 2. Configurar Map Local
+
+1. Tools → **Map Local** → **+** (nueva regla).
+2. Configurar la regla:
+   - **Enable**: ✅
+   - **URL**: `http://mock.api/products` (matchea `BACKEND_BASE_URL`).
+   - **Method**: `GET`.
+   - **Local File / Path**: `ReviewSummarizer/Mocks/products.json` (120 productos generados deterministícamente; ver [`Mocks/README_QA.md`](ReviewSummarizer/Mocks/README_QA.md)).
+   - **Status code**: `200`.
+   - **Content-Type**: `application/json` (o dejar auto).
+3. Guardar la regla y verificar que aparezca como **Enabled**.
+
+### 3. Verificación
+
+Con Proxyman corriendo, los requests HTTP/HTTPS del simulador o device se redirigen al `products.json`. La app no necesita conocer `localhost`: pide `http://mock.api/products` y Proxyman intercepta.
+
+> **Si vas a usar HTTP** para `mock.api` (no HTTPS), recordá agregar la entrada correspondiente en `Info.plist → NSExceptionDomains` (la app ya tiene la excepción para `localhost`; agregar `mock.api` con la misma estructura). Si usás HTTPS, los certificados de Proxyman ya cubren la confianza.
 
 Para regenerar el mock con otra distribución:
 
@@ -100,7 +125,7 @@ Xcode → **Edit Scheme** → **Run** → **Arguments** → **Environment Variab
 
 | Key | Value |
 |---|---|
-| `BACKEND_BASE_URL` | `http://localhost:9090` |
+| `BACKEND_BASE_URL` | `http://mock.api` |
 
 Cmd+R para correr. Esto sobreescribe el valor del `Info.plist` en runtime.
 
@@ -109,7 +134,7 @@ Cmd+R para correr. Esto sobreescribe el valor del `Info.plist` en runtime.
 Editar `ReviewSummarizer/ReviewSummarizer/Config/Debug.xcconfig`:
 
 ```
-BACKEND_BASE_URL = http:/$()/localhost:9090
+BACKEND_BASE_URL = http:/$()/mock.api
 ```
 
 > El `$()` es un escape para que el `//` no sea interpretado como comentario por el parser de xcconfig.
@@ -118,7 +143,7 @@ Relanzar la app. La nueva URL queda inyectada en `Info.plist → BackendBaseURL`
 
 ### 3. Restricciones (RNF-03)
 
-ATS solo permite **HTTP** cuando el host es `localhost`. Cualquier otro host **debe** ser HTTPS o ser rechazado por el sistema. Esto es intencional. La app NO modifica `NSExceptionDomains` para nada que no sea `localhost`.
+ATS por defecto bloquea HTTP. La app provee excepciones explícitas en `Info.plist → NSExceptionDomains` para los hosts de mock que correspondan (`localhost` para el setup original; agregar `mock.api` si se usa HTTP en lugar de HTTPS). Cualquier otro host externo **debe** ser HTTPS — esto es intencional y es lo que protege RNF-02.
 
 ---
 
@@ -202,7 +227,7 @@ La app realiza dos canales de tráfico claramente diferenciados (RNF-02):
 
 | Canal | Hosts | Datos | Cuándo |
 |---|---|---|---|
-| **Datos del catálogo** | `localhost:9090` (mock) | `GET /products` con productos + reviews + URLs de imagen | Una vez al iniciar y en cada pull-to-refresh |
+| **Datos del catálogo** | `mock.api` (interceptado por Proxyman → `products.json` local) | `GET /products` con productos + reviews + URLs de imagen | Una vez al iniciar y en cada pull-to-refresh |
 | **Imágenes externas** | `picsum.photos` (HTTPS) | `GET` anónimos, sin headers de auth, sin cookies | Al cargar/scrollear celdas que necesitan imagen |
 | **AI on-device** | Ningún host | Inferencia local con Foundation Models | Al tap "Generar / Regenerar resumen" |
 
