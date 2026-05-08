@@ -5,25 +5,25 @@
 **Documentos base:** `spec.md` v1.2, `plan.md` v1.1
 **Convención:** Cada tarea es atómica (≤ 30 min), con criterio de _hecho_ verificable y dependencias explícitas. Las referencias `RF-xx`, `RNF-xx`, `RN-xx`, `CA-xx`, `S-xx` apuntan al `spec.md`. Las referencias `§x.x` apuntan al `plan.md`.
 
-## Estado de ejecución (actualizado 2026-05-08, post-rebase v1.1)
+## Estado de ejecución (actualizado 2026-05-08, post-rebase v1.1 cerrado)
 
 | Fase | Estado | Notas |
 |---|---|---|
 | Fase 0 — Setup | ✅ completa | T-001..T-006 |
-| Fase 1 — Core / Config | 🔄 reabierta T-011 | T-010, T-012..T-014 ✅. T-011 `[REABRIR]` por RF-17. |
+| Fase 1 — Core / Config | ✅ completa | T-010..T-014. T-011 cerrado tras verificación v1.1. |
 | Fase 2 — Dominio | ✅ completa | T-020..T-032 (sin impacto v1.1) |
 | Fase 3 — Data Networking | ✅ completa | T-040..T-046 (sin impacto v1.1) |
 | Fase 4 — Data Persistencia | ✅ completa | T-050..T-053 |
 | Fase 5 — Data AI on-device | ✅ completa | T-060..T-069 |
 | Fase 6 — Composition Root | ✅ completa | T-070, T-071 |
 | Fase 7 — Componentes comunes | ✅ completa | T-072..T-074 |
-| Fase 8 — Lista de productos | 🔄 reabierta T-084 | T-080..T-083, T-085..T-086 ✅. T-084 `[REABRIR]` por RF-17. |
-| Fase 9 — Detalle de producto | 🔄 reabierta T-094 | T-090..T-093, T-095..T-098 ✅. T-094 `[REABRIR]` por RF-17. |
+| Fase 8 — Lista de productos | ✅ completa | T-080..T-086. T-084 cerrado v1.1 con `ProductImageView` compartido. |
+| Fase 9 — Detalle de producto | ✅ completa | T-090..T-098. T-094 cerrado v1.1 reusando `ProductImageView`. |
 | Fase 10 — i18n + a11y | ✅ completa | T-100..T-102 |
 | Fase 11 — Tests dominio | ✅ completa | T-110..T-115 (16 tests) |
 | Fase 12 — Tests data | ✅ completa | T-120..T-123 (18 tests) |
 | Fase 13 — Tests presentation | ✅ completa | T-130..T-134 (14 tests) |
-| Fase 14 — Mock + QA | 🔄 reabierta T-140 + ampliada | T-140 `[REABRIR]` por RF-17. T-141..T-147 pendientes. **T-148 nueva**. |
+| Fase 14 — Mock + QA | 🟡 parcial | T-140 ✅ (Picsum + URL rota). T-148 documentado. T-141..T-147 + ejecución de T-148 pendientes (manual con Proxyman + device). |
 | Fase 15 — Entregables | ⏳ pendiente | T-150 `[REVISAR]` por RF-17. T-151..T-153 sin cambios. |
 
 **Tests pasando:** 51 / 51 (Swift Testing). El rebase a v1.1 **no afecta la suite de tests**: ningún cambio toca dominio, data ni viewmodels (la capa de presentación afectada solo modifica el render del control `AsyncImage`, que no está cubierto por tests). **Build target:** iPhone 17 / iOS 26.4.
@@ -125,7 +125,7 @@ Sincronización con `spec.md` v1.2 (RF-17, S-13, RNF-02 actualizados) y `plan.md
   - **Hecho:** Build setting `BACKEND_BASE_URL` aparece resuelto en Build Settings.
   - **Depende de:** T-001
 
-- [ ] **T-011 — Configurar `Info.plist` con `BackendBaseURL` y ATS** `[REABRIR]`
+- [x] **T-011 — Configurar `Info.plist` con `BackendBaseURL` y ATS** `[REABRIR cerrado v1.1]`
   - **Acción:** Añadir clave `BackendBaseURL = $(BACKEND_BASE_URL)` y bloque `NSAppTransportSecurity > NSExceptionDomains > localhost > NSExceptionAllowsInsecureHTTPLoads = YES` (RNF-03).
   - **Hecho:** Lectura `Bundle.main.object(forInfoDictionaryKey: "BackendBaseURL")` devuelve la URL en runtime.
   - **Depende de:** T-010
@@ -393,7 +393,7 @@ Sincronización con `spec.md` v1.2 (RF-17, S-13, RNF-02 actualizados) y `plan.md
   - **Hecho:** Preview cubre ambos casos.
   - **Depende de:** T-080
 
-- [ ] **T-084 — `ProductRowView`** `[REABRIR]`
+- [x] **T-084 — `ProductRowView`** `[REABRIR cerrado v1.1]`
   - **Acción:** `Presentation/ProductList/Components/ProductRowView.swift`. Imagen (`AsyncImage` con placeholder), título, rating badge, cantidad de reviews, indicador "tiene resumen" (badge/ícono — S-14).
   - **Hecho:** Preview con `hasCachedSummary = true` y `false`.
   - **Depende de:** T-080, T-083
@@ -449,7 +449,7 @@ Sincronización con `spec.md` v1.2 (RF-17, S-13, RNF-02 actualizados) y `plan.md
   - **Hecho:** En error, `summaryState == .error`; `lastKnownSummary` intacto.
   - **Depende de:** T-092
 
-- [ ] **T-094 — `ProductDetailView` (esqueleto)** `[REABRIR]`
+- [x] **T-094 — `ProductDetailView` (esqueleto)** `[REABRIR cerrado v1.1]`
   - **Acción:** `Presentation/ProductDetail/ProductDetailView.swift`. Header con imagen, título, rating, total de reviews. Lista de reviews **en el orden del servicio** (S-15).
   - **Hecho:** Preview con `Product.fixture()`.
   - **Depende de:** T-091
@@ -585,7 +585,7 @@ Sincronización con `spec.md` v1.2 (RF-17, S-13, RNF-02 actualizados) y `plan.md
 
 ## Fase 14 — Mock y verificación QA
 
-- [ ] **T-140 — JSON mock con 100+ productos** `[REABRIR]`
+- [x] **T-140 — JSON mock con 100+ productos** `[REABRIR cerrado v1.1]`
   - **Acción:** `Resources/Mocks/products.json` con 100+ productos, cada uno con 0–20 reviews, `rating ∈ 1...5`, autores, textos en español. Mezcla intencional: algunos con 0, 5, 6, 20 reviews para cubrir umbrales.
   - **Hecho:** JSON válido; al menos 5 productos con > 5 reviews.
   - **Depende de:** —
